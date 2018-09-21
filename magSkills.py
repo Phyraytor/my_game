@@ -4,7 +4,6 @@ import classSkill
 ''' Create Magic Arrow'''
 cast_bonus = {}
 def finish(name: str, damage: float) -> dict:
-
     def kill_shield(damage: float) -> dict:
         result = {'target': {}}
         result['target']['hit'] = {'name': 'frost shiled',

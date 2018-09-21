@@ -257,7 +257,7 @@ class Person:
         active_skills = []
         for skill in self.skills[:-1]:
             if skill.time_active <= self.stats['time']:
-                active_skills.push(skill)
+                active_skills.append(skill)
 
         #Активируем случайный из них
         if active_skills != []:
