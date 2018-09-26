@@ -1,7 +1,7 @@
 class Skill:
 
     def __init__(self, name: str,  cast: float, coldown: float,
-                 bonus: dict, finish, mult: float=0, repeat:int=0) -> None:
+                 finish, lvl, bonus: dict={}, mult: float=0, repeat:int=0) -> None:
         self.name = name
         self.mult = mult
         self.cast = cast
@@ -12,6 +12,7 @@ class Skill:
         self.repeat = repeat
         self.bonus = bonus
         self.finish_effect = finish
+        self.lvl = lvl
 
     def get_time(self) -> float:
         return self.time_active
@@ -26,9 +27,14 @@ class Skill:
         self.active = False
         if not self.repeat:
             self.time_active = self.coldown + time
+            print(self.name, "time active", round(self.time_active, 2) )
         result = {}
         result = self.finish_effect(self.name, my_damage * self.mult)
         result['end'] = self.bonus
         return result
 
+    def __str__(self):
+        return self.name
 
+    def __repr__(self):
+        return self.name

@@ -49,7 +49,7 @@ class HeapTime:
     def change(self, name:str, stats: dict) -> None:
         i = self.search(name)
         if i < 0: return
-        print("stats = ", stats)
+        #print("stats = ", stats)
         for k in stats:
             self.heap[i][k] = stats[k]
 

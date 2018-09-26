@@ -51,6 +51,7 @@ class Person:
         self.name = name
         self.lvl = 0
         self.exp = 0
+        self.exp_to_lvl = 100
         self.cast = False
         self.skills = []
         self.active = True
@@ -71,6 +72,28 @@ class Person:
         self.times = heapTime.HeapTime()  # Порядок выполнения действий
         self.times.add(self.stats)
         self.SPECIAL_KEY = ('type', 'time', 'name', 'category')
+        self.LVL_STATS = ('defense', 'resistance', 'damage', 'chance_krit', 'precision', 'evasion')
+
+    def lvlup(self, lvl:int=1) -> None:
+        for i in range(lvl):
+            print(self.name, "LVL UP!!!")
+            self.exp_to_lvl *= 1.8
+            self.lvl += 1
+            for key_stat in self.LVL_STATS:
+                self.stats[key_stat] = round(self.stats[key_stat] * 1.1)
+
+            for skill in self.skills:
+                skill.coldown = round(skill.coldown * 1.1, 1)
+                #print(skill.name, skill.coldown)
+
+            self.max_hitpoint = round(self.max_hitpoint * 1.1)
+            self.stats['hitpoint'] = self.max_hitpoint
+
+    def get_exp(self, amount_exp):
+        self.exp += amount_exp
+        while self.exp >= self.exp_to_lvl:
+            self.exp -= self.exp_to_lvl
+            self.lvlup()
 
     def live(self) -> bool:
         if not self.stats['hitpoint'] > 0: self.events['die'] = True
@@ -181,9 +204,11 @@ class Person:
                 self.stats[key] -= value
 
     def cast_bonus(self, bonus: dict, end: bool=False) -> None:
+
         for key, value in bonus.items():
             if end: value = -value
-            self.stats[key] += value
+            if not key in self.SPECIAL_KEY:
+                self.stats[key] += value
 
     def daze(self, daze_time: float) -> None:
         print(self.name, "was time", round(self.stats['time'], 2) )
@@ -196,12 +221,14 @@ class Person:
             self.cast = False
             for skill in self.skills:
                 if skill.active:
-                    self.skill.repeat = 0
+                    skill.repeat = 0
                     finish = skill.finish(this_time)
-                    self.skill.repeat = self.skill.start_repeat
-                    #Наверное, стоило как-то поменять метод open_resul, но пока и так сойдёт
+                    skill.repeat = skill.start_repeat
+                    #Наверное, стоило как-то поменять метод open_result, но пока и так сойдёт
+                    #Дублирование кода ведёт к дублированию багов!
                     if 'end' in finish:
-                        self.cast_bonus(skill.start(self.stats['time']), end=True)
+                        self.cast_bonus(finish['end'], end=True)
+
                     self.stats['time'] = this_time
                     self.times.change('stats', {'time': self.stats['time']})
                     print(self.name, "stop cast", skill.name)
@@ -212,6 +239,7 @@ class Person:
         self.daze(fall_time)
 
     def open_result(self, result: dict, skill: object={}) -> dict:
+
         if 'self' in result:
             for arg_skill in result['self']:
                 func = arg_skill['func']
@@ -219,7 +247,8 @@ class Person:
                 func(arg_skill)
 
         if 'end' in result:
-            self.cast_bonus(skill.start(), end=True)
+            self.cast_bonus(result['end'], end=True)
+
         if 'target' in result:
             result['target']['precision'] = self.stats['precision']
             return result['target']
@@ -228,8 +257,12 @@ class Person:
     def start_skill(self, skill: object) -> None:
         self.cast = True
         print(self.name, 'cast', skill.name)
-        self.cast_bonus( skill.start() )
-        self.stats['time'] += (skill.cast * self.stats['speed_cast'])
+
+        self.cast_bonus( skill.start() ) #Здесь БАГ!!! Вроде исправил
+        #print("DEBUG_TIME = ", self.stats['time'])
+        self.stats['time'] += round(skill.cast * self.stats['speed_cast'], 2) #Тут всё в норме, ошибка в выводе времени
+        #print("DEBUG = ", skill.cast * self.stats['speed_cast'] )
+        #print("DEBUG_TIME = ", self.stats['time'])
         self.times.add(self.stats)
 
     def finish_skill(self, skill: object) -> dict:
@@ -237,8 +270,11 @@ class Person:
         print(self.name, 'activate', skill.name)
         self.times.add(self.stats)
         result = skill.finish(self.stats['time'], self.attack() )
+
         if skill.repeat > 0:
             skill.repeat -= 1
+            self.times.pop() #Исправить эту фигню. Перенести добавление в heap в else
+            # я пока не готов к новым багам, потому отложил на потом
             self.start_skill(skill)
         else:
             skill.repeat = skill.start_repeat
@@ -247,26 +283,31 @@ class Person:
     def activate_skill(self) -> dict:
         """Если конец активации"""
         if self.cast:
+            #for skill in self.skills:
+               #print("DEBUG = ", skill.name, skill.active)
+
             for skill in self.skills:
                 if skill.active:
                     return self.finish_skill(skill)
 
-        #Поиск активных скилов
+
         if len(self.skills) == 1: return self.start_skill(self.skills[0])
+        # Поиск активных скилов
 
         active_skills = []
-        for skill in self.skills[:-1]:
-            if skill.time_active <= self.stats['time']:
+        for skill in self.skills[1:]:
+            if skill.time_active <= self.stats['time'] and skill.lvl <= self.lvl:
                 active_skills.append(skill)
 
         #Активируем случайный из них
         if active_skills != []:
             myIndex = random.randint(0, len(active_skills) - 1)
             skill = active_skills[myIndex]
+
             return self.start_skill(skill)
 
         #Если все скилы в откате - автоатака
-        return self.start_skill(self.skills[-1])
+        return self.start_skill(self.skills[0])
 
     def activate(self) -> dict:
         step = self.times.pop()
