@@ -4,12 +4,13 @@ class Mag(person.Person):
 
     def __init__(self, name: str) -> None:
         super().__init__(name)
-        self.max_hitpoint = 1000
+        self.max_hitpoint = 2000
         self.stats['defense'] = 500
         self.stats['resistance'] = 1500
         self.stats['damage'] = 500
         self.stats['hitpoint'] = self.max_hitpoint
         self.stats['chance_krit'] = 79
+        self.stats['damage_krit'] = 10
         self.stats['precision'] = 10
         self.stats['evasion'] = 20
 
@@ -72,9 +73,9 @@ class Mag(person.Person):
 
             return result
 
-        magic_arrow = person.classSkill.Skill(name='Magic arrow', cast=0.5, coldown=0, lvl=0, finish=finish, mult=0.2)
+        magic_arrow = person.classSkill.Skill(name='Magic arrow', cast=0.8, coldown=0, lvl=0, finish=finish, mult=0.2)
         self.skills.append(magic_arrow)
-
+    """
         '''--------------------------------------*********------------------------------------'''
         '''--------------**********--------------Fire ball-------------**********-------------'''
         '''--------------------------------------*********------------------------------------'''
@@ -251,7 +252,7 @@ class Mag(person.Person):
             return result
 
         Fire_wall = person.classSkill.Skill(name='Fire wall', cast=0.9, coldown=3.5, lvl=8, finish=finish, mult=0.7, bonus=cast_bonus)
-        self.skills.append(Fire_wall)
+        self.skills.append(Fire_wall)"""
 
 
 

@@ -26,21 +26,25 @@ class Person:
 
     def chance_krit(self) -> int:
         K = 1000.0
-        #print("chanse krit =", round( (K / 10) * (1 - K / (self.stats['chance_krit'] + K) ) ), "%" )
-        return round( K * (1 - K / (self.stats['chance_krit'] + K) ) )
+        #print(self.name, "chanse krit =", round( K * (1 - K / (self.stats['chance_krit'] + K) ) / 10 ), "%" )
+        return round( K * (1 - K / (self.stats['chance_krit'] + K) ) / 10 )
+
+    @staticmethod
+    def krit_damage(x:int) -> float:
+        return (4 * (x ** 1.3) + 2 * x + 0.5) / ((x ** 1.3) + 9 * x + 1)
 
     def krit_strike(self) -> int:
         mult_damage = 1
         if random.randint(0, 100) <= self.chance_krit():
             print('Krit!')
             self.events['krit'] = True
-            mult_damage += self.stats['damage_krit']
+            mult_damage += self.krit_damage( self.stats['damage_krit'] )
         return mult_damage
 
     def chance_evasion(self, precision: int) -> int:
-        K = 27.0 #Коэффициент размерности уворота
-        #print("chanse evasion =", round(K * evalation /( (K + evalation) + (K + precision) ), 2 ), "%")
-        return round(K * self.stats['evasion'] / ( (K + self.stats['evasion'] + (K + precision) ) ) )
+        K = 21.0 #Коэффициент размерности уворота
+        #print(self.name, "chanse evasion =", round(K * self.stats['evasion'] / ( (K + self.stats['evasion'] + (K + precision) ) ) / 3 ), "%")
+        return round(K * self.stats['evasion'] / ( (K + self.stats['evasion'] + (K + precision) ) ) / 3)
 
     def evasion(self, precision: int) -> bool:
         return random.randint(0, 100) <= self.chance_evasion(precision)
@@ -66,7 +70,6 @@ class Person:
             'speed_cast': 1.0,
             'front_block': 0,
             'back_block': 0,
-            'damage_krit': 2,
             'bonus_hil': 1
         }
         self.times = heapTime.HeapTime()  # Порядок выполнения действий

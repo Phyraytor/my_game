@@ -1,8 +1,9 @@
 import mag
 import knight
+import healer
 
 Percon_one = mag.Mag("Mag")
-Percon_two = knight.Knight("Knight")
+Percon_two = healer.Healer("Healer")
 Percon_one.lvlup(10)
 Percon_two.lvlup(10)
 Percon_one.print()

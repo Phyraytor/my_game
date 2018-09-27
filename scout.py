@@ -1,56 +1,36 @@
 import person
 
-class Knight(person.Person):
+class Scout(person.Person):
 
     def __init__(self, name: str) -> None:
         super().__init__(name)
-        self.max_hitpoint = 4000
-        self.stats['defense'] = 1500
-        self.stats['resistance'] = 500
-        self.stats['damage'] = 250
+        self.max_hitpoint = 2640
         self.stats['hitpoint'] = self.max_hitpoint
-        self.stats['chance_krit'] = 47
-        self.stats['damage_krit'] = 10
-        self.stats['precision'] = 10
-        self.stats['evasion'] = 60
+        self.stats['defense'] = 900
+        self.stats['resistance'] = 800
+        self.stats['damage'] = 380
+        self.stats['chance_krit'] = 270
+        self.stats['damage_krit'] = 14
+        self.stats['precision'] = 120
+        self.stats['evasion'] = 110
 
-
-        '''-------------------------------------**********--------------------------------------'''
-        '''--------------**********-------------Faster axe--------------**********--------------'''
-        '''-------------------------------------**********--------------------------------------'''
+        '''----------------------------------------****-----------------------------------------'''
+        '''--------------**********----------------Ship-----------------**********--------------'''
+        '''----------------------------------------****-----------------------------------------'''
         '''cast_bonus = {'front_block' : 5}'''
         def finish(name: str, damage: float) -> dict:
             result = {'target': {}, 'self': [] }
-
-            '''result['self'].append({
-                'func': self.create_dot,
-                'name': 'bandages',
-                'type': 'hil',
-                'damage': damage * 0.1,
-                'stage': 4,
-                'time': 0.9,
-            })'''
-
             result['target']['hit'] = {
                 'name': name,
                 'type': 'physical',
                 'damage': damage,
             }
-
-            '''result['target']['dot'] = {
-                'name': 'bleeding',
-                'type': 'physical',
-                'damage': damage * 0.2,
-                'stage': 3,
-                'time': 0.7,
-            }'''
-            #result['target']['stop'] = self.stats['time']
             return result
 
-        skill = person.classSkill.Skill(name='Faster axe', cast=0.7, coldown=0, lvl=0, finish=finish, mult=0.2)
-        self.skills.append(skill)
-"""
+        Ship = person.classSkill.Skill(name='Ship', cast=0.8, coldown=0, lvl=0, finish=finish, mult=0.15)
+        self.skills.append(Ship)
 
+        """
         '''---------------------------------------****----------------------------------------'''
         '''--------------**********---------------Bash----------------**********--------------'''
         '''---------------------------------------****----------------------------------------'''
@@ -210,8 +190,8 @@ class Knight(person.Person):
             return result
 
         Cuwany = person.classSkill.Skill(name='Cuwany', cast=1, coldown=4, lvl=8, finish=finish, mult=1.5)
-        self.skills.append(Cuwany)"""
-
+        self.skills.append(Cuwany)
+"""
 
 
 

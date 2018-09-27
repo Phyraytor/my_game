@@ -68,6 +68,11 @@ class HeapTime:
         while len(self.heap) > 0:
              self.heap.pop()
 
+    def delete(self, type: str) -> None:
+        for i, items in enumerate(self.heap):
+            if items['category'] == type:
+                print(items.name, 'clear')
+                self.shiftDown(i)
 
     def empty(self) -> bool:
         return len(self.heap) == 0
