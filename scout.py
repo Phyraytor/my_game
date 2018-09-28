@@ -8,7 +8,7 @@ class Scout(person.Person):
         self.stats['hitpoint'] = self.max_hitpoint
         self.stats['defense'] = 900
         self.stats['resistance'] = 800
-        self.stats['damage'] = 380
+        self.stats['damage'] = 300
         self.stats['chance_krit'] = 270
         self.stats['damage_krit'] = 14
         self.stats['precision'] = 120

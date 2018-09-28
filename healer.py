@@ -7,7 +7,7 @@ class Healer(person.Person):
         self.max_hitpoint = 2400
         self.stats['defense'] = 500
         self.stats['resistance'] = 1600
-        self.stats['damage'] = 400
+        self.stats['damage'] = 300
         self.stats['hitpoint'] = self.max_hitpoint
         self.stats['chance_krit'] = 49
         self.stats['damage_krit'] = 9
