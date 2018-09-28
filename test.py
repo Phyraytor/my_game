@@ -37,28 +37,33 @@ with open("test.txt", "w") as file:
 fight = 0
 while(True):
 	Percon = [
-		mag.Mag("Mag"),
-		knight.Knight("Knight"),
-		healer.Healer("Healer"),
-		scout.Scout("Scout"),
+		mag.Mag,
+		knight.Knight,
+		healer.Healer,
+		scout.Scout,
 	]
 	for i in range(len(Percon) - 1):
 		for j in range(i + 1, len(Percon)):
 
-			while Percon[i].live() and Percon[j].live():
-				if Percon[j].time() <= Percon[i].time():
-				    Percon[j].get_enemy_skill( Percon[i].get_enemy_skill( Percon[j].activate() ) )
+			person_one = Percon[i](persons[i])
+			person_two = Percon[j](persons[j])
+			#print(person_one.name, "VS", person_two.name)
+			while person_one.live() and person_two.live():
+				if person_two.time() <= person_one.time():
+					person_two.get_enemy_skill( person_one.get_enemy_skill( person_two.activate() ) )
 				else:
-				    Percon[i].get_enemy_skill( Percon[j].get_enemy_skill( Percon[i].activate() ) )
-
-			#Person_table[Percon[i].name][Percon[i].name] += 1
-			#Person_table[Percon[j].name][Percon[j].name] += 1
-			if Percon[i].live():
-				Person_win[Percon[i].name ] += 1
-				Person_table[ Percon[i].name ][ Percon[j].name ] += 1
-			elif Percon[j].live():
-				Person_win[Percon[j].name ] += 1
-				Person_table[ Percon[j].name ][ Percon[i].name ] += 1
+					person_one.get_enemy_skill( person_two.get_enemy_skill( person_one.activate() ) )
+    
+			#with open("debug.txt", "a") as file:
+				#file.write(person_one.name + " " + person_one.debug_hp() + " " + person_two.name + " " + person_two.debug_hp() + "\n")
+			if person_one.live():
+				    #file.write(person_one.name + " WIN\n")
+				Person_win[person_one.name ] += 1
+				Person_table[ person_one.name ][ person_two.name ] += 1
+			elif person_two.live():
+					#file.write(person_two.name + " WIN\n")
+				Person_win[person_two.name ] += 1
+				Person_table[ person_two.name ][ person_one.name ] += 1
 
 	fight += 1
 	with open("test.txt", "a") as file:
@@ -67,9 +72,11 @@ while(True):
 			file.write(key + " " + str(Person_win[key]) + " "
 					   + str(round(100 * Person_win[key] / ( (len(Percon) - 1) * fight) / 2, 2 ) ) + "% \n")
 		#print(Person_table)
+		file.write("\n")
 		for key_i in Person_table:
 			file.write(key_i + ": ")
 			for key_j in Person_table:
 				if key_i == key_j: continue
 				file.write(key_j + " = " + str( round( (100 * Person_table[key_i][key_j] / fight), 2) ) + "% ")
 			file.write("\n")
+		file.write("\n")

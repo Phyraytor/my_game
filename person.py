@@ -349,3 +349,6 @@ class Person:
         for key, value in self.stats.items():
             print(key,'=', value)
         print('-' * 13)
+
+    def debug_hp(self):
+        return str(self.stats['hitpoint'])

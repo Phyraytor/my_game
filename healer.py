@@ -4,7 +4,7 @@ class Healer(person.Person):
 
     def __init__(self, name: str) -> None:
         super().__init__(name)
-        self.max_hitpoint = 2400
+        self.max_hitpoint = 2700
         self.stats['defense'] = 500
         self.stats['resistance'] = 1600
         self.stats['damage'] = 300
@@ -36,7 +36,8 @@ class Healer(person.Person):
 
             return result
 
-        Prayer = person.classSkill.Skill(name='Prayer', cast=0.5, coldown=0, lvl=0, finish=finish, mult=0.2)
+        Prayer = person.classSkill.Skill(name='Prayer', cast=1, coldown=0, lvl=0, finish=finish, mult=1)
+
         self.skills.append(Prayer)
 """
         '''------------------------------------------*****------------------------------------'''

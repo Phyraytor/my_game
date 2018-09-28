@@ -1,0 +1,4972 @@
+fight 1 
+Mag 2 33.33% 
+Knight 3 50.0% 
+Healer 0 0.0% 
+Scout 1 16.67% 
+
+Mag: Knight = 0.0% Healer = 100.0% Scout = 100.0% 
+Knight: Mag = 100.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 0.0% Knight = 0.0% Scout = 0.0% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 100.0% 
+
+fight 2 
+Mag 5 41.67% 
+Knight 5 41.67% 
+Healer 0 0.0% 
+Scout 2 16.67% 
+
+Mag: Knight = 50.0% Healer = 100.0% Scout = 100.0% 
+Knight: Mag = 50.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 0.0% Knight = 0.0% Scout = 0.0% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 100.0% 
+
+fight 3 
+Mag 7 38.89% 
+Knight 8 44.44% 
+Healer 0 0.0% 
+Scout 3 16.67% 
+
+Mag: Knight = 33.33% Healer = 100.0% Scout = 100.0% 
+Knight: Mag = 66.67% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 0.0% Knight = 0.0% Scout = 0.0% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 100.0% 
+
+fight 4 
+Mag 9 37.5% 
+Knight 11 45.83% 
+Healer 0 0.0% 
+Scout 4 16.67% 
+
+Mag: Knight = 25.0% Healer = 100.0% Scout = 100.0% 
+Knight: Mag = 75.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 0.0% Knight = 0.0% Scout = 0.0% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 100.0% 
+
+fight 5 
+Mag 11 36.67% 
+Knight 14 46.67% 
+Healer 0 0.0% 
+Scout 5 16.67% 
+
+Mag: Knight = 20.0% Healer = 100.0% Scout = 100.0% 
+Knight: Mag = 80.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 0.0% Knight = 0.0% Scout = 0.0% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 100.0% 
+
+fight 6 
+Mag 13 36.11% 
+Knight 17 47.22% 
+Healer 0 0.0% 
+Scout 6 16.67% 
+
+Mag: Knight = 16.67% Healer = 100.0% Scout = 100.0% 
+Knight: Mag = 83.33% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 0.0% Knight = 0.0% Scout = 0.0% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 100.0% 
+
+fight 7 
+Mag 16 38.1% 
+Knight 19 45.24% 
+Healer 1 2.38% 
+Scout 6 14.29% 
+
+Mag: Knight = 28.57% Healer = 100.0% Scout = 100.0% 
+Knight: Mag = 71.43% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 0.0% Knight = 0.0% Scout = 14.29% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 85.71% 
+
+fight 8 
+Mag 18 37.5% 
+Knight 22 45.83% 
+Healer 1 2.08% 
+Scout 7 14.58% 
+
+Mag: Knight = 25.0% Healer = 100.0% Scout = 100.0% 
+Knight: Mag = 75.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 0.0% Knight = 0.0% Scout = 12.5% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 87.5% 
+
+fight 9 
+Mag 20 37.04% 
+Knight 25 46.3% 
+Healer 1 1.85% 
+Scout 8 14.81% 
+
+Mag: Knight = 22.22% Healer = 100.0% Scout = 100.0% 
+Knight: Mag = 77.78% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 0.0% Knight = 0.0% Scout = 11.11% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 88.89% 
+
+fight 10 
+Mag 22 36.67% 
+Knight 28 46.67% 
+Healer 1 1.67% 
+Scout 9 15.0% 
+
+Mag: Knight = 20.0% Healer = 100.0% Scout = 100.0% 
+Knight: Mag = 80.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 0.0% Knight = 0.0% Scout = 10.0% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 90.0% 
+
+fight 11 
+Mag 23 34.85% 
+Knight 31 46.97% 
+Healer 2 3.03% 
+Scout 10 15.15% 
+
+Mag: Knight = 18.18% Healer = 90.91% Scout = 100.0% 
+Knight: Mag = 81.82% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 9.09% Knight = 0.0% Scout = 9.09% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 90.91% 
+
+fight 12 
+Mag 25 34.72% 
+Knight 34 47.22% 
+Healer 2 2.78% 
+Scout 11 15.28% 
+
+Mag: Knight = 16.67% Healer = 91.67% Scout = 100.0% 
+Knight: Mag = 83.33% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 8.33% Knight = 0.0% Scout = 8.33% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 91.67% 
+
+fight 13 
+Mag 27 34.62% 
+Knight 37 47.44% 
+Healer 2 2.56% 
+Scout 12 15.38% 
+
+Mag: Knight = 15.38% Healer = 92.31% Scout = 100.0% 
+Knight: Mag = 84.62% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 7.69% Knight = 0.0% Scout = 7.69% 
+Scout: Mag = 0.0% Knight = 0.0% Healer = 92.31% 
+
+fight 14 
+Mag 29 34.52% 
+Knight 39 46.43% 
+Healer 2 2.38% 
+Scout 14 16.67% 
+
+Mag: Knight = 21.43% Healer = 92.86% Scout = 92.86% 
+Knight: Mag = 78.57% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 7.14% Knight = 0.0% Scout = 7.14% 
+Scout: Mag = 7.14% Knight = 0.0% Healer = 92.86% 
+
+fight 15 
+Mag 31 34.44% 
+Knight 42 46.67% 
+Healer 2 2.22% 
+Scout 15 16.67% 
+
+Mag: Knight = 20.0% Healer = 93.33% Scout = 93.33% 
+Knight: Mag = 80.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 6.67% Knight = 0.0% Scout = 6.67% 
+Scout: Mag = 6.67% Knight = 0.0% Healer = 93.33% 
+
+fight 16 
+Mag 33 34.38% 
+Knight 45 46.88% 
+Healer 2 2.08% 
+Scout 16 16.67% 
+
+Mag: Knight = 18.75% Healer = 93.75% Scout = 93.75% 
+Knight: Mag = 81.25% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 6.25% Knight = 0.0% Scout = 6.25% 
+Scout: Mag = 6.25% Knight = 0.0% Healer = 93.75% 
+
+fight 17 
+Mag 35 34.31% 
+Knight 48 47.06% 
+Healer 2 1.96% 
+Scout 17 16.67% 
+
+Mag: Knight = 17.65% Healer = 94.12% Scout = 94.12% 
+Knight: Mag = 82.35% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 5.88% Knight = 0.0% Scout = 5.88% 
+Scout: Mag = 5.88% Knight = 0.0% Healer = 94.12% 
+
+fight 18 
+Mag 37 34.26% 
+Knight 51 47.22% 
+Healer 3 2.78% 
+Scout 17 15.74% 
+
+Mag: Knight = 16.67% Healer = 94.44% Scout = 94.44% 
+Knight: Mag = 83.33% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 5.56% Knight = 0.0% Scout = 11.11% 
+Scout: Mag = 5.56% Knight = 0.0% Healer = 88.89% 
+
+fight 19 
+Mag 39 34.21% 
+Knight 54 47.37% 
+Healer 4 3.51% 
+Scout 17 14.91% 
+
+Mag: Knight = 15.79% Healer = 94.74% Scout = 94.74% 
+Knight: Mag = 84.21% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 5.26% Knight = 0.0% Scout = 15.79% 
+Scout: Mag = 5.26% Knight = 0.0% Healer = 84.21% 
+
+fight 20 
+Mag 42 35.0% 
+Knight 56 46.67% 
+Healer 4 3.33% 
+Scout 18 15.0% 
+
+Mag: Knight = 20.0% Healer = 95.0% Scout = 95.0% 
+Knight: Mag = 80.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 5.0% Knight = 0.0% Scout = 15.0% 
+Scout: Mag = 5.0% Knight = 0.0% Healer = 85.0% 
+
+fight 21 
+Mag 44 34.92% 
+Knight 59 46.83% 
+Healer 4 3.17% 
+Scout 19 15.08% 
+
+Mag: Knight = 19.05% Healer = 95.24% Scout = 95.24% 
+Knight: Mag = 80.95% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 4.76% Knight = 0.0% Scout = 14.29% 
+Scout: Mag = 4.76% Knight = 0.0% Healer = 85.71% 
+
+fight 22 
+Mag 46 34.85% 
+Knight 62 46.97% 
+Healer 4 3.03% 
+Scout 20 15.15% 
+
+Mag: Knight = 18.18% Healer = 95.45% Scout = 95.45% 
+Knight: Mag = 81.82% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 4.55% Knight = 0.0% Scout = 13.64% 
+Scout: Mag = 4.55% Knight = 0.0% Healer = 86.36% 
+
+fight 23 
+Mag 48 34.78% 
+Knight 65 47.1% 
+Healer 4 2.9% 
+Scout 21 15.22% 
+
+Mag: Knight = 17.39% Healer = 95.65% Scout = 95.65% 
+Knight: Mag = 82.61% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 4.35% Knight = 0.0% Scout = 13.04% 
+Scout: Mag = 4.35% Knight = 0.0% Healer = 86.96% 
+
+fight 24 
+Mag 50 34.72% 
+Knight 68 47.22% 
+Healer 4 2.78% 
+Scout 22 15.28% 
+
+Mag: Knight = 16.67% Healer = 95.83% Scout = 95.83% 
+Knight: Mag = 83.33% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 4.17% Knight = 0.0% Scout = 12.5% 
+Scout: Mag = 4.17% Knight = 0.0% Healer = 87.5% 
+
+fight 25 
+Mag 53 35.33% 
+Knight 70 46.67% 
+Healer 5 3.33% 
+Scout 22 14.67% 
+
+Mag: Knight = 20.0% Healer = 96.0% Scout = 96.0% 
+Knight: Mag = 80.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 4.0% Knight = 0.0% Scout = 16.0% 
+Scout: Mag = 4.0% Knight = 0.0% Healer = 84.0% 
+
+fight 26 
+Mag 55 35.26% 
+Knight 73 46.79% 
+Healer 6 3.85% 
+Scout 22 14.1% 
+
+Mag: Knight = 19.23% Healer = 96.15% Scout = 96.15% 
+Knight: Mag = 80.77% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.85% Knight = 0.0% Scout = 19.23% 
+Scout: Mag = 3.85% Knight = 0.0% Healer = 80.77% 
+
+fight 27 
+Mag 57 35.19% 
+Knight 76 46.91% 
+Healer 6 3.7% 
+Scout 23 14.2% 
+
+Mag: Knight = 18.52% Healer = 96.3% Scout = 96.3% 
+Knight: Mag = 81.48% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.7% Knight = 0.0% Scout = 18.52% 
+Scout: Mag = 3.7% Knight = 0.0% Healer = 81.48% 
+
+fight 28 
+Mag 59 35.12% 
+Knight 78 46.43% 
+Healer 6 3.57% 
+Scout 25 14.88% 
+
+Mag: Knight = 21.43% Healer = 96.43% Scout = 92.86% 
+Knight: Mag = 78.57% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.57% Knight = 0.0% Scout = 17.86% 
+Scout: Mag = 7.14% Knight = 0.0% Healer = 82.14% 
+
+fight 29 
+Mag 62 35.63% 
+Knight 80 45.98% 
+Healer 6 3.45% 
+Scout 26 14.94% 
+
+Mag: Knight = 24.14% Healer = 96.55% Scout = 93.1% 
+Knight: Mag = 75.86% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.45% Knight = 0.0% Scout = 17.24% 
+Scout: Mag = 6.9% Knight = 0.0% Healer = 82.76% 
+
+fight 30 
+Mag 64 35.56% 
+Knight 83 46.11% 
+Healer 7 3.89% 
+Scout 26 14.44% 
+
+Mag: Knight = 23.33% Healer = 96.67% Scout = 93.33% 
+Knight: Mag = 76.67% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.33% Knight = 0.0% Scout = 20.0% 
+Scout: Mag = 6.67% Knight = 0.0% Healer = 80.0% 
+
+fight 31 
+Mag 66 35.48% 
+Knight 86 46.24% 
+Healer 7 3.76% 
+Scout 27 14.52% 
+
+Mag: Knight = 22.58% Healer = 96.77% Scout = 93.55% 
+Knight: Mag = 77.42% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.23% Knight = 0.0% Scout = 19.35% 
+Scout: Mag = 6.45% Knight = 0.0% Healer = 80.65% 
+
+fight 32 
+Mag 68 35.42% 
+Knight 89 46.35% 
+Healer 8 4.17% 
+Scout 27 14.06% 
+
+Mag: Knight = 21.88% Healer = 96.88% Scout = 93.75% 
+Knight: Mag = 78.12% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.12% Knight = 0.0% Scout = 21.88% 
+Scout: Mag = 6.25% Knight = 0.0% Healer = 78.12% 
+
+fight 33 
+Mag 71 35.86% 
+Knight 91 45.96% 
+Healer 8 4.04% 
+Scout 28 14.14% 
+
+Mag: Knight = 24.24% Healer = 96.97% Scout = 93.94% 
+Knight: Mag = 75.76% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.03% Knight = 0.0% Scout = 21.21% 
+Scout: Mag = 6.06% Knight = 0.0% Healer = 78.79% 
+
+fight 34 
+Mag 74 36.27% 
+Knight 93 45.59% 
+Healer 8 3.92% 
+Scout 29 14.22% 
+
+Mag: Knight = 26.47% Healer = 97.06% Scout = 94.12% 
+Knight: Mag = 73.53% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.94% Knight = 0.0% Scout = 20.59% 
+Scout: Mag = 5.88% Knight = 0.0% Healer = 79.41% 
+
+fight 35 
+Mag 76 36.19% 
+Knight 96 45.71% 
+Healer 8 3.81% 
+Scout 30 14.29% 
+
+Mag: Knight = 25.71% Healer = 97.14% Scout = 94.29% 
+Knight: Mag = 74.29% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.86% Knight = 0.0% Scout = 20.0% 
+Scout: Mag = 5.71% Knight = 0.0% Healer = 80.0% 
+
+fight 36 
+Mag 78 36.11% 
+Knight 99 45.83% 
+Healer 9 4.17% 
+Scout 30 13.89% 
+
+Mag: Knight = 25.0% Healer = 97.22% Scout = 94.44% 
+Knight: Mag = 75.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.78% Knight = 0.0% Scout = 22.22% 
+Scout: Mag = 5.56% Knight = 0.0% Healer = 77.78% 
+
+fight 37 
+Mag 80 36.04% 
+Knight 102 45.95% 
+Healer 10 4.5% 
+Scout 30 13.51% 
+
+Mag: Knight = 24.32% Healer = 97.3% Scout = 94.59% 
+Knight: Mag = 75.68% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.7% Knight = 0.0% Scout = 24.32% 
+Scout: Mag = 5.41% Knight = 0.0% Healer = 75.68% 
+
+fight 38 
+Mag 82 35.96% 
+Knight 105 46.05% 
+Healer 11 4.82% 
+Scout 30 13.16% 
+
+Mag: Knight = 23.68% Healer = 97.37% Scout = 94.74% 
+Knight: Mag = 76.32% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.63% Knight = 0.0% Scout = 26.32% 
+Scout: Mag = 5.26% Knight = 0.0% Healer = 73.68% 
+
+fight 39 
+Mag 84 35.9% 
+Knight 108 46.15% 
+Healer 11 4.7% 
+Scout 31 13.25% 
+
+Mag: Knight = 23.08% Healer = 97.44% Scout = 94.87% 
+Knight: Mag = 76.92% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.56% Knight = 0.0% Scout = 25.64% 
+Scout: Mag = 5.13% Knight = 0.0% Healer = 74.36% 
+
+fight 40 
+Mag 86 35.83% 
+Knight 111 46.25% 
+Healer 11 4.58% 
+Scout 32 13.33% 
+
+Mag: Knight = 22.5% Healer = 97.5% Scout = 95.0% 
+Knight: Mag = 77.5% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.5% Knight = 0.0% Scout = 25.0% 
+Scout: Mag = 5.0% Knight = 0.0% Healer = 75.0% 
+
+fight 41 
+Mag 89 36.18% 
+Knight 113 45.93% 
+Healer 11 4.47% 
+Scout 33 13.41% 
+
+Mag: Knight = 24.39% Healer = 97.56% Scout = 95.12% 
+Knight: Mag = 75.61% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.44% Knight = 0.0% Scout = 24.39% 
+Scout: Mag = 4.88% Knight = 0.0% Healer = 75.61% 
+
+fight 42 
+Mag 91 36.11% 
+Knight 116 46.03% 
+Healer 11 4.37% 
+Scout 34 13.49% 
+
+Mag: Knight = 23.81% Healer = 97.62% Scout = 95.24% 
+Knight: Mag = 76.19% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.38% Knight = 0.0% Scout = 23.81% 
+Scout: Mag = 4.76% Knight = 0.0% Healer = 76.19% 
+
+fight 43 
+Mag 93 36.05% 
+Knight 119 46.12% 
+Healer 11 4.26% 
+Scout 35 13.57% 
+
+Mag: Knight = 23.26% Healer = 97.67% Scout = 95.35% 
+Knight: Mag = 76.74% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.33% Knight = 0.0% Scout = 23.26% 
+Scout: Mag = 4.65% Knight = 0.0% Healer = 76.74% 
+
+fight 44 
+Mag 96 36.36% 
+Knight 121 45.83% 
+Healer 11 4.17% 
+Scout 36 13.64% 
+
+Mag: Knight = 25.0% Healer = 97.73% Scout = 95.45% 
+Knight: Mag = 75.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.27% Knight = 0.0% Scout = 22.73% 
+Scout: Mag = 4.55% Knight = 0.0% Healer = 77.27% 
+
+fight 45 
+Mag 98 36.3% 
+Knight 124 45.93% 
+Healer 11 4.07% 
+Scout 37 13.7% 
+
+Mag: Knight = 24.44% Healer = 97.78% Scout = 95.56% 
+Knight: Mag = 75.56% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.22% Knight = 0.0% Scout = 22.22% 
+Scout: Mag = 4.44% Knight = 0.0% Healer = 77.78% 
+
+fight 46 
+Mag 100 36.23% 
+Knight 127 46.01% 
+Healer 11 3.99% 
+Scout 38 13.77% 
+
+Mag: Knight = 23.91% Healer = 97.83% Scout = 95.65% 
+Knight: Mag = 76.09% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.17% Knight = 0.0% Scout = 21.74% 
+Scout: Mag = 4.35% Knight = 0.0% Healer = 78.26% 
+
+fight 47 
+Mag 102 36.17% 
+Knight 130 46.1% 
+Healer 11 3.9% 
+Scout 39 13.83% 
+
+Mag: Knight = 23.4% Healer = 97.87% Scout = 95.74% 
+Knight: Mag = 76.6% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.13% Knight = 0.0% Scout = 21.28% 
+Scout: Mag = 4.26% Knight = 0.0% Healer = 78.72% 
+
+fight 48 
+Mag 104 36.11% 
+Knight 133 46.18% 
+Healer 11 3.82% 
+Scout 40 13.89% 
+
+Mag: Knight = 22.92% Healer = 97.92% Scout = 95.83% 
+Knight: Mag = 77.08% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.08% Knight = 0.0% Scout = 20.83% 
+Scout: Mag = 4.17% Knight = 0.0% Healer = 79.17% 
+
+fight 49 
+Mag 107 36.39% 
+Knight 135 45.92% 
+Healer 11 3.74% 
+Scout 41 13.95% 
+
+Mag: Knight = 24.49% Healer = 97.96% Scout = 95.92% 
+Knight: Mag = 75.51% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.04% Knight = 0.0% Scout = 20.41% 
+Scout: Mag = 4.08% Knight = 0.0% Healer = 79.59% 
+
+fight 50 
+Mag 110 36.67% 
+Knight 137 45.67% 
+Healer 12 4.0% 
+Scout 41 13.67% 
+
+Mag: Knight = 26.0% Healer = 98.0% Scout = 96.0% 
+Knight: Mag = 74.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.0% Knight = 0.0% Scout = 22.0% 
+Scout: Mag = 4.0% Knight = 0.0% Healer = 78.0% 
+
+fight 51 
+Mag 112 36.6% 
+Knight 140 45.75% 
+Healer 12 3.92% 
+Scout 42 13.73% 
+
+Mag: Knight = 25.49% Healer = 98.04% Scout = 96.08% 
+Knight: Mag = 74.51% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 1.96% Knight = 0.0% Scout = 21.57% 
+Scout: Mag = 3.92% Knight = 0.0% Healer = 78.43% 
+
+fight 52 
+Mag 114 36.54% 
+Knight 143 45.83% 
+Healer 13 4.17% 
+Scout 42 13.46% 
+
+Mag: Knight = 25.0% Healer = 98.08% Scout = 96.15% 
+Knight: Mag = 75.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 1.92% Knight = 0.0% Scout = 23.08% 
+Scout: Mag = 3.85% Knight = 0.0% Healer = 76.92% 
+
+fight 53 
+Mag 116 36.48% 
+Knight 146 45.91% 
+Healer 14 4.4% 
+Scout 42 13.21% 
+
+Mag: Knight = 24.53% Healer = 98.11% Scout = 96.23% 
+Knight: Mag = 75.47% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 1.89% Knight = 0.0% Scout = 24.53% 
+Scout: Mag = 3.77% Knight = 0.0% Healer = 75.47% 
+
+fight 54 
+Mag 119 36.73% 
+Knight 148 45.68% 
+Healer 15 4.63% 
+Scout 42 12.96% 
+
+Mag: Knight = 25.93% Healer = 98.15% Scout = 96.3% 
+Knight: Mag = 74.07% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 1.85% Knight = 0.0% Scout = 25.93% 
+Scout: Mag = 3.7% Knight = 0.0% Healer = 74.07% 
+
+fight 55 
+Mag 121 36.67% 
+Knight 150 45.45% 
+Healer 16 4.85% 
+Scout 43 13.03% 
+
+Mag: Knight = 27.27% Healer = 96.36% Scout = 96.36% 
+Knight: Mag = 72.73% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.64% Knight = 0.0% Scout = 25.45% 
+Scout: Mag = 3.64% Knight = 0.0% Healer = 74.55% 
+
+fight 56 
+Mag 124 36.9% 
+Knight 152 45.24% 
+Healer 17 5.06% 
+Scout 43 12.8% 
+
+Mag: Knight = 28.57% Healer = 96.43% Scout = 96.43% 
+Knight: Mag = 71.43% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.57% Knight = 0.0% Scout = 26.79% 
+Scout: Mag = 3.57% Knight = 0.0% Healer = 73.21% 
+
+fight 57 
+Mag 126 36.84% 
+Knight 155 45.32% 
+Healer 17 4.97% 
+Scout 44 12.87% 
+
+Mag: Knight = 28.07% Healer = 96.49% Scout = 96.49% 
+Knight: Mag = 71.93% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.51% Knight = 0.0% Scout = 26.32% 
+Scout: Mag = 3.51% Knight = 0.0% Healer = 73.68% 
+
+fight 58 
+Mag 128 36.78% 
+Knight 158 45.4% 
+Healer 17 4.89% 
+Scout 45 12.93% 
+
+Mag: Knight = 27.59% Healer = 96.55% Scout = 96.55% 
+Knight: Mag = 72.41% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.45% Knight = 0.0% Scout = 25.86% 
+Scout: Mag = 3.45% Knight = 0.0% Healer = 74.14% 
+
+fight 59 
+Mag 130 36.72% 
+Knight 161 45.48% 
+Healer 17 4.8% 
+Scout 46 12.99% 
+
+Mag: Knight = 27.12% Healer = 96.61% Scout = 96.61% 
+Knight: Mag = 72.88% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.39% Knight = 0.0% Scout = 25.42% 
+Scout: Mag = 3.39% Knight = 0.0% Healer = 74.58% 
+
+fight 60 
+Mag 133 36.94% 
+Knight 163 45.28% 
+Healer 17 4.72% 
+Scout 47 13.06% 
+
+Mag: Knight = 28.33% Healer = 96.67% Scout = 96.67% 
+Knight: Mag = 71.67% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.33% Knight = 0.0% Scout = 25.0% 
+Scout: Mag = 3.33% Knight = 0.0% Healer = 75.0% 
+
+fight 61 
+Mag 136 37.16% 
+Knight 165 45.08% 
+Healer 17 4.64% 
+Scout 48 13.11% 
+
+Mag: Knight = 29.51% Healer = 96.72% Scout = 96.72% 
+Knight: Mag = 70.49% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.28% Knight = 0.0% Scout = 24.59% 
+Scout: Mag = 3.28% Knight = 0.0% Healer = 75.41% 
+
+fight 62 
+Mag 138 37.1% 
+Knight 168 45.16% 
+Healer 17 4.57% 
+Scout 49 13.17% 
+
+Mag: Knight = 29.03% Healer = 96.77% Scout = 96.77% 
+Knight: Mag = 70.97% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.23% Knight = 0.0% Scout = 24.19% 
+Scout: Mag = 3.23% Knight = 0.0% Healer = 75.81% 
+
+fight 63 
+Mag 140 37.04% 
+Knight 171 45.24% 
+Healer 17 4.5% 
+Scout 50 13.23% 
+
+Mag: Knight = 28.57% Healer = 96.83% Scout = 96.83% 
+Knight: Mag = 71.43% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.17% Knight = 0.0% Scout = 23.81% 
+Scout: Mag = 3.17% Knight = 0.0% Healer = 76.19% 
+
+fight 64 
+Mag 143 37.24% 
+Knight 173 45.05% 
+Healer 17 4.43% 
+Scout 51 13.28% 
+
+Mag: Knight = 29.69% Healer = 96.88% Scout = 96.88% 
+Knight: Mag = 70.31% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.12% Knight = 0.0% Scout = 23.44% 
+Scout: Mag = 3.12% Knight = 0.0% Healer = 76.56% 
+
+fight 65 
+Mag 146 37.44% 
+Knight 175 44.87% 
+Healer 17 4.36% 
+Scout 52 13.33% 
+
+Mag: Knight = 30.77% Healer = 96.92% Scout = 96.92% 
+Knight: Mag = 69.23% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.08% Knight = 0.0% Scout = 23.08% 
+Scout: Mag = 3.08% Knight = 0.0% Healer = 76.92% 
+
+fight 66 
+Mag 149 37.63% 
+Knight 177 44.7% 
+Healer 17 4.29% 
+Scout 53 13.38% 
+
+Mag: Knight = 31.82% Healer = 96.97% Scout = 96.97% 
+Knight: Mag = 68.18% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 3.03% Knight = 0.0% Scout = 22.73% 
+Scout: Mag = 3.03% Knight = 0.0% Healer = 77.27% 
+
+fight 67 
+Mag 151 37.56% 
+Knight 180 44.78% 
+Healer 17 4.23% 
+Scout 54 13.43% 
+
+Mag: Knight = 31.34% Healer = 97.01% Scout = 97.01% 
+Knight: Mag = 68.66% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.99% Knight = 0.0% Scout = 22.39% 
+Scout: Mag = 2.99% Knight = 0.0% Healer = 77.61% 
+
+fight 68 
+Mag 153 37.5% 
+Knight 183 44.85% 
+Healer 17 4.17% 
+Scout 55 13.48% 
+
+Mag: Knight = 30.88% Healer = 97.06% Scout = 97.06% 
+Knight: Mag = 69.12% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.94% Knight = 0.0% Scout = 22.06% 
+Scout: Mag = 2.94% Knight = 0.0% Healer = 77.94% 
+
+fight 69 
+Mag 155 37.44% 
+Knight 186 44.93% 
+Healer 17 4.11% 
+Scout 56 13.53% 
+
+Mag: Knight = 30.43% Healer = 97.1% Scout = 97.1% 
+Knight: Mag = 69.57% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.9% Knight = 0.0% Scout = 21.74% 
+Scout: Mag = 2.9% Knight = 0.0% Healer = 78.26% 
+
+fight 70 
+Mag 157 37.38% 
+Knight 189 45.0% 
+Healer 18 4.29% 
+Scout 56 13.33% 
+
+Mag: Knight = 30.0% Healer = 97.14% Scout = 97.14% 
+Knight: Mag = 70.0% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.86% Knight = 0.0% Scout = 22.86% 
+Scout: Mag = 2.86% Knight = 0.0% Healer = 77.14% 
+
+fight 71 
+Mag 159 37.32% 
+Knight 192 45.07% 
+Healer 18 4.23% 
+Scout 57 13.38% 
+
+Mag: Knight = 29.58% Healer = 97.18% Scout = 97.18% 
+Knight: Mag = 70.42% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.82% Knight = 0.0% Scout = 22.54% 
+Scout: Mag = 2.82% Knight = 0.0% Healer = 77.46% 
+
+fight 72 
+Mag 162 37.5% 
+Knight 194 44.91% 
+Healer 18 4.17% 
+Scout 58 13.43% 
+
+Mag: Knight = 30.56% Healer = 97.22% Scout = 97.22% 
+Knight: Mag = 69.44% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.78% Knight = 0.0% Scout = 22.22% 
+Scout: Mag = 2.78% Knight = 0.0% Healer = 77.78% 
+
+fight 73 
+Mag 164 37.44% 
+Knight 197 44.98% 
+Healer 19 4.34% 
+Scout 58 13.24% 
+
+Mag: Knight = 30.14% Healer = 97.26% Scout = 97.26% 
+Knight: Mag = 69.86% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.74% Knight = 0.0% Scout = 23.29% 
+Scout: Mag = 2.74% Knight = 0.0% Healer = 76.71% 
+
+fight 74 
+Mag 166 37.39% 
+Knight 200 45.05% 
+Healer 19 4.28% 
+Scout 59 13.29% 
+
+Mag: Knight = 29.73% Healer = 97.3% Scout = 97.3% 
+Knight: Mag = 70.27% Healer = 100.0% Scout = 100.0% 
+Healer: Mag = 2.7% Knight = 0.0% Scout = 22.97% 
+Scout: Mag = 2.7% Knight = 0.0% Healer = 77.03% 
+
+fight 75 
+Mag 169 37.56% 
+Knight 201 44.67% 
+Healer 21 4.67% 
+Scout 59 13.11% 
+
+Mag: Knight = 30.67% Healer = 97.33% Scout = 97.33% 
+Knight: Mag = 69.33% Healer = 98.67% Scout = 100.0% 
+Healer: Mag = 2.67% Knight = 1.33% Scout = 24.0% 
+Scout: Mag = 2.67% Knight = 0.0% Healer = 76.0% 
+
+fight 76 
+Mag 172 37.72% 
+Knight 203 44.52% 
+Healer 21 4.61% 
+Scout 60 13.16% 
+
+Mag: Knight = 31.58% Healer = 97.37% Scout = 97.37% 
+Knight: Mag = 68.42% Healer = 98.68% Scout = 100.0% 
+Healer: Mag = 2.63% Knight = 1.32% Scout = 23.68% 
+Scout: Mag = 2.63% Knight = 0.0% Healer = 76.32% 
+
+fight 77 
+Mag 175 37.88% 
+Knight 205 44.37% 
+Healer 22 4.76% 
+Scout 60 12.99% 
+
+Mag: Knight = 32.47% Healer = 97.4% Scout = 97.4% 
+Knight: Mag = 67.53% Healer = 98.7% Scout = 100.0% 
+Healer: Mag = 2.6% Knight = 1.3% Scout = 24.68% 
+Scout: Mag = 2.6% Knight = 0.0% Healer = 75.32% 
+
+fight 78 
+Mag 177 37.82% 
+Knight 208 44.44% 
+Healer 22 4.7% 
+Scout 61 13.03% 
+
+Mag: Knight = 32.05% Healer = 97.44% Scout = 97.44% 
+Knight: Mag = 67.95% Healer = 98.72% Scout = 100.0% 
+Healer: Mag = 2.56% Knight = 1.28% Scout = 24.36% 
+Scout: Mag = 2.56% Knight = 0.0% Healer = 75.64% 
+
+fight 79 
+Mag 179 37.76% 
+Knight 211 44.51% 
+Healer 22 4.64% 
+Scout 62 13.08% 
+
+Mag: Knight = 31.65% Healer = 97.47% Scout = 97.47% 
+Knight: Mag = 68.35% Healer = 98.73% Scout = 100.0% 
+Healer: Mag = 2.53% Knight = 1.27% Scout = 24.05% 
+Scout: Mag = 2.53% Knight = 0.0% Healer = 75.95% 
+
+fight 80 
+Mag 181 37.71% 
+Knight 214 44.58% 
+Healer 23 4.79% 
+Scout 62 12.92% 
+
+Mag: Knight = 31.25% Healer = 97.5% Scout = 97.5% 
+Knight: Mag = 68.75% Healer = 98.75% Scout = 100.0% 
+Healer: Mag = 2.5% Knight = 1.25% Scout = 25.0% 
+Scout: Mag = 2.5% Knight = 0.0% Healer = 75.0% 
+
+fight 81 
+Mag 183 37.65% 
+Knight 217 44.65% 
+Healer 24 4.94% 
+Scout 62 12.76% 
+
+Mag: Knight = 30.86% Healer = 97.53% Scout = 97.53% 
+Knight: Mag = 69.14% Healer = 98.77% Scout = 100.0% 
+Healer: Mag = 2.47% Knight = 1.23% Scout = 25.93% 
+Scout: Mag = 2.47% Knight = 0.0% Healer = 74.07% 
+
+fight 82 
+Mag 186 37.8% 
+Knight 219 44.51% 
+Healer 25 5.08% 
+Scout 62 12.6% 
+
+Mag: Knight = 31.71% Healer = 97.56% Scout = 97.56% 
+Knight: Mag = 68.29% Healer = 98.78% Scout = 100.0% 
+Healer: Mag = 2.44% Knight = 1.22% Scout = 26.83% 
+Scout: Mag = 2.44% Knight = 0.0% Healer = 73.17% 
+
+fight 83 
+Mag 189 37.95% 
+Knight 221 44.38% 
+Healer 25 5.02% 
+Scout 63 12.65% 
+
+Mag: Knight = 32.53% Healer = 97.59% Scout = 97.59% 
+Knight: Mag = 67.47% Healer = 98.8% Scout = 100.0% 
+Healer: Mag = 2.41% Knight = 1.2% Scout = 26.51% 
+Scout: Mag = 2.41% Knight = 0.0% Healer = 73.49% 
+
+fight 84 
+Mag 190 37.7% 
+Knight 224 44.44% 
+Healer 25 4.96% 
+Scout 65 12.9% 
+
+Mag: Knight = 32.14% Healer = 97.62% Scout = 96.43% 
+Knight: Mag = 67.86% Healer = 98.81% Scout = 100.0% 
+Healer: Mag = 2.38% Knight = 1.19% Scout = 26.19% 
+Scout: Mag = 3.57% Knight = 0.0% Healer = 73.81% 
+
+fight 85 
+Mag 193 37.84% 
+Knight 226 44.31% 
+Healer 26 5.1% 
+Scout 65 12.75% 
+
+Mag: Knight = 32.94% Healer = 97.65% Scout = 96.47% 
+Knight: Mag = 67.06% Healer = 98.82% Scout = 100.0% 
+Healer: Mag = 2.35% Knight = 1.18% Scout = 27.06% 
+Scout: Mag = 3.53% Knight = 0.0% Healer = 72.94% 
+
+fight 86 
+Mag 195 37.79% 
+Knight 229 44.38% 
+Healer 26 5.04% 
+Scout 66 12.79% 
+
+Mag: Knight = 32.56% Healer = 97.67% Scout = 96.51% 
+Knight: Mag = 67.44% Healer = 98.84% Scout = 100.0% 
+Healer: Mag = 2.33% Knight = 1.16% Scout = 26.74% 
+Scout: Mag = 3.49% Knight = 0.0% Healer = 73.26% 
+
+fight 87 
+Mag 198 37.93% 
+Knight 231 44.25% 
+Healer 26 4.98% 
+Scout 67 12.84% 
+
+Mag: Knight = 33.33% Healer = 97.7% Scout = 96.55% 
+Knight: Mag = 66.67% Healer = 98.85% Scout = 100.0% 
+Healer: Mag = 2.3% Knight = 1.15% Scout = 26.44% 
+Scout: Mag = 3.45% Knight = 0.0% Healer = 73.56% 
+
+fight 88 
+Mag 201 38.07% 
+Knight 233 44.13% 
+Healer 26 4.92% 
+Scout 68 12.88% 
+
+Mag: Knight = 34.09% Healer = 97.73% Scout = 96.59% 
+Knight: Mag = 65.91% Healer = 98.86% Scout = 100.0% 
+Healer: Mag = 2.27% Knight = 1.14% Scout = 26.14% 
+Scout: Mag = 3.41% Knight = 0.0% Healer = 73.86% 
+
+fight 89 
+Mag 204 38.2% 
+Knight 235 44.01% 
+Healer 26 4.87% 
+Scout 69 12.92% 
+
+Mag: Knight = 34.83% Healer = 97.75% Scout = 96.63% 
+Knight: Mag = 65.17% Healer = 98.88% Scout = 100.0% 
+Healer: Mag = 2.25% Knight = 1.12% Scout = 25.84% 
+Scout: Mag = 3.37% Knight = 0.0% Healer = 74.16% 
+
+fight 90 
+Mag 206 38.15% 
+Knight 238 44.07% 
+Healer 26 4.81% 
+Scout 70 12.96% 
+
+Mag: Knight = 34.44% Healer = 97.78% Scout = 96.67% 
+Knight: Mag = 65.56% Healer = 98.89% Scout = 100.0% 
+Healer: Mag = 2.22% Knight = 1.11% Scout = 25.56% 
+Scout: Mag = 3.33% Knight = 0.0% Healer = 74.44% 
+
+fight 91 
+Mag 209 38.28% 
+Knight 240 43.96% 
+Healer 26 4.76% 
+Scout 71 13.0% 
+
+Mag: Knight = 35.16% Healer = 97.8% Scout = 96.7% 
+Knight: Mag = 64.84% Healer = 98.9% Scout = 100.0% 
+Healer: Mag = 2.2% Knight = 1.1% Scout = 25.27% 
+Scout: Mag = 3.3% Knight = 0.0% Healer = 74.73% 
+
+fight 92 
+Mag 211 38.22% 
+Knight 243 44.02% 
+Healer 26 4.71% 
+Scout 72 13.04% 
+
+Mag: Knight = 34.78% Healer = 97.83% Scout = 96.74% 
+Knight: Mag = 65.22% Healer = 98.91% Scout = 100.0% 
+Healer: Mag = 2.17% Knight = 1.09% Scout = 25.0% 
+Scout: Mag = 3.26% Knight = 0.0% Healer = 75.0% 
+
+fight 93 
+Mag 213 38.17% 
+Knight 246 44.09% 
+Healer 27 4.84% 
+Scout 72 12.9% 
+
+Mag: Knight = 34.41% Healer = 97.85% Scout = 96.77% 
+Knight: Mag = 65.59% Healer = 98.92% Scout = 100.0% 
+Healer: Mag = 2.15% Knight = 1.08% Scout = 25.81% 
+Scout: Mag = 3.23% Knight = 0.0% Healer = 74.19% 
+
+fight 94 
+Mag 215 38.12% 
+Knight 249 44.15% 
+Healer 28 4.96% 
+Scout 72 12.77% 
+
+Mag: Knight = 34.04% Healer = 97.87% Scout = 96.81% 
+Knight: Mag = 65.96% Healer = 98.94% Scout = 100.0% 
+Healer: Mag = 2.13% Knight = 1.06% Scout = 26.6% 
+Scout: Mag = 3.19% Knight = 0.0% Healer = 73.4% 
+
+fight 95 
+Mag 217 38.07% 
+Knight 252 44.21% 
+Healer 28 4.91% 
+Scout 73 12.81% 
+
+Mag: Knight = 33.68% Healer = 97.89% Scout = 96.84% 
+Knight: Mag = 66.32% Healer = 98.95% Scout = 100.0% 
+Healer: Mag = 2.11% Knight = 1.05% Scout = 26.32% 
+Scout: Mag = 3.16% Knight = 0.0% Healer = 73.68% 
+
+fight 96 
+Mag 219 38.02% 
+Knight 255 44.27% 
+Healer 28 4.86% 
+Scout 74 12.85% 
+
+Mag: Knight = 33.33% Healer = 97.92% Scout = 96.88% 
+Knight: Mag = 66.67% Healer = 98.96% Scout = 100.0% 
+Healer: Mag = 2.08% Knight = 1.04% Scout = 26.04% 
+Scout: Mag = 3.12% Knight = 0.0% Healer = 73.96% 
+
+fight 97 
+Mag 220 37.8% 
+Knight 258 44.33% 
+Healer 30 5.15% 
+Scout 74 12.71% 
+
+Mag: Knight = 32.99% Healer = 96.91% Scout = 96.91% 
+Knight: Mag = 67.01% Healer = 98.97% Scout = 100.0% 
+Healer: Mag = 3.09% Knight = 1.03% Scout = 26.8% 
+Scout: Mag = 3.09% Knight = 0.0% Healer = 73.2% 
+
+fight 98 
+Mag 223 37.93% 
+Knight 260 44.22% 
+Healer 30 5.1% 
+Scout 75 12.76% 
+
+Mag: Knight = 33.67% Healer = 96.94% Scout = 96.94% 
+Knight: Mag = 66.33% Healer = 98.98% Scout = 100.0% 
+Healer: Mag = 3.06% Knight = 1.02% Scout = 26.53% 
+Scout: Mag = 3.06% Knight = 0.0% Healer = 73.47% 
+
+fight 99 
+Mag 226 38.05% 
+Knight 262 44.11% 
+Healer 30 5.05% 
+Scout 76 12.79% 
+
+Mag: Knight = 34.34% Healer = 96.97% Scout = 96.97% 
+Knight: Mag = 65.66% Healer = 98.99% Scout = 100.0% 
+Healer: Mag = 3.03% Knight = 1.01% Scout = 26.26% 
+Scout: Mag = 3.03% Knight = 0.0% Healer = 73.74% 
+
+fight 100 
+Mag 229 38.17% 
+Knight 264 44.0% 
+Healer 30 5.0% 
+Scout 77 12.83% 
+
+Mag: Knight = 35.0% Healer = 97.0% Scout = 97.0% 
+Knight: Mag = 65.0% Healer = 99.0% Scout = 100.0% 
+Healer: Mag = 3.0% Knight = 1.0% Scout = 26.0% 
+Scout: Mag = 3.0% Knight = 0.0% Healer = 74.0% 
+
+fight 101 
+Mag 230 37.95% 
+Knight 267 44.06% 
+Healer 31 5.12% 
+Scout 78 12.87% 
+
+Mag: Knight = 34.65% Healer = 97.03% Scout = 96.04% 
+Knight: Mag = 65.35% Healer = 99.01% Scout = 100.0% 
+Healer: Mag = 2.97% Knight = 0.99% Scout = 26.73% 
+Scout: Mag = 3.96% Knight = 0.0% Healer = 73.27% 
+
+fight 102 
+Mag 232 37.91% 
+Knight 270 44.12% 
+Healer 31 5.07% 
+Scout 79 12.91% 
+
+Mag: Knight = 34.31% Healer = 97.06% Scout = 96.08% 
+Knight: Mag = 65.69% Healer = 99.02% Scout = 100.0% 
+Healer: Mag = 2.94% Knight = 0.98% Scout = 26.47% 
+Scout: Mag = 3.92% Knight = 0.0% Healer = 73.53% 
+
+fight 103 
+Mag 234 37.86% 
+Knight 273 44.17% 
+Healer 31 5.02% 
+Scout 80 12.94% 
+
+Mag: Knight = 33.98% Healer = 97.09% Scout = 96.12% 
+Knight: Mag = 66.02% Healer = 99.03% Scout = 100.0% 
+Healer: Mag = 2.91% Knight = 0.97% Scout = 26.21% 
+Scout: Mag = 3.88% Knight = 0.0% Healer = 73.79% 
+
+fight 104 
+Mag 236 37.82% 
+Knight 276 44.23% 
+Healer 31 4.97% 
+Scout 81 12.98% 
+
+Mag: Knight = 33.65% Healer = 97.12% Scout = 96.15% 
+Knight: Mag = 66.35% Healer = 99.04% Scout = 100.0% 
+Healer: Mag = 2.88% Knight = 0.96% Scout = 25.96% 
+Scout: Mag = 3.85% Knight = 0.0% Healer = 74.04% 
+
+fight 105 
+Mag 238 37.78% 
+Knight 279 44.29% 
+Healer 31 4.92% 
+Scout 82 13.02% 
+
+Mag: Knight = 33.33% Healer = 97.14% Scout = 96.19% 
+Knight: Mag = 66.67% Healer = 99.05% Scout = 100.0% 
+Healer: Mag = 2.86% Knight = 0.95% Scout = 25.71% 
+Scout: Mag = 3.81% Knight = 0.0% Healer = 74.29% 
+
+fight 106 
+Mag 241 37.89% 
+Knight 281 44.18% 
+Healer 32 5.03% 
+Scout 82 12.89% 
+
+Mag: Knight = 33.96% Healer = 97.17% Scout = 96.23% 
+Knight: Mag = 66.04% Healer = 99.06% Scout = 100.0% 
+Healer: Mag = 2.83% Knight = 0.94% Scout = 26.42% 
+Scout: Mag = 3.77% Knight = 0.0% Healer = 73.58% 
+
+fight 107 
+Mag 243 37.85% 
+Knight 283 44.08% 
+Healer 32 4.98% 
+Scout 84 13.08% 
+
+Mag: Knight = 34.58% Healer = 97.2% Scout = 95.33% 
+Knight: Mag = 65.42% Healer = 99.07% Scout = 100.0% 
+Healer: Mag = 2.8% Knight = 0.93% Scout = 26.17% 
+Scout: Mag = 4.67% Knight = 0.0% Healer = 73.83% 
+
+fight 108 
+Mag 246 37.96% 
+Knight 285 43.98% 
+Healer 32 4.94% 
+Scout 85 13.12% 
+
+Mag: Knight = 35.19% Healer = 97.22% Scout = 95.37% 
+Knight: Mag = 64.81% Healer = 99.07% Scout = 100.0% 
+Healer: Mag = 2.78% Knight = 0.93% Scout = 25.93% 
+Scout: Mag = 4.63% Knight = 0.0% Healer = 74.07% 
+
+fight 109 
+Mag 248 37.92% 
+Knight 288 44.04% 
+Healer 33 5.05% 
+Scout 85 13.0% 
+
+Mag: Knight = 34.86% Healer = 97.25% Scout = 95.41% 
+Knight: Mag = 65.14% Healer = 99.08% Scout = 100.0% 
+Healer: Mag = 2.75% Knight = 0.92% Scout = 26.61% 
+Scout: Mag = 4.59% Knight = 0.0% Healer = 73.39% 
+
+fight 110 
+Mag 250 37.88% 
+Knight 291 44.09% 
+Healer 34 5.15% 
+Scout 85 12.88% 
+
+Mag: Knight = 34.55% Healer = 97.27% Scout = 95.45% 
+Knight: Mag = 65.45% Healer = 99.09% Scout = 100.0% 
+Healer: Mag = 2.73% Knight = 0.91% Scout = 27.27% 
+Scout: Mag = 4.55% Knight = 0.0% Healer = 72.73% 
+
+fight 111 
+Mag 252 37.84% 
+Knight 294 44.14% 
+Healer 34 5.11% 
+Scout 86 12.91% 
+
+Mag: Knight = 34.23% Healer = 97.3% Scout = 95.5% 
+Knight: Mag = 65.77% Healer = 99.1% Scout = 100.0% 
+Healer: Mag = 2.7% Knight = 0.9% Scout = 27.03% 
+Scout: Mag = 4.5% Knight = 0.0% Healer = 72.97% 
+
+fight 112 
+Mag 255 37.95% 
+Knight 296 44.05% 
+Healer 34 5.06% 
+Scout 87 12.95% 
+
+Mag: Knight = 34.82% Healer = 97.32% Scout = 95.54% 
+Knight: Mag = 65.18% Healer = 99.11% Scout = 100.0% 
+Healer: Mag = 2.68% Knight = 0.89% Scout = 26.79% 
+Scout: Mag = 4.46% Knight = 0.0% Healer = 73.21% 
+
+fight 113 
+Mag 257 37.91% 
+Knight 299 44.1% 
+Healer 34 5.01% 
+Scout 88 12.98% 
+
+Mag: Knight = 34.51% Healer = 97.35% Scout = 95.58% 
+Knight: Mag = 65.49% Healer = 99.12% Scout = 100.0% 
+Healer: Mag = 2.65% Knight = 0.88% Scout = 26.55% 
+Scout: Mag = 4.42% Knight = 0.0% Healer = 73.45% 
+
+fight 114 
+Mag 259 37.87% 
+Knight 302 44.15% 
+Healer 35 5.12% 
+Scout 88 12.87% 
+
+Mag: Knight = 34.21% Healer = 97.37% Scout = 95.61% 
+Knight: Mag = 65.79% Healer = 99.12% Scout = 100.0% 
+Healer: Mag = 2.63% Knight = 0.88% Scout = 27.19% 
+Scout: Mag = 4.39% Knight = 0.0% Healer = 72.81% 
+
+fight 115 
+Mag 261 37.83% 
+Knight 304 44.06% 
+Healer 35 5.07% 
+Scout 90 13.04% 
+
+Mag: Knight = 34.78% Healer = 97.39% Scout = 94.78% 
+Knight: Mag = 65.22% Healer = 99.13% Scout = 100.0% 
+Healer: Mag = 2.61% Knight = 0.87% Scout = 26.96% 
+Scout: Mag = 5.22% Knight = 0.0% Healer = 73.04% 
+
+fight 116 
+Mag 262 37.64% 
+Knight 307 44.11% 
+Healer 35 5.03% 
+Scout 92 13.22% 
+
+Mag: Knight = 34.48% Healer = 97.41% Scout = 93.97% 
+Knight: Mag = 65.52% Healer = 99.14% Scout = 100.0% 
+Healer: Mag = 2.59% Knight = 0.86% Scout = 26.72% 
+Scout: Mag = 6.03% Knight = 0.0% Healer = 73.28% 
+
+fight 117 
+Mag 265 37.75% 
+Knight 309 44.02% 
+Healer 35 4.99% 
+Scout 93 13.25% 
+
+Mag: Knight = 35.04% Healer = 97.44% Scout = 94.02% 
+Knight: Mag = 64.96% Healer = 99.15% Scout = 100.0% 
+Healer: Mag = 2.56% Knight = 0.85% Scout = 26.5% 
+Scout: Mag = 5.98% Knight = 0.0% Healer = 73.5% 
+
+fight 118 
+Mag 267 37.71% 
+Knight 312 44.07% 
+Healer 35 4.94% 
+Scout 94 13.28% 
+
+Mag: Knight = 34.75% Healer = 97.46% Scout = 94.07% 
+Knight: Mag = 65.25% Healer = 99.15% Scout = 100.0% 
+Healer: Mag = 2.54% Knight = 0.85% Scout = 26.27% 
+Scout: Mag = 5.93% Knight = 0.0% Healer = 73.73% 
+
+fight 119 
+Mag 269 37.68% 
+Knight 315 44.12% 
+Healer 35 4.9% 
+Scout 95 13.31% 
+
+Mag: Knight = 34.45% Healer = 97.48% Scout = 94.12% 
+Knight: Mag = 65.55% Healer = 99.16% Scout = 100.0% 
+Healer: Mag = 2.52% Knight = 0.84% Scout = 26.05% 
+Scout: Mag = 5.88% Knight = 0.0% Healer = 73.95% 
+
+fight 120 
+Mag 270 37.5% 
+Knight 318 44.17% 
+Healer 35 4.86% 
+Scout 97 13.47% 
+
+Mag: Knight = 34.17% Healer = 97.5% Scout = 93.33% 
+Knight: Mag = 65.83% Healer = 99.17% Scout = 100.0% 
+Healer: Mag = 2.5% Knight = 0.83% Scout = 25.83% 
+Scout: Mag = 6.67% Knight = 0.0% Healer = 74.17% 
+
+fight 121 
+Mag 271 37.33% 
+Knight 321 44.21% 
+Healer 35 4.82% 
+Scout 99 13.64% 
+
+Mag: Knight = 33.88% Healer = 97.52% Scout = 92.56% 
+Knight: Mag = 66.12% Healer = 99.17% Scout = 100.0% 
+Healer: Mag = 2.48% Knight = 0.83% Scout = 25.62% 
+Scout: Mag = 7.44% Knight = 0.0% Healer = 74.38% 
+
+fight 122 
+Mag 274 37.43% 
+Knight 323 44.13% 
+Healer 36 4.92% 
+Scout 99 13.52% 
+
+Mag: Knight = 34.43% Healer = 97.54% Scout = 92.62% 
+Knight: Mag = 65.57% Healer = 99.18% Scout = 100.0% 
+Healer: Mag = 2.46% Knight = 0.82% Scout = 26.23% 
+Scout: Mag = 7.38% Knight = 0.0% Healer = 73.77% 
+
+fight 123 
+Mag 277 37.53% 
+Knight 325 44.04% 
+Healer 36 4.88% 
+Scout 100 13.55% 
+
+Mag: Knight = 34.96% Healer = 97.56% Scout = 92.68% 
+Knight: Mag = 65.04% Healer = 99.19% Scout = 100.0% 
+Healer: Mag = 2.44% Knight = 0.81% Scout = 26.02% 
+Scout: Mag = 7.32% Knight = 0.0% Healer = 73.98% 
+
+fight 124 
+Mag 280 37.63% 
+Knight 327 43.95% 
+Healer 36 4.84% 
+Scout 101 13.58% 
+
+Mag: Knight = 35.48% Healer = 97.58% Scout = 92.74% 
+Knight: Mag = 64.52% Healer = 99.19% Scout = 100.0% 
+Healer: Mag = 2.42% Knight = 0.81% Scout = 25.81% 
+Scout: Mag = 7.26% Knight = 0.0% Healer = 74.19% 
+
+fight 125 
+Mag 283 37.73% 
+Knight 329 43.87% 
+Healer 36 4.8% 
+Scout 102 13.6% 
+
+Mag: Knight = 36.0% Healer = 97.6% Scout = 92.8% 
+Knight: Mag = 64.0% Healer = 99.2% Scout = 100.0% 
+Healer: Mag = 2.4% Knight = 0.8% Scout = 25.6% 
+Scout: Mag = 7.2% Knight = 0.0% Healer = 74.4% 
+
+fight 126 
+Mag 285 37.7% 
+Knight 332 43.92% 
+Healer 36 4.76% 
+Scout 103 13.62% 
+
+Mag: Knight = 35.71% Healer = 97.62% Scout = 92.86% 
+Knight: Mag = 64.29% Healer = 99.21% Scout = 100.0% 
+Healer: Mag = 2.38% Knight = 0.79% Scout = 25.4% 
+Scout: Mag = 7.14% Knight = 0.0% Healer = 74.6% 
+
+fight 127 
+Mag 287 37.66% 
+Knight 335 43.96% 
+Healer 37 4.86% 
+Scout 103 13.52% 
+
+Mag: Knight = 35.43% Healer = 97.64% Scout = 92.91% 
+Knight: Mag = 64.57% Healer = 99.21% Scout = 100.0% 
+Healer: Mag = 2.36% Knight = 0.79% Scout = 25.98% 
+Scout: Mag = 7.09% Knight = 0.0% Healer = 74.02% 
+
+fight 128 
+Mag 290 37.76% 
+Knight 337 43.88% 
+Healer 38 4.95% 
+Scout 103 13.41% 
+
+Mag: Knight = 35.94% Healer = 97.66% Scout = 92.97% 
+Knight: Mag = 64.06% Healer = 99.22% Scout = 100.0% 
+Healer: Mag = 2.34% Knight = 0.78% Scout = 26.56% 
+Scout: Mag = 7.03% Knight = 0.0% Healer = 73.44% 
+
+fight 129 
+Mag 293 37.86% 
+Knight 339 43.8% 
+Healer 39 5.04% 
+Scout 103 13.31% 
+
+Mag: Knight = 36.43% Healer = 97.67% Scout = 93.02% 
+Knight: Mag = 63.57% Healer = 99.22% Scout = 100.0% 
+Healer: Mag = 2.33% Knight = 0.78% Scout = 27.13% 
+Scout: Mag = 6.98% Knight = 0.0% Healer = 72.87% 
+
+fight 130 
+Mag 295 37.82% 
+Knight 342 43.85% 
+Healer 39 5.0% 
+Scout 104 13.33% 
+
+Mag: Knight = 36.15% Healer = 97.69% Scout = 93.08% 
+Knight: Mag = 63.85% Healer = 99.23% Scout = 100.0% 
+Healer: Mag = 2.31% Knight = 0.77% Scout = 26.92% 
+Scout: Mag = 6.92% Knight = 0.0% Healer = 73.08% 
+
+fight 131 
+Mag 297 37.79% 
+Knight 345 43.89% 
+Healer 39 4.96% 
+Scout 105 13.36% 
+
+Mag: Knight = 35.88% Healer = 97.71% Scout = 93.13% 
+Knight: Mag = 64.12% Healer = 99.24% Scout = 100.0% 
+Healer: Mag = 2.29% Knight = 0.76% Scout = 26.72% 
+Scout: Mag = 6.87% Knight = 0.0% Healer = 73.28% 
+
+fight 132 
+Mag 299 37.75% 
+Knight 348 43.94% 
+Healer 39 4.92% 
+Scout 106 13.38% 
+
+Mag: Knight = 35.61% Healer = 97.73% Scout = 93.18% 
+Knight: Mag = 64.39% Healer = 99.24% Scout = 100.0% 
+Healer: Mag = 2.27% Knight = 0.76% Scout = 26.52% 
+Scout: Mag = 6.82% Knight = 0.0% Healer = 73.48% 
+
+fight 133 
+Mag 302 37.84% 
+Knight 350 43.86% 
+Healer 39 4.89% 
+Scout 107 13.41% 
+
+Mag: Knight = 36.09% Healer = 97.74% Scout = 93.23% 
+Knight: Mag = 63.91% Healer = 99.25% Scout = 100.0% 
+Healer: Mag = 2.26% Knight = 0.75% Scout = 26.32% 
+Scout: Mag = 6.77% Knight = 0.0% Healer = 73.68% 
+
+fight 134 
+Mag 304 37.81% 
+Knight 353 43.91% 
+Healer 39 4.85% 
+Scout 108 13.43% 
+
+Mag: Knight = 35.82% Healer = 97.76% Scout = 93.28% 
+Knight: Mag = 64.18% Healer = 99.25% Scout = 100.0% 
+Healer: Mag = 2.24% Knight = 0.75% Scout = 26.12% 
+Scout: Mag = 6.72% Knight = 0.0% Healer = 73.88% 
+
+fight 135 
+Mag 306 37.78% 
+Knight 356 43.95% 
+Healer 40 4.94% 
+Scout 108 13.33% 
+
+Mag: Knight = 35.56% Healer = 97.78% Scout = 93.33% 
+Knight: Mag = 64.44% Healer = 99.26% Scout = 100.0% 
+Healer: Mag = 2.22% Knight = 0.74% Scout = 26.67% 
+Scout: Mag = 6.67% Knight = 0.0% Healer = 73.33% 
+
+fight 136 
+Mag 308 37.75% 
+Knight 359 44.0% 
+Healer 40 4.9% 
+Scout 109 13.36% 
+
+Mag: Knight = 35.29% Healer = 97.79% Scout = 93.38% 
+Knight: Mag = 64.71% Healer = 99.26% Scout = 100.0% 
+Healer: Mag = 2.21% Knight = 0.74% Scout = 26.47% 
+Scout: Mag = 6.62% Knight = 0.0% Healer = 73.53% 
+
+fight 137 
+Mag 310 37.71% 
+Knight 362 44.04% 
+Healer 41 4.99% 
+Scout 109 13.26% 
+
+Mag: Knight = 35.04% Healer = 97.81% Scout = 93.43% 
+Knight: Mag = 64.96% Healer = 99.27% Scout = 100.0% 
+Healer: Mag = 2.19% Knight = 0.73% Scout = 27.01% 
+Scout: Mag = 6.57% Knight = 0.0% Healer = 72.99% 
+
+fight 138 
+Mag 312 37.68% 
+Knight 365 44.08% 
+Healer 41 4.95% 
+Scout 110 13.29% 
+
+Mag: Knight = 34.78% Healer = 97.83% Scout = 93.48% 
+Knight: Mag = 65.22% Healer = 99.28% Scout = 100.0% 
+Healer: Mag = 2.17% Knight = 0.72% Scout = 26.81% 
+Scout: Mag = 6.52% Knight = 0.0% Healer = 73.19% 
+
+fight 139 
+Mag 314 37.65% 
+Knight 368 44.12% 
+Healer 41 4.92% 
+Scout 111 13.31% 
+
+Mag: Knight = 34.53% Healer = 97.84% Scout = 93.53% 
+Knight: Mag = 65.47% Healer = 99.28% Scout = 100.0% 
+Healer: Mag = 2.16% Knight = 0.72% Scout = 26.62% 
+Scout: Mag = 6.47% Knight = 0.0% Healer = 73.38% 
+
+fight 140 
+Mag 317 37.74% 
+Knight 370 44.05% 
+Healer 41 4.88% 
+Scout 112 13.33% 
+
+Mag: Knight = 35.0% Healer = 97.86% Scout = 93.57% 
+Knight: Mag = 65.0% Healer = 99.29% Scout = 100.0% 
+Healer: Mag = 2.14% Knight = 0.71% Scout = 26.43% 
+Scout: Mag = 6.43% Knight = 0.0% Healer = 73.57% 
+
+fight 141 
+Mag 319 37.71% 
+Knight 373 44.09% 
+Healer 41 4.85% 
+Scout 113 13.36% 
+
+Mag: Knight = 34.75% Healer = 97.87% Scout = 93.62% 
+Knight: Mag = 65.25% Healer = 99.29% Scout = 100.0% 
+Healer: Mag = 2.13% Knight = 0.71% Scout = 26.24% 
+Scout: Mag = 6.38% Knight = 0.0% Healer = 73.76% 
+
+fight 142 
+Mag 321 37.68% 
+Knight 376 44.13% 
+Healer 41 4.81% 
+Scout 114 13.38% 
+
+Mag: Knight = 34.51% Healer = 97.89% Scout = 93.66% 
+Knight: Mag = 65.49% Healer = 99.3% Scout = 100.0% 
+Healer: Mag = 2.11% Knight = 0.7% Scout = 26.06% 
+Scout: Mag = 6.34% Knight = 0.0% Healer = 73.94% 
+
+fight 143 
+Mag 324 37.76% 
+Knight 378 44.06% 
+Healer 41 4.78% 
+Scout 115 13.4% 
+
+Mag: Knight = 34.97% Healer = 97.9% Scout = 93.71% 
+Knight: Mag = 65.03% Healer = 99.3% Scout = 100.0% 
+Healer: Mag = 2.1% Knight = 0.7% Scout = 25.87% 
+Scout: Mag = 6.29% Knight = 0.0% Healer = 74.13% 
+
+fight 144 
+Mag 326 37.73% 
+Knight 380 43.98% 
+Healer 41 4.75% 
+Scout 117 13.54% 
+
+Mag: Knight = 35.42% Healer = 97.92% Scout = 93.06% 
+Knight: Mag = 64.58% Healer = 99.31% Scout = 100.0% 
+Healer: Mag = 2.08% Knight = 0.69% Scout = 25.69% 
+Scout: Mag = 6.94% Knight = 0.0% Healer = 74.31% 
+
+fight 145 
+Mag 329 37.82% 
+Knight 382 43.91% 
+Healer 41 4.71% 
+Scout 118 13.56% 
+
+Mag: Knight = 35.86% Healer = 97.93% Scout = 93.1% 
+Knight: Mag = 64.14% Healer = 99.31% Scout = 100.0% 
+Healer: Mag = 2.07% Knight = 0.69% Scout = 25.52% 
+Scout: Mag = 6.9% Knight = 0.0% Healer = 74.48% 
+
+fight 146 
+Mag 331 37.79% 
+Knight 385 43.95% 
+Healer 42 4.79% 
+Scout 118 13.47% 
+
+Mag: Knight = 35.62% Healer = 97.95% Scout = 93.15% 
+Knight: Mag = 64.38% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 2.05% Knight = 0.68% Scout = 26.03% 
+Scout: Mag = 6.85% Knight = 0.0% Healer = 73.97% 
+
+fight 147 
+Mag 333 37.76% 
+Knight 388 43.99% 
+Healer 42 4.76% 
+Scout 119 13.49% 
+
+Mag: Knight = 35.37% Healer = 97.96% Scout = 93.2% 
+Knight: Mag = 64.63% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 2.04% Knight = 0.68% Scout = 25.85% 
+Scout: Mag = 6.8% Knight = 0.0% Healer = 74.15% 
+
+fight 148 
+Mag 335 37.73% 
+Knight 390 43.92% 
+Healer 42 4.73% 
+Scout 121 13.63% 
+
+Mag: Knight = 35.81% Healer = 97.97% Scout = 92.57% 
+Knight: Mag = 64.19% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 2.03% Knight = 0.68% Scout = 25.68% 
+Scout: Mag = 7.43% Knight = 0.0% Healer = 74.32% 
+
+fight 149 
+Mag 338 37.81% 
+Knight 392 43.85% 
+Healer 43 4.81% 
+Scout 121 13.53% 
+
+Mag: Knight = 36.24% Healer = 97.99% Scout = 92.62% 
+Knight: Mag = 63.76% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 2.01% Knight = 0.67% Scout = 26.17% 
+Scout: Mag = 7.38% Knight = 0.0% Healer = 73.83% 
+
+fight 150 
+Mag 340 37.78% 
+Knight 395 43.89% 
+Healer 43 4.78% 
+Scout 122 13.56% 
+
+Mag: Knight = 36.0% Healer = 98.0% Scout = 92.67% 
+Knight: Mag = 64.0% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 2.0% Knight = 0.67% Scout = 26.0% 
+Scout: Mag = 7.33% Knight = 0.0% Healer = 74.0% 
+
+fight 151 
+Mag 343 37.86% 
+Knight 397 43.82% 
+Healer 43 4.75% 
+Scout 123 13.58% 
+
+Mag: Knight = 36.42% Healer = 98.01% Scout = 92.72% 
+Knight: Mag = 63.58% Healer = 99.34% Scout = 100.0% 
+Healer: Mag = 1.99% Knight = 0.66% Scout = 25.83% 
+Scout: Mag = 7.28% Knight = 0.0% Healer = 74.17% 
+
+fight 152 
+Mag 345 37.83% 
+Knight 400 43.86% 
+Healer 43 4.71% 
+Scout 124 13.6% 
+
+Mag: Knight = 36.18% Healer = 98.03% Scout = 92.76% 
+Knight: Mag = 63.82% Healer = 99.34% Scout = 100.0% 
+Healer: Mag = 1.97% Knight = 0.66% Scout = 25.66% 
+Scout: Mag = 7.24% Knight = 0.0% Healer = 74.34% 
+
+fight 153 
+Mag 347 37.8% 
+Knight 403 43.9% 
+Healer 43 4.68% 
+Scout 125 13.62% 
+
+Mag: Knight = 35.95% Healer = 98.04% Scout = 92.81% 
+Knight: Mag = 64.05% Healer = 99.35% Scout = 100.0% 
+Healer: Mag = 1.96% Knight = 0.65% Scout = 25.49% 
+Scout: Mag = 7.19% Knight = 0.0% Healer = 74.51% 
+
+fight 154 
+Mag 348 37.66% 
+Knight 406 43.94% 
+Healer 43 4.65% 
+Scout 127 13.74% 
+
+Mag: Knight = 35.71% Healer = 98.05% Scout = 92.21% 
+Knight: Mag = 64.29% Healer = 99.35% Scout = 100.0% 
+Healer: Mag = 1.95% Knight = 0.65% Scout = 25.32% 
+Scout: Mag = 7.79% Knight = 0.0% Healer = 74.68% 
+
+fight 155 
+Mag 350 37.63% 
+Knight 409 43.98% 
+Healer 43 4.62% 
+Scout 128 13.76% 
+
+Mag: Knight = 35.48% Healer = 98.06% Scout = 92.26% 
+Knight: Mag = 64.52% Healer = 99.35% Scout = 100.0% 
+Healer: Mag = 1.94% Knight = 0.65% Scout = 25.16% 
+Scout: Mag = 7.74% Knight = 0.0% Healer = 74.84% 
+
+fight 156 
+Mag 353 37.71% 
+Knight 411 43.91% 
+Healer 43 4.59% 
+Scout 129 13.78% 
+
+Mag: Knight = 35.9% Healer = 98.08% Scout = 92.31% 
+Knight: Mag = 64.1% Healer = 99.36% Scout = 100.0% 
+Healer: Mag = 1.92% Knight = 0.64% Scout = 25.0% 
+Scout: Mag = 7.69% Knight = 0.0% Healer = 75.0% 
+
+fight 157 
+Mag 355 37.69% 
+Knight 414 43.95% 
+Healer 43 4.56% 
+Scout 130 13.8% 
+
+Mag: Knight = 35.67% Healer = 98.09% Scout = 92.36% 
+Knight: Mag = 64.33% Healer = 99.36% Scout = 100.0% 
+Healer: Mag = 1.91% Knight = 0.64% Scout = 24.84% 
+Scout: Mag = 7.64% Knight = 0.0% Healer = 75.16% 
+
+fight 158 
+Mag 357 37.66% 
+Knight 417 43.99% 
+Healer 43 4.54% 
+Scout 131 13.82% 
+
+Mag: Knight = 35.44% Healer = 98.1% Scout = 92.41% 
+Knight: Mag = 64.56% Healer = 99.37% Scout = 100.0% 
+Healer: Mag = 1.9% Knight = 0.63% Scout = 24.68% 
+Scout: Mag = 7.59% Knight = 0.0% Healer = 75.32% 
+
+fight 159 
+Mag 360 37.74% 
+Knight 419 43.92% 
+Healer 43 4.51% 
+Scout 132 13.84% 
+
+Mag: Knight = 35.85% Healer = 98.11% Scout = 92.45% 
+Knight: Mag = 64.15% Healer = 99.37% Scout = 100.0% 
+Healer: Mag = 1.89% Knight = 0.63% Scout = 24.53% 
+Scout: Mag = 7.55% Knight = 0.0% Healer = 75.47% 
+
+fight 160 
+Mag 362 37.71% 
+Knight 422 43.96% 
+Healer 43 4.48% 
+Scout 133 13.85% 
+
+Mag: Knight = 35.62% Healer = 98.12% Scout = 92.5% 
+Knight: Mag = 64.38% Healer = 99.38% Scout = 100.0% 
+Healer: Mag = 1.88% Knight = 0.62% Scout = 24.38% 
+Scout: Mag = 7.5% Knight = 0.0% Healer = 75.62% 
+
+fight 161 
+Mag 365 37.78% 
+Knight 424 43.89% 
+Healer 43 4.45% 
+Scout 134 13.87% 
+
+Mag: Knight = 36.02% Healer = 98.14% Scout = 92.55% 
+Knight: Mag = 63.98% Healer = 99.38% Scout = 100.0% 
+Healer: Mag = 1.86% Knight = 0.62% Scout = 24.22% 
+Scout: Mag = 7.45% Knight = 0.0% Healer = 75.78% 
+
+fight 162 
+Mag 367 37.76% 
+Knight 427 43.93% 
+Healer 44 4.53% 
+Scout 134 13.79% 
+
+Mag: Knight = 35.8% Healer = 98.15% Scout = 92.59% 
+Knight: Mag = 64.2% Healer = 99.38% Scout = 100.0% 
+Healer: Mag = 1.85% Knight = 0.62% Scout = 24.69% 
+Scout: Mag = 7.41% Knight = 0.0% Healer = 75.31% 
+
+fight 163 
+Mag 368 37.63% 
+Knight 430 43.97% 
+Healer 45 4.6% 
+Scout 135 13.8% 
+
+Mag: Knight = 35.58% Healer = 98.16% Scout = 92.02% 
+Knight: Mag = 64.42% Healer = 99.39% Scout = 100.0% 
+Healer: Mag = 1.84% Knight = 0.61% Scout = 25.15% 
+Scout: Mag = 7.98% Knight = 0.0% Healer = 74.85% 
+
+fight 164 
+Mag 370 37.6% 
+Knight 433 44.0% 
+Healer 46 4.67% 
+Scout 135 13.72% 
+
+Mag: Knight = 35.37% Healer = 98.17% Scout = 92.07% 
+Knight: Mag = 64.63% Healer = 99.39% Scout = 100.0% 
+Healer: Mag = 1.83% Knight = 0.61% Scout = 25.61% 
+Scout: Mag = 7.93% Knight = 0.0% Healer = 74.39% 
+
+fight 165 
+Mag 372 37.58% 
+Knight 436 44.04% 
+Healer 46 4.65% 
+Scout 136 13.74% 
+
+Mag: Knight = 35.15% Healer = 98.18% Scout = 92.12% 
+Knight: Mag = 64.85% Healer = 99.39% Scout = 100.0% 
+Healer: Mag = 1.82% Knight = 0.61% Scout = 25.45% 
+Scout: Mag = 7.88% Knight = 0.0% Healer = 74.55% 
+
+fight 166 
+Mag 374 37.55% 
+Knight 439 44.08% 
+Healer 47 4.72% 
+Scout 136 13.65% 
+
+Mag: Knight = 34.94% Healer = 98.19% Scout = 92.17% 
+Knight: Mag = 65.06% Healer = 99.4% Scout = 100.0% 
+Healer: Mag = 1.81% Knight = 0.6% Scout = 25.9% 
+Scout: Mag = 7.83% Knight = 0.0% Healer = 74.1% 
+
+fight 167 
+Mag 376 37.52% 
+Knight 442 44.11% 
+Healer 47 4.69% 
+Scout 137 13.67% 
+
+Mag: Knight = 34.73% Healer = 98.2% Scout = 92.22% 
+Knight: Mag = 65.27% Healer = 99.4% Scout = 100.0% 
+Healer: Mag = 1.8% Knight = 0.6% Scout = 25.75% 
+Scout: Mag = 7.78% Knight = 0.0% Healer = 74.25% 
+
+fight 168 
+Mag 378 37.5% 
+Knight 445 44.15% 
+Healer 47 4.66% 
+Scout 138 13.69% 
+
+Mag: Knight = 34.52% Healer = 98.21% Scout = 92.26% 
+Knight: Mag = 65.48% Healer = 99.4% Scout = 100.0% 
+Healer: Mag = 1.79% Knight = 0.6% Scout = 25.6% 
+Scout: Mag = 7.74% Knight = 0.0% Healer = 74.4% 
+
+fight 169 
+Mag 380 37.48% 
+Knight 448 44.18% 
+Healer 47 4.64% 
+Scout 139 13.71% 
+
+Mag: Knight = 34.32% Healer = 98.22% Scout = 92.31% 
+Knight: Mag = 65.68% Healer = 99.41% Scout = 100.0% 
+Healer: Mag = 1.78% Knight = 0.59% Scout = 25.44% 
+Scout: Mag = 7.69% Knight = 0.0% Healer = 74.56% 
+
+fight 170 
+Mag 383 37.55% 
+Knight 450 44.12% 
+Healer 47 4.61% 
+Scout 140 13.73% 
+
+Mag: Knight = 34.71% Healer = 98.24% Scout = 92.35% 
+Knight: Mag = 65.29% Healer = 99.41% Scout = 100.0% 
+Healer: Mag = 1.76% Knight = 0.59% Scout = 25.29% 
+Scout: Mag = 7.65% Knight = 0.0% Healer = 74.71% 
+
+fight 171 
+Mag 385 37.52% 
+Knight 453 44.15% 
+Healer 48 4.68% 
+Scout 140 13.65% 
+
+Mag: Knight = 34.5% Healer = 98.25% Scout = 92.4% 
+Knight: Mag = 65.5% Healer = 99.42% Scout = 100.0% 
+Healer: Mag = 1.75% Knight = 0.58% Scout = 25.73% 
+Scout: Mag = 7.6% Knight = 0.0% Healer = 74.27% 
+
+fight 172 
+Mag 387 37.5% 
+Knight 456 44.19% 
+Healer 48 4.65% 
+Scout 141 13.66% 
+
+Mag: Knight = 34.3% Healer = 98.26% Scout = 92.44% 
+Knight: Mag = 65.7% Healer = 99.42% Scout = 100.0% 
+Healer: Mag = 1.74% Knight = 0.58% Scout = 25.58% 
+Scout: Mag = 7.56% Knight = 0.0% Healer = 74.42% 
+
+fight 173 
+Mag 390 37.57% 
+Knight 458 44.12% 
+Healer 48 4.62% 
+Scout 142 13.68% 
+
+Mag: Knight = 34.68% Healer = 98.27% Scout = 92.49% 
+Knight: Mag = 65.32% Healer = 99.42% Scout = 100.0% 
+Healer: Mag = 1.73% Knight = 0.58% Scout = 25.43% 
+Scout: Mag = 7.51% Knight = 0.0% Healer = 74.57% 
+
+fight 174 
+Mag 391 37.45% 
+Knight 461 44.16% 
+Healer 48 4.6% 
+Scout 144 13.79% 
+
+Mag: Knight = 34.48% Healer = 98.28% Scout = 91.95% 
+Knight: Mag = 65.52% Healer = 99.43% Scout = 100.0% 
+Healer: Mag = 1.72% Knight = 0.57% Scout = 25.29% 
+Scout: Mag = 8.05% Knight = 0.0% Healer = 74.71% 
+
+fight 175 
+Mag 393 37.43% 
+Knight 463 44.1% 
+Healer 48 4.57% 
+Scout 146 13.9% 
+
+Mag: Knight = 34.86% Healer = 98.29% Scout = 91.43% 
+Knight: Mag = 65.14% Healer = 99.43% Scout = 100.0% 
+Healer: Mag = 1.71% Knight = 0.57% Scout = 25.14% 
+Scout: Mag = 8.57% Knight = 0.0% Healer = 74.86% 
+
+fight 176 
+Mag 396 37.5% 
+Knight 465 44.03% 
+Healer 48 4.55% 
+Scout 147 13.92% 
+
+Mag: Knight = 35.23% Healer = 98.3% Scout = 91.48% 
+Knight: Mag = 64.77% Healer = 99.43% Scout = 100.0% 
+Healer: Mag = 1.7% Knight = 0.57% Scout = 25.0% 
+Scout: Mag = 8.52% Knight = 0.0% Healer = 75.0% 
+
+fight 177 
+Mag 398 37.48% 
+Knight 468 44.07% 
+Healer 48 4.52% 
+Scout 148 13.94% 
+
+Mag: Knight = 35.03% Healer = 98.31% Scout = 91.53% 
+Knight: Mag = 64.97% Healer = 99.44% Scout = 100.0% 
+Healer: Mag = 1.69% Knight = 0.56% Scout = 24.86% 
+Scout: Mag = 8.47% Knight = 0.0% Healer = 75.14% 
+
+fight 178 
+Mag 400 37.45% 
+Knight 471 44.1% 
+Healer 48 4.49% 
+Scout 149 13.95% 
+
+Mag: Knight = 34.83% Healer = 98.31% Scout = 91.57% 
+Knight: Mag = 65.17% Healer = 99.44% Scout = 100.0% 
+Healer: Mag = 1.69% Knight = 0.56% Scout = 24.72% 
+Scout: Mag = 8.43% Knight = 0.0% Healer = 75.28% 
+
+fight 179 
+Mag 402 37.43% 
+Knight 474 44.13% 
+Healer 49 4.56% 
+Scout 149 13.87% 
+
+Mag: Knight = 34.64% Healer = 98.32% Scout = 91.62% 
+Knight: Mag = 65.36% Healer = 99.44% Scout = 100.0% 
+Healer: Mag = 1.68% Knight = 0.56% Scout = 25.14% 
+Scout: Mag = 8.38% Knight = 0.0% Healer = 74.86% 
+
+fight 180 
+Mag 404 37.41% 
+Knight 477 44.17% 
+Healer 49 4.54% 
+Scout 150 13.89% 
+
+Mag: Knight = 34.44% Healer = 98.33% Scout = 91.67% 
+Knight: Mag = 65.56% Healer = 99.44% Scout = 100.0% 
+Healer: Mag = 1.67% Knight = 0.56% Scout = 25.0% 
+Scout: Mag = 8.33% Knight = 0.0% Healer = 75.0% 
+
+fight 181 
+Mag 407 37.48% 
+Knight 479 44.11% 
+Healer 50 4.6% 
+Scout 150 13.81% 
+
+Mag: Knight = 34.81% Healer = 98.34% Scout = 91.71% 
+Knight: Mag = 65.19% Healer = 99.45% Scout = 100.0% 
+Healer: Mag = 1.66% Knight = 0.55% Scout = 25.41% 
+Scout: Mag = 8.29% Knight = 0.0% Healer = 74.59% 
+
+fight 182 
+Mag 410 37.55% 
+Knight 481 44.05% 
+Healer 50 4.58% 
+Scout 151 13.83% 
+
+Mag: Knight = 35.16% Healer = 98.35% Scout = 91.76% 
+Knight: Mag = 64.84% Healer = 99.45% Scout = 100.0% 
+Healer: Mag = 1.65% Knight = 0.55% Scout = 25.27% 
+Scout: Mag = 8.24% Knight = 0.0% Healer = 74.73% 
+
+fight 183 
+Mag 413 37.61% 
+Knight 483 43.99% 
+Healer 50 4.55% 
+Scout 152 13.84% 
+
+Mag: Knight = 35.52% Healer = 98.36% Scout = 91.8% 
+Knight: Mag = 64.48% Healer = 99.45% Scout = 100.0% 
+Healer: Mag = 1.64% Knight = 0.55% Scout = 25.14% 
+Scout: Mag = 8.2% Knight = 0.0% Healer = 74.86% 
+
+fight 184 
+Mag 415 37.59% 
+Knight 486 44.02% 
+Healer 50 4.53% 
+Scout 153 13.86% 
+
+Mag: Knight = 35.33% Healer = 98.37% Scout = 91.85% 
+Knight: Mag = 64.67% Healer = 99.46% Scout = 100.0% 
+Healer: Mag = 1.63% Knight = 0.54% Scout = 25.0% 
+Scout: Mag = 8.15% Knight = 0.0% Healer = 75.0% 
+
+fight 185 
+Mag 417 37.57% 
+Knight 489 44.05% 
+Healer 51 4.59% 
+Scout 153 13.78% 
+
+Mag: Knight = 35.14% Healer = 98.38% Scout = 91.89% 
+Knight: Mag = 64.86% Healer = 99.46% Scout = 100.0% 
+Healer: Mag = 1.62% Knight = 0.54% Scout = 25.41% 
+Scout: Mag = 8.11% Knight = 0.0% Healer = 74.59% 
+
+fight 186 
+Mag 419 37.54% 
+Knight 492 44.09% 
+Healer 51 4.57% 
+Scout 154 13.8% 
+
+Mag: Knight = 34.95% Healer = 98.39% Scout = 91.94% 
+Knight: Mag = 65.05% Healer = 99.46% Scout = 100.0% 
+Healer: Mag = 1.61% Knight = 0.54% Scout = 25.27% 
+Scout: Mag = 8.06% Knight = 0.0% Healer = 74.73% 
+
+fight 187 
+Mag 422 37.61% 
+Knight 494 44.03% 
+Healer 51 4.55% 
+Scout 155 13.81% 
+
+Mag: Knight = 35.29% Healer = 98.4% Scout = 91.98% 
+Knight: Mag = 64.71% Healer = 99.47% Scout = 100.0% 
+Healer: Mag = 1.6% Knight = 0.53% Scout = 25.13% 
+Scout: Mag = 8.02% Knight = 0.0% Healer = 74.87% 
+
+fight 188 
+Mag 424 37.59% 
+Knight 497 44.06% 
+Healer 51 4.52% 
+Scout 156 13.83% 
+
+Mag: Knight = 35.11% Healer = 98.4% Scout = 92.02% 
+Knight: Mag = 64.89% Healer = 99.47% Scout = 100.0% 
+Healer: Mag = 1.6% Knight = 0.53% Scout = 25.0% 
+Scout: Mag = 7.98% Knight = 0.0% Healer = 75.0% 
+
+fight 189 
+Mag 427 37.65% 
+Knight 499 44.0% 
+Healer 52 4.59% 
+Scout 156 13.76% 
+
+Mag: Knight = 35.45% Healer = 98.41% Scout = 92.06% 
+Knight: Mag = 64.55% Healer = 99.47% Scout = 100.0% 
+Healer: Mag = 1.59% Knight = 0.53% Scout = 25.4% 
+Scout: Mag = 7.94% Knight = 0.0% Healer = 74.6% 
+
+fight 190 
+Mag 430 37.72% 
+Knight 501 43.95% 
+Healer 52 4.56% 
+Scout 157 13.77% 
+
+Mag: Knight = 35.79% Healer = 98.42% Scout = 92.11% 
+Knight: Mag = 64.21% Healer = 99.47% Scout = 100.0% 
+Healer: Mag = 1.58% Knight = 0.53% Scout = 25.26% 
+Scout: Mag = 7.89% Knight = 0.0% Healer = 74.74% 
+
+fight 191 
+Mag 433 37.78% 
+Knight 503 43.89% 
+Healer 53 4.62% 
+Scout 157 13.7% 
+
+Mag: Knight = 36.13% Healer = 98.43% Scout = 92.15% 
+Knight: Mag = 63.87% Healer = 99.48% Scout = 100.0% 
+Healer: Mag = 1.57% Knight = 0.52% Scout = 25.65% 
+Scout: Mag = 7.85% Knight = 0.0% Healer = 74.35% 
+
+fight 192 
+Mag 436 37.85% 
+Knight 504 43.75% 
+Healer 54 4.69% 
+Scout 158 13.72% 
+
+Mag: Knight = 36.46% Healer = 98.44% Scout = 92.19% 
+Knight: Mag = 63.54% Healer = 98.96% Scout = 100.0% 
+Healer: Mag = 1.56% Knight = 1.04% Scout = 25.52% 
+Scout: Mag = 7.81% Knight = 0.0% Healer = 74.48% 
+
+fight 193 
+Mag 438 37.82% 
+Knight 507 43.78% 
+Healer 54 4.66% 
+Scout 159 13.73% 
+
+Mag: Knight = 36.27% Healer = 98.45% Scout = 92.23% 
+Knight: Mag = 63.73% Healer = 98.96% Scout = 100.0% 
+Healer: Mag = 1.55% Knight = 1.04% Scout = 25.39% 
+Scout: Mag = 7.77% Knight = 0.0% Healer = 74.61% 
+
+fight 194 
+Mag 441 37.89% 
+Knight 509 43.73% 
+Healer 54 4.64% 
+Scout 160 13.75% 
+
+Mag: Knight = 36.6% Healer = 98.45% Scout = 92.27% 
+Knight: Mag = 63.4% Healer = 98.97% Scout = 100.0% 
+Healer: Mag = 1.55% Knight = 1.03% Scout = 25.26% 
+Scout: Mag = 7.73% Knight = 0.0% Healer = 74.74% 
+
+fight 195 
+Mag 444 37.95% 
+Knight 511 43.68% 
+Healer 55 4.7% 
+Scout 160 13.68% 
+
+Mag: Knight = 36.92% Healer = 98.46% Scout = 92.31% 
+Knight: Mag = 63.08% Healer = 98.97% Scout = 100.0% 
+Healer: Mag = 1.54% Knight = 1.03% Scout = 25.64% 
+Scout: Mag = 7.69% Knight = 0.0% Healer = 74.36% 
+
+fight 196 
+Mag 446 37.93% 
+Knight 514 43.71% 
+Healer 55 4.68% 
+Scout 161 13.69% 
+
+Mag: Knight = 36.73% Healer = 98.47% Scout = 92.35% 
+Knight: Mag = 63.27% Healer = 98.98% Scout = 100.0% 
+Healer: Mag = 1.53% Knight = 1.02% Scout = 25.51% 
+Scout: Mag = 7.65% Knight = 0.0% Healer = 74.49% 
+
+fight 197 
+Mag 449 37.99% 
+Knight 516 43.65% 
+Healer 56 4.74% 
+Scout 161 13.62% 
+
+Mag: Knight = 37.06% Healer = 98.48% Scout = 92.39% 
+Knight: Mag = 62.94% Healer = 98.98% Scout = 100.0% 
+Healer: Mag = 1.52% Knight = 1.02% Scout = 25.89% 
+Scout: Mag = 7.61% Knight = 0.0% Healer = 74.11% 
+
+fight 198 
+Mag 452 38.05% 
+Knight 518 43.6% 
+Healer 56 4.71% 
+Scout 162 13.64% 
+
+Mag: Knight = 37.37% Healer = 98.48% Scout = 92.42% 
+Knight: Mag = 62.63% Healer = 98.99% Scout = 100.0% 
+Healer: Mag = 1.52% Knight = 1.01% Scout = 25.76% 
+Scout: Mag = 7.58% Knight = 0.0% Healer = 74.24% 
+
+fight 199 
+Mag 454 38.02% 
+Knight 521 43.63% 
+Healer 56 4.69% 
+Scout 163 13.65% 
+
+Mag: Knight = 37.19% Healer = 98.49% Scout = 92.46% 
+Knight: Mag = 62.81% Healer = 98.99% Scout = 100.0% 
+Healer: Mag = 1.51% Knight = 1.01% Scout = 25.63% 
+Scout: Mag = 7.54% Knight = 0.0% Healer = 74.37% 
+
+fight 200 
+Mag 456 38.0% 
+Knight 524 43.67% 
+Healer 56 4.67% 
+Scout 164 13.67% 
+
+Mag: Knight = 37.0% Healer = 98.5% Scout = 92.5% 
+Knight: Mag = 63.0% Healer = 99.0% Scout = 100.0% 
+Healer: Mag = 1.5% Knight = 1.0% Scout = 25.5% 
+Scout: Mag = 7.5% Knight = 0.0% Healer = 74.5% 
+
+fight 201 
+Mag 458 37.98% 
+Knight 527 43.7% 
+Healer 57 4.73% 
+Scout 164 13.6% 
+
+Mag: Knight = 36.82% Healer = 98.51% Scout = 92.54% 
+Knight: Mag = 63.18% Healer = 99.0% Scout = 100.0% 
+Healer: Mag = 1.49% Knight = 1.0% Scout = 25.87% 
+Scout: Mag = 7.46% Knight = 0.0% Healer = 74.13% 
+
+fight 202 
+Mag 460 37.95% 
+Knight 530 43.73% 
+Healer 57 4.7% 
+Scout 165 13.61% 
+
+Mag: Knight = 36.63% Healer = 98.51% Scout = 92.57% 
+Knight: Mag = 63.37% Healer = 99.01% Scout = 100.0% 
+Healer: Mag = 1.49% Knight = 0.99% Scout = 25.74% 
+Scout: Mag = 7.43% Knight = 0.0% Healer = 74.26% 
+
+fight 203 
+Mag 462 37.93% 
+Knight 533 43.76% 
+Healer 57 4.68% 
+Scout 166 13.63% 
+
+Mag: Knight = 36.45% Healer = 98.52% Scout = 92.61% 
+Knight: Mag = 63.55% Healer = 99.01% Scout = 100.0% 
+Healer: Mag = 1.48% Knight = 0.99% Scout = 25.62% 
+Scout: Mag = 7.39% Knight = 0.0% Healer = 74.38% 
+
+fight 204 
+Mag 464 37.91% 
+Knight 536 43.79% 
+Healer 57 4.66% 
+Scout 167 13.64% 
+
+Mag: Knight = 36.27% Healer = 98.53% Scout = 92.65% 
+Knight: Mag = 63.73% Healer = 99.02% Scout = 100.0% 
+Healer: Mag = 1.47% Knight = 0.98% Scout = 25.49% 
+Scout: Mag = 7.35% Knight = 0.0% Healer = 74.51% 
+
+fight 205 
+Mag 466 37.89% 
+Knight 539 43.82% 
+Healer 57 4.63% 
+Scout 168 13.66% 
+
+Mag: Knight = 36.1% Healer = 98.54% Scout = 92.68% 
+Knight: Mag = 63.9% Healer = 99.02% Scout = 100.0% 
+Healer: Mag = 1.46% Knight = 0.98% Scout = 25.37% 
+Scout: Mag = 7.32% Knight = 0.0% Healer = 74.63% 
+
+fight 206 
+Mag 469 37.94% 
+Knight 541 43.77% 
+Healer 57 4.61% 
+Scout 169 13.67% 
+
+Mag: Knight = 36.41% Healer = 98.54% Scout = 92.72% 
+Knight: Mag = 63.59% Healer = 99.03% Scout = 100.0% 
+Healer: Mag = 1.46% Knight = 0.97% Scout = 25.24% 
+Scout: Mag = 7.28% Knight = 0.0% Healer = 74.76% 
+
+fight 207 
+Mag 471 37.92% 
+Knight 544 43.8% 
+Healer 57 4.59% 
+Scout 170 13.69% 
+
+Mag: Knight = 36.23% Healer = 98.55% Scout = 92.75% 
+Knight: Mag = 63.77% Healer = 99.03% Scout = 100.0% 
+Healer: Mag = 1.45% Knight = 0.97% Scout = 25.12% 
+Scout: Mag = 7.25% Knight = 0.0% Healer = 74.88% 
+
+fight 208 
+Mag 474 37.98% 
+Knight 546 43.75% 
+Healer 57 4.57% 
+Scout 171 13.7% 
+
+Mag: Knight = 36.54% Healer = 98.56% Scout = 92.79% 
+Knight: Mag = 63.46% Healer = 99.04% Scout = 100.0% 
+Healer: Mag = 1.44% Knight = 0.96% Scout = 25.0% 
+Scout: Mag = 7.21% Knight = 0.0% Healer = 75.0% 
+
+fight 209 
+Mag 476 37.96% 
+Knight 549 43.78% 
+Healer 57 4.55% 
+Scout 172 13.72% 
+
+Mag: Knight = 36.36% Healer = 98.56% Scout = 92.82% 
+Knight: Mag = 63.64% Healer = 99.04% Scout = 100.0% 
+Healer: Mag = 1.44% Knight = 0.96% Scout = 24.88% 
+Scout: Mag = 7.18% Knight = 0.0% Healer = 75.12% 
+
+fight 210 
+Mag 478 37.94% 
+Knight 552 43.81% 
+Healer 57 4.52% 
+Scout 173 13.73% 
+
+Mag: Knight = 36.19% Healer = 98.57% Scout = 92.86% 
+Knight: Mag = 63.81% Healer = 99.05% Scout = 100.0% 
+Healer: Mag = 1.43% Knight = 0.95% Scout = 24.76% 
+Scout: Mag = 7.14% Knight = 0.0% Healer = 75.24% 
+
+fight 211 
+Mag 481 37.99% 
+Knight 554 43.76% 
+Healer 58 4.58% 
+Scout 173 13.67% 
+
+Mag: Knight = 36.49% Healer = 98.58% Scout = 92.89% 
+Knight: Mag = 63.51% Healer = 99.05% Scout = 100.0% 
+Healer: Mag = 1.42% Knight = 0.95% Scout = 25.12% 
+Scout: Mag = 7.11% Knight = 0.0% Healer = 74.88% 
+
+fight 212 
+Mag 483 37.97% 
+Knight 557 43.79% 
+Healer 58 4.56% 
+Scout 174 13.68% 
+
+Mag: Knight = 36.32% Healer = 98.58% Scout = 92.92% 
+Knight: Mag = 63.68% Healer = 99.06% Scout = 100.0% 
+Healer: Mag = 1.42% Knight = 0.94% Scout = 25.0% 
+Scout: Mag = 7.08% Knight = 0.0% Healer = 75.0% 
+
+fight 213 
+Mag 486 38.03% 
+Knight 559 43.74% 
+Healer 58 4.54% 
+Scout 175 13.69% 
+
+Mag: Knight = 36.62% Healer = 98.59% Scout = 92.96% 
+Knight: Mag = 63.38% Healer = 99.06% Scout = 100.0% 
+Healer: Mag = 1.41% Knight = 0.94% Scout = 24.88% 
+Scout: Mag = 7.04% Knight = 0.0% Healer = 75.12% 
+
+fight 214 
+Mag 488 38.01% 
+Knight 562 43.77% 
+Healer 59 4.6% 
+Scout 175 13.63% 
+
+Mag: Knight = 36.45% Healer = 98.6% Scout = 92.99% 
+Knight: Mag = 63.55% Healer = 99.07% Scout = 100.0% 
+Healer: Mag = 1.4% Knight = 0.93% Scout = 25.23% 
+Scout: Mag = 7.01% Knight = 0.0% Healer = 74.77% 
+
+fight 215 
+Mag 490 37.98% 
+Knight 565 43.8% 
+Healer 59 4.57% 
+Scout 176 13.64% 
+
+Mag: Knight = 36.28% Healer = 98.6% Scout = 93.02% 
+Knight: Mag = 63.72% Healer = 99.07% Scout = 100.0% 
+Healer: Mag = 1.4% Knight = 0.93% Scout = 25.12% 
+Scout: Mag = 6.98% Knight = 0.0% Healer = 74.88% 
+
+fight 216 
+Mag 492 37.96% 
+Knight 568 43.83% 
+Healer 60 4.63% 
+Scout 176 13.58% 
+
+Mag: Knight = 36.11% Healer = 98.61% Scout = 93.06% 
+Knight: Mag = 63.89% Healer = 99.07% Scout = 100.0% 
+Healer: Mag = 1.39% Knight = 0.93% Scout = 25.46% 
+Scout: Mag = 6.94% Knight = 0.0% Healer = 74.54% 
+
+fight 217 
+Mag 494 37.94% 
+Knight 571 43.86% 
+Healer 60 4.61% 
+Scout 177 13.59% 
+
+Mag: Knight = 35.94% Healer = 98.62% Scout = 93.09% 
+Knight: Mag = 64.06% Healer = 99.08% Scout = 100.0% 
+Healer: Mag = 1.38% Knight = 0.92% Scout = 25.35% 
+Scout: Mag = 6.91% Knight = 0.0% Healer = 74.65% 
+
+fight 218 
+Mag 496 37.92% 
+Knight 574 43.88% 
+Healer 60 4.59% 
+Scout 178 13.61% 
+
+Mag: Knight = 35.78% Healer = 98.62% Scout = 93.12% 
+Knight: Mag = 64.22% Healer = 99.08% Scout = 100.0% 
+Healer: Mag = 1.38% Knight = 0.92% Scout = 25.23% 
+Scout: Mag = 6.88% Knight = 0.0% Healer = 74.77% 
+
+fight 219 
+Mag 498 37.9% 
+Knight 577 43.91% 
+Healer 60 4.57% 
+Scout 179 13.62% 
+
+Mag: Knight = 35.62% Healer = 98.63% Scout = 93.15% 
+Knight: Mag = 64.38% Healer = 99.09% Scout = 100.0% 
+Healer: Mag = 1.37% Knight = 0.91% Scout = 25.11% 
+Scout: Mag = 6.85% Knight = 0.0% Healer = 74.89% 
+
+fight 220 
+Mag 501 37.95% 
+Knight 579 43.86% 
+Healer 60 4.55% 
+Scout 180 13.64% 
+
+Mag: Knight = 35.91% Healer = 98.64% Scout = 93.18% 
+Knight: Mag = 64.09% Healer = 99.09% Scout = 100.0% 
+Healer: Mag = 1.36% Knight = 0.91% Scout = 25.0% 
+Scout: Mag = 6.82% Knight = 0.0% Healer = 75.0% 
+
+fight 221 
+Mag 503 37.93% 
+Knight 582 43.89% 
+Healer 61 4.6% 
+Scout 180 13.57% 
+
+Mag: Knight = 35.75% Healer = 98.64% Scout = 93.21% 
+Knight: Mag = 64.25% Healer = 99.1% Scout = 100.0% 
+Healer: Mag = 1.36% Knight = 0.9% Scout = 25.34% 
+Scout: Mag = 6.79% Knight = 0.0% Healer = 74.66% 
+
+fight 222 
+Mag 505 37.91% 
+Knight 585 43.92% 
+Healer 62 4.65% 
+Scout 180 13.51% 
+
+Mag: Knight = 35.59% Healer = 98.65% Scout = 93.24% 
+Knight: Mag = 64.41% Healer = 99.1% Scout = 100.0% 
+Healer: Mag = 1.35% Knight = 0.9% Scout = 25.68% 
+Scout: Mag = 6.76% Knight = 0.0% Healer = 74.32% 
+
+fight 223 
+Mag 507 37.89% 
+Knight 588 43.95% 
+Healer 62 4.63% 
+Scout 181 13.53% 
+
+Mag: Knight = 35.43% Healer = 98.65% Scout = 93.27% 
+Knight: Mag = 64.57% Healer = 99.1% Scout = 100.0% 
+Healer: Mag = 1.35% Knight = 0.9% Scout = 25.56% 
+Scout: Mag = 6.73% Knight = 0.0% Healer = 74.44% 
+
+fight 224 
+Mag 510 37.95% 
+Knight 590 43.9% 
+Healer 62 4.61% 
+Scout 182 13.54% 
+
+Mag: Knight = 35.71% Healer = 98.66% Scout = 93.3% 
+Knight: Mag = 64.29% Healer = 99.11% Scout = 100.0% 
+Healer: Mag = 1.34% Knight = 0.89% Scout = 25.45% 
+Scout: Mag = 6.7% Knight = 0.0% Healer = 74.55% 
+
+fight 225 
+Mag 512 37.93% 
+Knight 593 43.93% 
+Healer 63 4.67% 
+Scout 182 13.48% 
+
+Mag: Knight = 35.56% Healer = 98.67% Scout = 93.33% 
+Knight: Mag = 64.44% Healer = 99.11% Scout = 100.0% 
+Healer: Mag = 1.33% Knight = 0.89% Scout = 25.78% 
+Scout: Mag = 6.67% Knight = 0.0% Healer = 74.22% 
+
+fight 226 
+Mag 514 37.91% 
+Knight 596 43.95% 
+Healer 63 4.65% 
+Scout 183 13.5% 
+
+Mag: Knight = 35.4% Healer = 98.67% Scout = 93.36% 
+Knight: Mag = 64.6% Healer = 99.12% Scout = 100.0% 
+Healer: Mag = 1.33% Knight = 0.88% Scout = 25.66% 
+Scout: Mag = 6.64% Knight = 0.0% Healer = 74.34% 
+
+fight 227 
+Mag 516 37.89% 
+Knight 599 43.98% 
+Healer 64 4.7% 
+Scout 183 13.44% 
+
+Mag: Knight = 35.24% Healer = 98.68% Scout = 93.39% 
+Knight: Mag = 64.76% Healer = 99.12% Scout = 100.0% 
+Healer: Mag = 1.32% Knight = 0.88% Scout = 25.99% 
+Scout: Mag = 6.61% Knight = 0.0% Healer = 74.01% 
+
+fight 228 
+Mag 518 37.87% 
+Knight 602 44.01% 
+Healer 64 4.68% 
+Scout 184 13.45% 
+
+Mag: Knight = 35.09% Healer = 98.68% Scout = 93.42% 
+Knight: Mag = 64.91% Healer = 99.12% Scout = 100.0% 
+Healer: Mag = 1.32% Knight = 0.88% Scout = 25.88% 
+Scout: Mag = 6.58% Knight = 0.0% Healer = 74.12% 
+
+fight 229 
+Mag 520 37.85% 
+Knight 605 44.03% 
+Healer 64 4.66% 
+Scout 185 13.46% 
+
+Mag: Knight = 34.93% Healer = 98.69% Scout = 93.45% 
+Knight: Mag = 65.07% Healer = 99.13% Scout = 100.0% 
+Healer: Mag = 1.31% Knight = 0.87% Scout = 25.76% 
+Scout: Mag = 6.55% Knight = 0.0% Healer = 74.24% 
+
+fight 230 
+Mag 522 37.83% 
+Knight 608 44.06% 
+Healer 65 4.71% 
+Scout 185 13.41% 
+
+Mag: Knight = 34.78% Healer = 98.7% Scout = 93.48% 
+Knight: Mag = 65.22% Healer = 99.13% Scout = 100.0% 
+Healer: Mag = 1.3% Knight = 0.87% Scout = 26.09% 
+Scout: Mag = 6.52% Knight = 0.0% Healer = 73.91% 
+
+fight 231 
+Mag 524 37.81% 
+Knight 611 44.08% 
+Healer 66 4.76% 
+Scout 185 13.35% 
+
+Mag: Knight = 34.63% Healer = 98.7% Scout = 93.51% 
+Knight: Mag = 65.37% Healer = 99.13% Scout = 100.0% 
+Healer: Mag = 1.3% Knight = 0.87% Scout = 26.41% 
+Scout: Mag = 6.49% Knight = 0.0% Healer = 73.59% 
+
+fight 232 
+Mag 526 37.79% 
+Knight 614 44.11% 
+Healer 66 4.74% 
+Scout 186 13.36% 
+
+Mag: Knight = 34.48% Healer = 98.71% Scout = 93.53% 
+Knight: Mag = 65.52% Healer = 99.14% Scout = 100.0% 
+Healer: Mag = 1.29% Knight = 0.86% Scout = 26.29% 
+Scout: Mag = 6.47% Knight = 0.0% Healer = 73.71% 
+
+fight 233 
+Mag 528 37.77% 
+Knight 617 44.13% 
+Healer 66 4.72% 
+Scout 187 13.38% 
+
+Mag: Knight = 34.33% Healer = 98.71% Scout = 93.56% 
+Knight: Mag = 65.67% Healer = 99.14% Scout = 100.0% 
+Healer: Mag = 1.29% Knight = 0.86% Scout = 26.18% 
+Scout: Mag = 6.44% Knight = 0.0% Healer = 73.82% 
+
+fight 234 
+Mag 531 37.82% 
+Knight 619 44.09% 
+Healer 67 4.77% 
+Scout 187 13.32% 
+
+Mag: Knight = 34.62% Healer = 98.72% Scout = 93.59% 
+Knight: Mag = 65.38% Healer = 99.15% Scout = 100.0% 
+Healer: Mag = 1.28% Knight = 0.85% Scout = 26.5% 
+Scout: Mag = 6.41% Knight = 0.0% Healer = 73.5% 
+
+fight 235 
+Mag 534 37.87% 
+Knight 621 44.04% 
+Healer 67 4.75% 
+Scout 188 13.33% 
+
+Mag: Knight = 34.89% Healer = 98.72% Scout = 93.62% 
+Knight: Mag = 65.11% Healer = 99.15% Scout = 100.0% 
+Healer: Mag = 1.28% Knight = 0.85% Scout = 26.38% 
+Scout: Mag = 6.38% Knight = 0.0% Healer = 73.62% 
+
+fight 236 
+Mag 537 37.92% 
+Knight 623 44.0% 
+Healer 68 4.8% 
+Scout 188 13.28% 
+
+Mag: Knight = 35.17% Healer = 98.73% Scout = 93.64% 
+Knight: Mag = 64.83% Healer = 99.15% Scout = 100.0% 
+Healer: Mag = 1.27% Knight = 0.85% Scout = 26.69% 
+Scout: Mag = 6.36% Knight = 0.0% Healer = 73.31% 
+
+fight 237 
+Mag 539 37.9% 
+Knight 626 44.02% 
+Healer 68 4.78% 
+Scout 189 13.29% 
+
+Mag: Knight = 35.02% Healer = 98.73% Scout = 93.67% 
+Knight: Mag = 64.98% Healer = 99.16% Scout = 100.0% 
+Healer: Mag = 1.27% Knight = 0.84% Scout = 26.58% 
+Scout: Mag = 6.33% Knight = 0.0% Healer = 73.42% 
+
+fight 238 
+Mag 542 37.96% 
+Knight 628 43.98% 
+Healer 68 4.76% 
+Scout 190 13.31% 
+
+Mag: Knight = 35.29% Healer = 98.74% Scout = 93.7% 
+Knight: Mag = 64.71% Healer = 99.16% Scout = 100.0% 
+Healer: Mag = 1.26% Knight = 0.84% Scout = 26.47% 
+Scout: Mag = 6.3% Knight = 0.0% Healer = 73.53% 
+
+fight 239 
+Mag 545 38.01% 
+Knight 630 43.93% 
+Healer 69 4.81% 
+Scout 190 13.25% 
+
+Mag: Knight = 35.56% Healer = 98.74% Scout = 93.72% 
+Knight: Mag = 64.44% Healer = 99.16% Scout = 100.0% 
+Healer: Mag = 1.26% Knight = 0.84% Scout = 26.78% 
+Scout: Mag = 6.28% Knight = 0.0% Healer = 73.22% 
+
+fight 240 
+Mag 547 37.99% 
+Knight 633 43.96% 
+Healer 69 4.79% 
+Scout 191 13.26% 
+
+Mag: Knight = 35.42% Healer = 98.75% Scout = 93.75% 
+Knight: Mag = 64.58% Healer = 99.17% Scout = 100.0% 
+Healer: Mag = 1.25% Knight = 0.83% Scout = 26.67% 
+Scout: Mag = 6.25% Knight = 0.0% Healer = 73.33% 
+
+fight 241 
+Mag 550 38.04% 
+Knight 635 43.91% 
+Healer 69 4.77% 
+Scout 192 13.28% 
+
+Mag: Knight = 35.68% Healer = 98.76% Scout = 93.78% 
+Knight: Mag = 64.32% Healer = 99.17% Scout = 100.0% 
+Healer: Mag = 1.24% Knight = 0.83% Scout = 26.56% 
+Scout: Mag = 6.22% Knight = 0.0% Healer = 73.44% 
+
+fight 242 
+Mag 552 38.02% 
+Knight 638 43.94% 
+Healer 69 4.75% 
+Scout 193 13.29% 
+
+Mag: Knight = 35.54% Healer = 98.76% Scout = 93.8% 
+Knight: Mag = 64.46% Healer = 99.17% Scout = 100.0% 
+Healer: Mag = 1.24% Knight = 0.83% Scout = 26.45% 
+Scout: Mag = 6.2% Knight = 0.0% Healer = 73.55% 
+
+fight 243 
+Mag 554 38.0% 
+Knight 641 43.96% 
+Healer 69 4.73% 
+Scout 194 13.31% 
+
+Mag: Knight = 35.39% Healer = 98.77% Scout = 93.83% 
+Knight: Mag = 64.61% Healer = 99.18% Scout = 100.0% 
+Healer: Mag = 1.23% Knight = 0.82% Scout = 26.34% 
+Scout: Mag = 6.17% Knight = 0.0% Healer = 73.66% 
+
+fight 244 
+Mag 556 37.98% 
+Knight 644 43.99% 
+Healer 70 4.78% 
+Scout 194 13.25% 
+
+Mag: Knight = 35.25% Healer = 98.77% Scout = 93.85% 
+Knight: Mag = 64.75% Healer = 99.18% Scout = 100.0% 
+Healer: Mag = 1.23% Knight = 0.82% Scout = 26.64% 
+Scout: Mag = 6.15% Knight = 0.0% Healer = 73.36% 
+
+fight 245 
+Mag 559 38.03% 
+Knight 646 43.95% 
+Healer 71 4.83% 
+Scout 194 13.2% 
+
+Mag: Knight = 35.51% Healer = 98.78% Scout = 93.88% 
+Knight: Mag = 64.49% Healer = 99.18% Scout = 100.0% 
+Healer: Mag = 1.22% Knight = 0.82% Scout = 26.94% 
+Scout: Mag = 6.12% Knight = 0.0% Healer = 73.06% 
+
+fight 246 
+Mag 561 38.01% 
+Knight 649 43.97% 
+Healer 72 4.88% 
+Scout 194 13.14% 
+
+Mag: Knight = 35.37% Healer = 98.78% Scout = 93.9% 
+Knight: Mag = 64.63% Healer = 99.19% Scout = 100.0% 
+Healer: Mag = 1.22% Knight = 0.81% Scout = 27.24% 
+Scout: Mag = 6.1% Knight = 0.0% Healer = 72.76% 
+
+fight 247 
+Mag 563 37.99% 
+Knight 652 43.99% 
+Healer 72 4.86% 
+Scout 195 13.16% 
+
+Mag: Knight = 35.22% Healer = 98.79% Scout = 93.93% 
+Knight: Mag = 64.78% Healer = 99.19% Scout = 100.0% 
+Healer: Mag = 1.21% Knight = 0.81% Scout = 27.13% 
+Scout: Mag = 6.07% Knight = 0.0% Healer = 72.87% 
+
+fight 248 
+Mag 565 37.97% 
+Knight 655 44.02% 
+Healer 72 4.84% 
+Scout 196 13.17% 
+
+Mag: Knight = 35.08% Healer = 98.79% Scout = 93.95% 
+Knight: Mag = 64.92% Healer = 99.19% Scout = 100.0% 
+Healer: Mag = 1.21% Knight = 0.81% Scout = 27.02% 
+Scout: Mag = 6.05% Knight = 0.0% Healer = 72.98% 
+
+fight 249 
+Mag 567 37.95% 
+Knight 658 44.04% 
+Healer 73 4.89% 
+Scout 196 13.12% 
+
+Mag: Knight = 34.94% Healer = 98.8% Scout = 93.98% 
+Knight: Mag = 65.06% Healer = 99.2% Scout = 100.0% 
+Healer: Mag = 1.2% Knight = 0.8% Scout = 27.31% 
+Scout: Mag = 6.02% Knight = 0.0% Healer = 72.69% 
+
+fight 250 
+Mag 569 37.93% 
+Knight 661 44.07% 
+Healer 73 4.87% 
+Scout 197 13.13% 
+
+Mag: Knight = 34.8% Healer = 98.8% Scout = 94.0% 
+Knight: Mag = 65.2% Healer = 99.2% Scout = 100.0% 
+Healer: Mag = 1.2% Knight = 0.8% Scout = 27.2% 
+Scout: Mag = 6.0% Knight = 0.0% Healer = 72.8% 
+
+fight 251 
+Mag 572 37.98% 
+Knight 663 44.02% 
+Healer 73 4.85% 
+Scout 198 13.15% 
+
+Mag: Knight = 35.06% Healer = 98.8% Scout = 94.02% 
+Knight: Mag = 64.94% Healer = 99.2% Scout = 100.0% 
+Healer: Mag = 1.2% Knight = 0.8% Scout = 27.09% 
+Scout: Mag = 5.98% Knight = 0.0% Healer = 72.91% 
+
+fight 252 
+Mag 574 37.96% 
+Knight 665 43.98% 
+Healer 73 4.83% 
+Scout 200 13.23% 
+
+Mag: Knight = 35.32% Healer = 98.81% Scout = 93.65% 
+Knight: Mag = 64.68% Healer = 99.21% Scout = 100.0% 
+Healer: Mag = 1.19% Knight = 0.79% Scout = 26.98% 
+Scout: Mag = 6.35% Knight = 0.0% Healer = 73.02% 
+
+fight 253 
+Mag 576 37.94% 
+Knight 668 44.01% 
+Healer 73 4.81% 
+Scout 201 13.24% 
+
+Mag: Knight = 35.18% Healer = 98.81% Scout = 93.68% 
+Knight: Mag = 64.82% Healer = 99.21% Scout = 100.0% 
+Healer: Mag = 1.19% Knight = 0.79% Scout = 26.88% 
+Scout: Mag = 6.32% Knight = 0.0% Healer = 73.12% 
+
+fight 254 
+Mag 578 37.93% 
+Knight 671 44.03% 
+Healer 73 4.79% 
+Scout 202 13.25% 
+
+Mag: Knight = 35.04% Healer = 98.82% Scout = 93.7% 
+Knight: Mag = 64.96% Healer = 99.21% Scout = 100.0% 
+Healer: Mag = 1.18% Knight = 0.79% Scout = 26.77% 
+Scout: Mag = 6.3% Knight = 0.0% Healer = 73.23% 
+
+fight 255 
+Mag 580 37.91% 
+Knight 674 44.05% 
+Healer 73 4.77% 
+Scout 203 13.27% 
+
+Mag: Knight = 34.9% Healer = 98.82% Scout = 93.73% 
+Knight: Mag = 65.1% Healer = 99.22% Scout = 100.0% 
+Healer: Mag = 1.18% Knight = 0.78% Scout = 26.67% 
+Scout: Mag = 6.27% Knight = 0.0% Healer = 73.33% 
+
+fight 256 
+Mag 582 37.89% 
+Knight 677 44.08% 
+Healer 73 4.75% 
+Scout 204 13.28% 
+
+Mag: Knight = 34.77% Healer = 98.83% Scout = 93.75% 
+Knight: Mag = 65.23% Healer = 99.22% Scout = 100.0% 
+Healer: Mag = 1.17% Knight = 0.78% Scout = 26.56% 
+Scout: Mag = 6.25% Knight = 0.0% Healer = 73.44% 
+
+fight 257 
+Mag 585 37.94% 
+Knight 679 44.03% 
+Healer 74 4.8% 
+Scout 204 13.23% 
+
+Mag: Knight = 35.02% Healer = 98.83% Scout = 93.77% 
+Knight: Mag = 64.98% Healer = 99.22% Scout = 100.0% 
+Healer: Mag = 1.17% Knight = 0.78% Scout = 26.85% 
+Scout: Mag = 6.23% Knight = 0.0% Healer = 73.15% 
+
+fight 258 
+Mag 587 37.92% 
+Knight 682 44.06% 
+Healer 74 4.78% 
+Scout 205 13.24% 
+
+Mag: Knight = 34.88% Healer = 98.84% Scout = 93.8% 
+Knight: Mag = 65.12% Healer = 99.22% Scout = 100.0% 
+Healer: Mag = 1.16% Knight = 0.78% Scout = 26.74% 
+Scout: Mag = 6.2% Knight = 0.0% Healer = 73.26% 
+
+fight 259 
+Mag 590 37.97% 
+Knight 684 44.02% 
+Healer 74 4.76% 
+Scout 206 13.26% 
+
+Mag: Knight = 35.14% Healer = 98.84% Scout = 93.82% 
+Knight: Mag = 64.86% Healer = 99.23% Scout = 100.0% 
+Healer: Mag = 1.16% Knight = 0.77% Scout = 26.64% 
+Scout: Mag = 6.18% Knight = 0.0% Healer = 73.36% 
+
+fight 260 
+Mag 592 37.95% 
+Knight 687 44.04% 
+Healer 74 4.74% 
+Scout 207 13.27% 
+
+Mag: Knight = 35.0% Healer = 98.85% Scout = 93.85% 
+Knight: Mag = 65.0% Healer = 99.23% Scout = 100.0% 
+Healer: Mag = 1.15% Knight = 0.77% Scout = 26.54% 
+Scout: Mag = 6.15% Knight = 0.0% Healer = 73.46% 
+
+fight 261 
+Mag 594 37.93% 
+Knight 690 44.06% 
+Healer 74 4.73% 
+Scout 208 13.28% 
+
+Mag: Knight = 34.87% Healer = 98.85% Scout = 93.87% 
+Knight: Mag = 65.13% Healer = 99.23% Scout = 100.0% 
+Healer: Mag = 1.15% Knight = 0.77% Scout = 26.44% 
+Scout: Mag = 6.13% Knight = 0.0% Healer = 73.56% 
+
+fight 262 
+Mag 596 37.91% 
+Knight 692 44.02% 
+Healer 74 4.71% 
+Scout 210 13.36% 
+
+Mag: Knight = 35.11% Healer = 98.85% Scout = 93.51% 
+Knight: Mag = 64.89% Healer = 99.24% Scout = 100.0% 
+Healer: Mag = 1.15% Knight = 0.76% Scout = 26.34% 
+Scout: Mag = 6.49% Knight = 0.0% Healer = 73.66% 
+
+fight 263 
+Mag 598 37.9% 
+Knight 695 44.04% 
+Healer 74 4.69% 
+Scout 211 13.37% 
+
+Mag: Knight = 34.98% Healer = 98.86% Scout = 93.54% 
+Knight: Mag = 65.02% Healer = 99.24% Scout = 100.0% 
+Healer: Mag = 1.14% Knight = 0.76% Scout = 26.24% 
+Scout: Mag = 6.46% Knight = 0.0% Healer = 73.76% 
+
+fight 264 
+Mag 600 37.88% 
+Knight 697 44.0% 
+Healer 74 4.67% 
+Scout 213 13.45% 
+
+Mag: Knight = 35.23% Healer = 98.86% Scout = 93.18% 
+Knight: Mag = 64.77% Healer = 99.24% Scout = 100.0% 
+Healer: Mag = 1.14% Knight = 0.76% Scout = 26.14% 
+Scout: Mag = 6.82% Knight = 0.0% Healer = 73.86% 
+
+fight 265 
+Mag 602 37.86% 
+Knight 700 44.03% 
+Healer 74 4.65% 
+Scout 214 13.46% 
+
+Mag: Knight = 35.09% Healer = 98.87% Scout = 93.21% 
+Knight: Mag = 64.91% Healer = 99.25% Scout = 100.0% 
+Healer: Mag = 1.13% Knight = 0.75% Scout = 26.04% 
+Scout: Mag = 6.79% Knight = 0.0% Healer = 73.96% 
+
+fight 266 
+Mag 604 37.84% 
+Knight 703 44.05% 
+Healer 75 4.7% 
+Scout 214 13.41% 
+
+Mag: Knight = 34.96% Healer = 98.87% Scout = 93.23% 
+Knight: Mag = 65.04% Healer = 99.25% Scout = 100.0% 
+Healer: Mag = 1.13% Knight = 0.75% Scout = 26.32% 
+Scout: Mag = 6.77% Knight = 0.0% Healer = 73.68% 
+
+fight 267 
+Mag 606 37.83% 
+Knight 706 44.07% 
+Healer 75 4.68% 
+Scout 215 13.42% 
+
+Mag: Knight = 34.83% Healer = 98.88% Scout = 93.26% 
+Knight: Mag = 65.17% Healer = 99.25% Scout = 100.0% 
+Healer: Mag = 1.12% Knight = 0.75% Scout = 26.22% 
+Scout: Mag = 6.74% Knight = 0.0% Healer = 73.78% 
+
+fight 268 
+Mag 608 37.81% 
+Knight 709 44.09% 
+Healer 76 4.73% 
+Scout 215 13.37% 
+
+Mag: Knight = 34.7% Healer = 98.88% Scout = 93.28% 
+Knight: Mag = 65.3% Healer = 99.25% Scout = 100.0% 
+Healer: Mag = 1.12% Knight = 0.75% Scout = 26.49% 
+Scout: Mag = 6.72% Knight = 0.0% Healer = 73.51% 
+
+fight 269 
+Mag 610 37.79% 
+Knight 712 44.11% 
+Healer 76 4.71% 
+Scout 216 13.38% 
+
+Mag: Knight = 34.57% Healer = 98.88% Scout = 93.31% 
+Knight: Mag = 65.43% Healer = 99.26% Scout = 100.0% 
+Healer: Mag = 1.12% Knight = 0.74% Scout = 26.39% 
+Scout: Mag = 6.69% Knight = 0.0% Healer = 73.61% 
+
+fight 270 
+Mag 613 37.84% 
+Knight 714 44.07% 
+Healer 76 4.69% 
+Scout 217 13.4% 
+
+Mag: Knight = 34.81% Healer = 98.89% Scout = 93.33% 
+Knight: Mag = 65.19% Healer = 99.26% Scout = 100.0% 
+Healer: Mag = 1.11% Knight = 0.74% Scout = 26.3% 
+Scout: Mag = 6.67% Knight = 0.0% Healer = 73.7% 
+
+fight 271 
+Mag 615 37.82% 
+Knight 717 44.1% 
+Healer 76 4.67% 
+Scout 218 13.41% 
+
+Mag: Knight = 34.69% Healer = 98.89% Scout = 93.36% 
+Knight: Mag = 65.31% Healer = 99.26% Scout = 100.0% 
+Healer: Mag = 1.11% Knight = 0.74% Scout = 26.2% 
+Scout: Mag = 6.64% Knight = 0.0% Healer = 73.8% 
+
+fight 272 
+Mag 618 37.87% 
+Knight 719 44.06% 
+Healer 77 4.72% 
+Scout 218 13.36% 
+
+Mag: Knight = 34.93% Healer = 98.9% Scout = 93.38% 
+Knight: Mag = 65.07% Healer = 99.26% Scout = 100.0% 
+Healer: Mag = 1.1% Knight = 0.74% Scout = 26.47% 
+Scout: Mag = 6.62% Knight = 0.0% Healer = 73.53% 
+
+fight 273 
+Mag 620 37.85% 
+Knight 722 44.08% 
+Healer 77 4.7% 
+Scout 219 13.37% 
+
+Mag: Knight = 34.8% Healer = 98.9% Scout = 93.41% 
+Knight: Mag = 65.2% Healer = 99.27% Scout = 100.0% 
+Healer: Mag = 1.1% Knight = 0.73% Scout = 26.37% 
+Scout: Mag = 6.59% Knight = 0.0% Healer = 73.63% 
+
+fight 274 
+Mag 622 37.83% 
+Knight 725 44.1% 
+Healer 78 4.74% 
+Scout 219 13.32% 
+
+Mag: Knight = 34.67% Healer = 98.91% Scout = 93.43% 
+Knight: Mag = 65.33% Healer = 99.27% Scout = 100.0% 
+Healer: Mag = 1.09% Knight = 0.73% Scout = 26.64% 
+Scout: Mag = 6.57% Knight = 0.0% Healer = 73.36% 
+
+fight 275 
+Mag 625 37.88% 
+Knight 727 44.06% 
+Healer 78 4.73% 
+Scout 220 13.33% 
+
+Mag: Knight = 34.91% Healer = 98.91% Scout = 93.45% 
+Knight: Mag = 65.09% Healer = 99.27% Scout = 100.0% 
+Healer: Mag = 1.09% Knight = 0.73% Scout = 26.55% 
+Scout: Mag = 6.55% Knight = 0.0% Healer = 73.45% 
+
+fight 276 
+Mag 627 37.86% 
+Knight 730 44.08% 
+Healer 79 4.77% 
+Scout 220 13.29% 
+
+Mag: Knight = 34.78% Healer = 98.91% Scout = 93.48% 
+Knight: Mag = 65.22% Healer = 99.28% Scout = 100.0% 
+Healer: Mag = 1.09% Knight = 0.72% Scout = 26.81% 
+Scout: Mag = 6.52% Knight = 0.0% Healer = 73.19% 
+
+fight 277 
+Mag 629 37.85% 
+Knight 733 44.1% 
+Healer 79 4.75% 
+Scout 221 13.3% 
+
+Mag: Knight = 34.66% Healer = 98.92% Scout = 93.5% 
+Knight: Mag = 65.34% Healer = 99.28% Scout = 100.0% 
+Healer: Mag = 1.08% Knight = 0.72% Scout = 26.71% 
+Scout: Mag = 6.5% Knight = 0.0% Healer = 73.29% 
+
+fight 278 
+Mag 631 37.83% 
+Knight 736 44.12% 
+Healer 79 4.74% 
+Scout 222 13.31% 
+
+Mag: Knight = 34.53% Healer = 98.92% Scout = 93.53% 
+Knight: Mag = 65.47% Healer = 99.28% Scout = 100.0% 
+Healer: Mag = 1.08% Knight = 0.72% Scout = 26.62% 
+Scout: Mag = 6.47% Knight = 0.0% Healer = 73.38% 
+
+fight 279 
+Mag 633 37.81% 
+Knight 739 44.15% 
+Healer 79 4.72% 
+Scout 223 13.32% 
+
+Mag: Knight = 34.41% Healer = 98.92% Scout = 93.55% 
+Knight: Mag = 65.59% Healer = 99.28% Scout = 100.0% 
+Healer: Mag = 1.08% Knight = 0.72% Scout = 26.52% 
+Scout: Mag = 6.45% Knight = 0.0% Healer = 73.48% 
+
+fight 280 
+Mag 636 37.86% 
+Knight 741 44.11% 
+Healer 80 4.76% 
+Scout 223 13.27% 
+
+Mag: Knight = 34.64% Healer = 98.93% Scout = 93.57% 
+Knight: Mag = 65.36% Healer = 99.29% Scout = 100.0% 
+Healer: Mag = 1.07% Knight = 0.71% Scout = 26.79% 
+Scout: Mag = 6.43% Knight = 0.0% Healer = 73.21% 
+
+fight 281 
+Mag 638 37.84% 
+Knight 744 44.13% 
+Healer 80 4.74% 
+Scout 224 13.29% 
+
+Mag: Knight = 34.52% Healer = 98.93% Scout = 93.59% 
+Knight: Mag = 65.48% Healer = 99.29% Scout = 100.0% 
+Healer: Mag = 1.07% Knight = 0.71% Scout = 26.69% 
+Scout: Mag = 6.41% Knight = 0.0% Healer = 73.31% 
+
+fight 282 
+Mag 641 37.88% 
+Knight 746 44.09% 
+Healer 80 4.73% 
+Scout 225 13.3% 
+
+Mag: Knight = 34.75% Healer = 98.94% Scout = 93.62% 
+Knight: Mag = 65.25% Healer = 99.29% Scout = 100.0% 
+Healer: Mag = 1.06% Knight = 0.71% Scout = 26.6% 
+Scout: Mag = 6.38% Knight = 0.0% Healer = 73.4% 
+
+fight 283 
+Mag 644 37.93% 
+Knight 748 44.05% 
+Healer 80 4.71% 
+Scout 226 13.31% 
+
+Mag: Knight = 34.98% Healer = 98.94% Scout = 93.64% 
+Knight: Mag = 65.02% Healer = 99.29% Scout = 100.0% 
+Healer: Mag = 1.06% Knight = 0.71% Scout = 26.5% 
+Scout: Mag = 6.36% Knight = 0.0% Healer = 73.5% 
+
+fight 284 
+Mag 646 37.91% 
+Knight 751 44.07% 
+Healer 81 4.75% 
+Scout 226 13.26% 
+
+Mag: Knight = 34.86% Healer = 98.94% Scout = 93.66% 
+Knight: Mag = 65.14% Healer = 99.3% Scout = 100.0% 
+Healer: Mag = 1.06% Knight = 0.7% Scout = 26.76% 
+Scout: Mag = 6.34% Knight = 0.0% Healer = 73.24% 
+
+fight 285 
+Mag 648 37.89% 
+Knight 754 44.09% 
+Healer 81 4.74% 
+Scout 227 13.27% 
+
+Mag: Knight = 34.74% Healer = 98.95% Scout = 93.68% 
+Knight: Mag = 65.26% Healer = 99.3% Scout = 100.0% 
+Healer: Mag = 1.05% Knight = 0.7% Scout = 26.67% 
+Scout: Mag = 6.32% Knight = 0.0% Healer = 73.33% 
+
+fight 286 
+Mag 650 37.88% 
+Knight 757 44.11% 
+Healer 81 4.72% 
+Scout 228 13.29% 
+
+Mag: Knight = 34.62% Healer = 98.95% Scout = 93.71% 
+Knight: Mag = 65.38% Healer = 99.3% Scout = 100.0% 
+Healer: Mag = 1.05% Knight = 0.7% Scout = 26.57% 
+Scout: Mag = 6.29% Knight = 0.0% Healer = 73.43% 
+
+fight 287 
+Mag 651 37.8% 
+Knight 760 44.13% 
+Healer 81 4.7% 
+Scout 230 13.36% 
+
+Mag: Knight = 34.49% Healer = 98.95% Scout = 93.38% 
+Knight: Mag = 65.51% Healer = 99.3% Scout = 100.0% 
+Healer: Mag = 1.05% Knight = 0.7% Scout = 26.48% 
+Scout: Mag = 6.62% Knight = 0.0% Healer = 73.52% 
+
+fight 288 
+Mag 654 37.85% 
+Knight 762 44.1% 
+Healer 81 4.69% 
+Scout 231 13.37% 
+
+Mag: Knight = 34.72% Healer = 98.96% Scout = 93.4% 
+Knight: Mag = 65.28% Healer = 99.31% Scout = 100.0% 
+Healer: Mag = 1.04% Knight = 0.69% Scout = 26.39% 
+Scout: Mag = 6.6% Knight = 0.0% Healer = 73.61% 
+
+fight 289 
+Mag 656 37.83% 
+Knight 765 44.12% 
+Healer 81 4.67% 
+Scout 232 13.38% 
+
+Mag: Knight = 34.6% Healer = 98.96% Scout = 93.43% 
+Knight: Mag = 65.4% Healer = 99.31% Scout = 100.0% 
+Healer: Mag = 1.04% Knight = 0.69% Scout = 26.3% 
+Scout: Mag = 6.57% Knight = 0.0% Healer = 73.7% 
+
+fight 290 
+Mag 658 37.82% 
+Knight 768 44.14% 
+Healer 82 4.71% 
+Scout 232 13.33% 
+
+Mag: Knight = 34.48% Healer = 98.97% Scout = 93.45% 
+Knight: Mag = 65.52% Healer = 99.31% Scout = 100.0% 
+Healer: Mag = 1.03% Knight = 0.69% Scout = 26.55% 
+Scout: Mag = 6.55% Knight = 0.0% Healer = 73.45% 
+
+fight 291 
+Mag 661 37.86% 
+Knight 770 44.1% 
+Healer 82 4.7% 
+Scout 233 13.34% 
+
+Mag: Knight = 34.71% Healer = 98.97% Scout = 93.47% 
+Knight: Mag = 65.29% Healer = 99.31% Scout = 100.0% 
+Healer: Mag = 1.03% Knight = 0.69% Scout = 26.46% 
+Scout: Mag = 6.53% Knight = 0.0% Healer = 73.54% 
+
+fight 292 
+Mag 663 37.84% 
+Knight 773 44.12% 
+Healer 82 4.68% 
+Scout 234 13.36% 
+
+Mag: Knight = 34.59% Healer = 98.97% Scout = 93.49% 
+Knight: Mag = 65.41% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 1.03% Knight = 0.68% Scout = 26.37% 
+Scout: Mag = 6.51% Knight = 0.0% Healer = 73.63% 
+
+fight 293 
+Mag 665 37.83% 
+Knight 776 44.14% 
+Healer 82 4.66% 
+Scout 235 13.37% 
+
+Mag: Knight = 34.47% Healer = 98.98% Scout = 93.52% 
+Knight: Mag = 65.53% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 1.02% Knight = 0.68% Scout = 26.28% 
+Scout: Mag = 6.48% Knight = 0.0% Healer = 73.72% 
+
+fight 294 
+Mag 667 37.81% 
+Knight 779 44.16% 
+Healer 82 4.65% 
+Scout 236 13.38% 
+
+Mag: Knight = 34.35% Healer = 98.98% Scout = 93.54% 
+Knight: Mag = 65.65% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 1.02% Knight = 0.68% Scout = 26.19% 
+Scout: Mag = 6.46% Knight = 0.0% Healer = 73.81% 
+
+fight 295 
+Mag 669 37.8% 
+Knight 782 44.18% 
+Healer 82 4.63% 
+Scout 237 13.39% 
+
+Mag: Knight = 34.24% Healer = 98.98% Scout = 93.56% 
+Knight: Mag = 65.76% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 1.02% Knight = 0.68% Scout = 26.1% 
+Scout: Mag = 6.44% Knight = 0.0% Healer = 73.9% 
+
+fight 296 
+Mag 672 37.84% 
+Knight 784 44.14% 
+Healer 82 4.62% 
+Scout 238 13.4% 
+
+Mag: Knight = 34.46% Healer = 98.99% Scout = 93.58% 
+Knight: Mag = 65.54% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 1.01% Knight = 0.68% Scout = 26.01% 
+Scout: Mag = 6.42% Knight = 0.0% Healer = 73.99% 
+
+fight 297 
+Mag 674 37.82% 
+Knight 787 44.16% 
+Healer 83 4.66% 
+Scout 238 13.36% 
+
+Mag: Knight = 34.34% Healer = 98.99% Scout = 93.6% 
+Knight: Mag = 65.66% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 1.01% Knight = 0.67% Scout = 26.26% 
+Scout: Mag = 6.4% Knight = 0.0% Healer = 73.74% 
+
+fight 298 
+Mag 676 37.81% 
+Knight 790 44.18% 
+Healer 83 4.64% 
+Scout 239 13.37% 
+
+Mag: Knight = 34.23% Healer = 98.99% Scout = 93.62% 
+Knight: Mag = 65.77% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 1.01% Knight = 0.67% Scout = 26.17% 
+Scout: Mag = 6.38% Knight = 0.0% Healer = 73.83% 
+
+fight 299 
+Mag 678 37.79% 
+Knight 793 44.2% 
+Healer 83 4.63% 
+Scout 240 13.38% 
+
+Mag: Knight = 34.11% Healer = 99.0% Scout = 93.65% 
+Knight: Mag = 65.89% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 1.0% Knight = 0.67% Scout = 26.09% 
+Scout: Mag = 6.35% Knight = 0.0% Healer = 73.91% 
+
+fight 300 
+Mag 680 37.78% 
+Knight 796 44.22% 
+Healer 83 4.61% 
+Scout 241 13.39% 
+
+Mag: Knight = 34.0% Healer = 99.0% Scout = 93.67% 
+Knight: Mag = 66.0% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 1.0% Knight = 0.67% Scout = 26.0% 
+Scout: Mag = 6.33% Knight = 0.0% Healer = 74.0% 
+
+fight 301 
+Mag 683 37.82% 
+Knight 798 44.19% 
+Healer 83 4.6% 
+Scout 242 13.4% 
+
+Mag: Knight = 34.22% Healer = 99.0% Scout = 93.69% 
+Knight: Mag = 65.78% Healer = 99.34% Scout = 100.0% 
+Healer: Mag = 1.0% Knight = 0.66% Scout = 25.91% 
+Scout: Mag = 6.31% Knight = 0.0% Healer = 74.09% 
+
+fight 302 
+Mag 685 37.8% 
+Knight 801 44.21% 
+Healer 84 4.64% 
+Scout 242 13.36% 
+
+Mag: Knight = 34.11% Healer = 99.01% Scout = 93.71% 
+Knight: Mag = 65.89% Healer = 99.34% Scout = 100.0% 
+Healer: Mag = 0.99% Knight = 0.66% Scout = 26.16% 
+Scout: Mag = 6.29% Knight = 0.0% Healer = 73.84% 
+
+fight 303 
+Mag 688 37.84% 
+Knight 803 44.17% 
+Healer 84 4.62% 
+Scout 243 13.37% 
+
+Mag: Knight = 34.32% Healer = 99.01% Scout = 93.73% 
+Knight: Mag = 65.68% Healer = 99.34% Scout = 100.0% 
+Healer: Mag = 0.99% Knight = 0.66% Scout = 26.07% 
+Scout: Mag = 6.27% Knight = 0.0% Healer = 73.93% 
+
+fight 304 
+Mag 690 37.83% 
+Knight 806 44.19% 
+Healer 84 4.61% 
+Scout 244 13.38% 
+
+Mag: Knight = 34.21% Healer = 99.01% Scout = 93.75% 
+Knight: Mag = 65.79% Healer = 99.34% Scout = 100.0% 
+Healer: Mag = 0.99% Knight = 0.66% Scout = 25.99% 
+Scout: Mag = 6.25% Knight = 0.0% Healer = 74.01% 
+
+fight 305 
+Mag 692 37.81% 
+Knight 808 44.15% 
+Healer 84 4.59% 
+Scout 246 13.44% 
+
+Mag: Knight = 34.43% Healer = 99.02% Scout = 93.44% 
+Knight: Mag = 65.57% Healer = 99.34% Scout = 100.0% 
+Healer: Mag = 0.98% Knight = 0.66% Scout = 25.9% 
+Scout: Mag = 6.56% Knight = 0.0% Healer = 74.1% 
+
+fight 306 
+Mag 694 37.8% 
+Knight 811 44.17% 
+Healer 84 4.58% 
+Scout 247 13.45% 
+
+Mag: Knight = 34.31% Healer = 99.02% Scout = 93.46% 
+Knight: Mag = 65.69% Healer = 99.35% Scout = 100.0% 
+Healer: Mag = 0.98% Knight = 0.65% Scout = 25.82% 
+Scout: Mag = 6.54% Knight = 0.0% Healer = 74.18% 
+
+fight 307 
+Mag 696 37.79% 
+Knight 814 44.19% 
+Healer 84 4.56% 
+Scout 248 13.46% 
+
+Mag: Knight = 34.2% Healer = 99.02% Scout = 93.49% 
+Knight: Mag = 65.8% Healer = 99.35% Scout = 100.0% 
+Healer: Mag = 0.98% Knight = 0.65% Scout = 25.73% 
+Scout: Mag = 6.51% Knight = 0.0% Healer = 74.27% 
+
+fight 308 
+Mag 698 37.77% 
+Knight 817 44.21% 
+Healer 84 4.55% 
+Scout 249 13.47% 
+
+Mag: Knight = 34.09% Healer = 99.03% Scout = 93.51% 
+Knight: Mag = 65.91% Healer = 99.35% Scout = 100.0% 
+Healer: Mag = 0.97% Knight = 0.65% Scout = 25.65% 
+Scout: Mag = 6.49% Knight = 0.0% Healer = 74.35% 
+
+fight 309 
+Mag 700 37.76% 
+Knight 820 44.23% 
+Healer 84 4.53% 
+Scout 250 13.48% 
+
+Mag: Knight = 33.98% Healer = 99.03% Scout = 93.53% 
+Knight: Mag = 66.02% Healer = 99.35% Scout = 100.0% 
+Healer: Mag = 0.97% Knight = 0.65% Scout = 25.57% 
+Scout: Mag = 6.47% Knight = 0.0% Healer = 74.43% 
+
+fight 310 
+Mag 703 37.8% 
+Knight 822 44.19% 
+Healer 84 4.52% 
+Scout 251 13.49% 
+
+Mag: Knight = 34.19% Healer = 99.03% Scout = 93.55% 
+Knight: Mag = 65.81% Healer = 99.35% Scout = 100.0% 
+Healer: Mag = 0.97% Knight = 0.65% Scout = 25.48% 
+Scout: Mag = 6.45% Knight = 0.0% Healer = 74.52% 
+
+fight 311 
+Mag 705 37.78% 
+Knight 824 44.16% 
+Healer 84 4.5% 
+Scout 253 13.56% 
+
+Mag: Knight = 34.41% Healer = 99.04% Scout = 93.25% 
+Knight: Mag = 65.59% Healer = 99.36% Scout = 100.0% 
+Healer: Mag = 0.96% Knight = 0.64% Scout = 25.4% 
+Scout: Mag = 6.75% Knight = 0.0% Healer = 74.6% 
+
+fight 312 
+Mag 707 37.77% 
+Knight 827 44.18% 
+Healer 84 4.49% 
+Scout 254 13.57% 
+
+Mag: Knight = 34.29% Healer = 99.04% Scout = 93.27% 
+Knight: Mag = 65.71% Healer = 99.36% Scout = 100.0% 
+Healer: Mag = 0.96% Knight = 0.64% Scout = 25.32% 
+Scout: Mag = 6.73% Knight = 0.0% Healer = 74.68% 
+
+fight 313 
+Mag 710 37.81% 
+Knight 829 44.14% 
+Healer 85 4.53% 
+Scout 254 13.53% 
+
+Mag: Knight = 34.5% Healer = 99.04% Scout = 93.29% 
+Knight: Mag = 65.5% Healer = 99.36% Scout = 100.0% 
+Healer: Mag = 0.96% Knight = 0.64% Scout = 25.56% 
+Scout: Mag = 6.71% Knight = 0.0% Healer = 74.44% 
+
+fight 314 
+Mag 712 37.79% 
+Knight 832 44.16% 
+Healer 85 4.51% 
+Scout 255 13.54% 
+
+Mag: Knight = 34.39% Healer = 99.04% Scout = 93.31% 
+Knight: Mag = 65.61% Healer = 99.36% Scout = 100.0% 
+Healer: Mag = 0.96% Knight = 0.64% Scout = 25.48% 
+Scout: Mag = 6.69% Knight = 0.0% Healer = 74.52% 
+
+fight 315 
+Mag 714 37.78% 
+Knight 835 44.18% 
+Healer 85 4.5% 
+Scout 256 13.54% 
+
+Mag: Knight = 34.29% Healer = 99.05% Scout = 93.33% 
+Knight: Mag = 65.71% Healer = 99.37% Scout = 100.0% 
+Healer: Mag = 0.95% Knight = 0.63% Scout = 25.4% 
+Scout: Mag = 6.67% Knight = 0.0% Healer = 74.6% 
+
+fight 316 
+Mag 717 37.82% 
+Knight 837 44.15% 
+Healer 86 4.54% 
+Scout 256 13.5% 
+
+Mag: Knight = 34.49% Healer = 99.05% Scout = 93.35% 
+Knight: Mag = 65.51% Healer = 99.37% Scout = 100.0% 
+Healer: Mag = 0.95% Knight = 0.63% Scout = 25.63% 
+Scout: Mag = 6.65% Knight = 0.0% Healer = 74.37% 
+
+fight 317 
+Mag 718 37.75% 
+Knight 840 44.16% 
+Healer 86 4.52% 
+Scout 258 13.56% 
+
+Mag: Knight = 34.38% Healer = 99.05% Scout = 93.06% 
+Knight: Mag = 65.62% Healer = 99.37% Scout = 100.0% 
+Healer: Mag = 0.95% Knight = 0.63% Scout = 25.55% 
+Scout: Mag = 6.94% Knight = 0.0% Healer = 74.45% 
+
+fight 318 
+Mag 720 37.74% 
+Knight 843 44.18% 
+Healer 86 4.51% 
+Scout 259 13.57% 
+
+Mag: Knight = 34.28% Healer = 99.06% Scout = 93.08% 
+Knight: Mag = 65.72% Healer = 99.37% Scout = 100.0% 
+Healer: Mag = 0.94% Knight = 0.63% Scout = 25.47% 
+Scout: Mag = 6.92% Knight = 0.0% Healer = 74.53% 
+
+fight 319 
+Mag 721 37.67% 
+Knight 846 44.2% 
+Healer 86 4.49% 
+Scout 261 13.64% 
+
+Mag: Knight = 34.17% Healer = 99.06% Scout = 92.79% 
+Knight: Mag = 65.83% Healer = 99.37% Scout = 100.0% 
+Healer: Mag = 0.94% Knight = 0.63% Scout = 25.39% 
+Scout: Mag = 7.21% Knight = 0.0% Healer = 74.61% 
+
+fight 320 
+Mag 724 37.71% 
+Knight 848 44.17% 
+Healer 86 4.48% 
+Scout 262 13.65% 
+
+Mag: Knight = 34.38% Healer = 99.06% Scout = 92.81% 
+Knight: Mag = 65.62% Healer = 99.38% Scout = 100.0% 
+Healer: Mag = 0.94% Knight = 0.62% Scout = 25.31% 
+Scout: Mag = 7.19% Knight = 0.0% Healer = 74.69% 
+
+fight 321 
+Mag 726 37.69% 
+Knight 851 44.18% 
+Healer 86 4.47% 
+Scout 263 13.66% 
+
+Mag: Knight = 34.27% Healer = 99.07% Scout = 92.83% 
+Knight: Mag = 65.73% Healer = 99.38% Scout = 100.0% 
+Healer: Mag = 0.93% Knight = 0.62% Scout = 25.23% 
+Scout: Mag = 7.17% Knight = 0.0% Healer = 74.77% 
+
+fight 322 
+Mag 728 37.68% 
+Knight 853 44.15% 
+Healer 88 4.55% 
+Scout 263 13.61% 
+
+Mag: Knight = 34.16% Healer = 99.07% Scout = 92.86% 
+Knight: Mag = 65.84% Healer = 99.07% Scout = 100.0% 
+Healer: Mag = 0.93% Knight = 0.93% Scout = 25.47% 
+Scout: Mag = 7.14% Knight = 0.0% Healer = 74.53% 
+
+fight 323 
+Mag 731 37.72% 
+Knight 855 44.12% 
+Healer 88 4.54% 
+Scout 264 13.62% 
+
+Mag: Knight = 34.37% Healer = 99.07% Scout = 92.88% 
+Knight: Mag = 65.63% Healer = 99.07% Scout = 100.0% 
+Healer: Mag = 0.93% Knight = 0.93% Scout = 25.39% 
+Scout: Mag = 7.12% Knight = 0.0% Healer = 74.61% 
+
+fight 324 
+Mag 733 37.71% 
+Knight 858 44.14% 
+Healer 88 4.53% 
+Scout 265 13.63% 
+
+Mag: Knight = 34.26% Healer = 99.07% Scout = 92.9% 
+Knight: Mag = 65.74% Healer = 99.07% Scout = 100.0% 
+Healer: Mag = 0.93% Knight = 0.93% Scout = 25.31% 
+Scout: Mag = 7.1% Knight = 0.0% Healer = 74.69% 
+
+fight 325 
+Mag 736 37.74% 
+Knight 860 44.1% 
+Healer 88 4.51% 
+Scout 266 13.64% 
+
+Mag: Knight = 34.46% Healer = 99.08% Scout = 92.92% 
+Knight: Mag = 65.54% Healer = 99.08% Scout = 100.0% 
+Healer: Mag = 0.92% Knight = 0.92% Scout = 25.23% 
+Scout: Mag = 7.08% Knight = 0.0% Healer = 74.77% 
+
+fight 326 
+Mag 738 37.73% 
+Knight 863 44.12% 
+Healer 88 4.5% 
+Scout 267 13.65% 
+
+Mag: Knight = 34.36% Healer = 99.08% Scout = 92.94% 
+Knight: Mag = 65.64% Healer = 99.08% Scout = 100.0% 
+Healer: Mag = 0.92% Knight = 0.92% Scout = 25.15% 
+Scout: Mag = 7.06% Knight = 0.0% Healer = 74.85% 
+
+fight 327 
+Mag 741 37.77% 
+Knight 865 44.09% 
+Healer 89 4.54% 
+Scout 267 13.61% 
+
+Mag: Knight = 34.56% Healer = 99.08% Scout = 92.97% 
+Knight: Mag = 65.44% Healer = 99.08% Scout = 100.0% 
+Healer: Mag = 0.92% Knight = 0.92% Scout = 25.38% 
+Scout: Mag = 7.03% Knight = 0.0% Healer = 74.62% 
+
+fight 328 
+Mag 744 37.8% 
+Knight 867 44.05% 
+Healer 90 4.57% 
+Scout 267 13.57% 
+
+Mag: Knight = 34.76% Healer = 99.09% Scout = 92.99% 
+Knight: Mag = 65.24% Healer = 99.09% Scout = 100.0% 
+Healer: Mag = 0.91% Knight = 0.91% Scout = 25.61% 
+Scout: Mag = 7.01% Knight = 0.0% Healer = 74.39% 
+
+fight 329 
+Mag 746 37.79% 
+Knight 870 44.07% 
+Healer 90 4.56% 
+Scout 268 13.58% 
+
+Mag: Knight = 34.65% Healer = 99.09% Scout = 93.01% 
+Knight: Mag = 65.35% Healer = 99.09% Scout = 100.0% 
+Healer: Mag = 0.91% Knight = 0.91% Scout = 25.53% 
+Scout: Mag = 6.99% Knight = 0.0% Healer = 74.47% 
+
+fight 330 
+Mag 748 37.78% 
+Knight 873 44.09% 
+Healer 91 4.6% 
+Scout 268 13.54% 
+
+Mag: Knight = 34.55% Healer = 99.09% Scout = 93.03% 
+Knight: Mag = 65.45% Healer = 99.09% Scout = 100.0% 
+Healer: Mag = 0.91% Knight = 0.91% Scout = 25.76% 
+Scout: Mag = 6.97% Knight = 0.0% Healer = 74.24% 
+
+fight 331 
+Mag 750 37.76% 
+Knight 876 44.11% 
+Healer 91 4.58% 
+Scout 269 13.54% 
+
+Mag: Knight = 34.44% Healer = 99.09% Scout = 93.05% 
+Knight: Mag = 65.56% Healer = 99.09% Scout = 100.0% 
+Healer: Mag = 0.91% Knight = 0.91% Scout = 25.68% 
+Scout: Mag = 6.95% Knight = 0.0% Healer = 74.32% 
+
+fight 332 
+Mag 753 37.8% 
+Knight 878 44.08% 
+Healer 92 4.62% 
+Scout 269 13.5% 
+
+Mag: Knight = 34.64% Healer = 99.1% Scout = 93.07% 
+Knight: Mag = 65.36% Healer = 99.1% Scout = 100.0% 
+Healer: Mag = 0.9% Knight = 0.9% Scout = 25.9% 
+Scout: Mag = 6.93% Knight = 0.0% Healer = 74.1% 
+
+fight 333 
+Mag 755 37.79% 
+Knight 880 44.04% 
+Healer 92 4.6% 
+Scout 271 13.56% 
+
+Mag: Knight = 34.83% Healer = 99.1% Scout = 92.79% 
+Knight: Mag = 65.17% Healer = 99.1% Scout = 100.0% 
+Healer: Mag = 0.9% Knight = 0.9% Scout = 25.83% 
+Scout: Mag = 7.21% Knight = 0.0% Healer = 74.17% 
+
+fight 334 
+Mag 757 37.77% 
+Knight 883 44.06% 
+Healer 93 4.64% 
+Scout 271 13.52% 
+
+Mag: Knight = 34.73% Healer = 99.1% Scout = 92.81% 
+Knight: Mag = 65.27% Healer = 99.1% Scout = 100.0% 
+Healer: Mag = 0.9% Knight = 0.9% Scout = 26.05% 
+Scout: Mag = 7.19% Knight = 0.0% Healer = 73.95% 
+
+fight 335 
+Mag 758 37.71% 
+Knight 886 44.08% 
+Healer 94 4.68% 
+Scout 272 13.53% 
+
+Mag: Knight = 34.63% Healer = 99.1% Scout = 92.54% 
+Knight: Mag = 65.37% Healer = 99.1% Scout = 100.0% 
+Healer: Mag = 0.9% Knight = 0.9% Scout = 26.27% 
+Scout: Mag = 7.46% Knight = 0.0% Healer = 73.73% 
+
+fight 336 
+Mag 760 37.7% 
+Knight 889 44.1% 
+Healer 94 4.66% 
+Scout 273 13.54% 
+
+Mag: Knight = 34.52% Healer = 99.11% Scout = 92.56% 
+Knight: Mag = 65.48% Healer = 99.11% Scout = 100.0% 
+Healer: Mag = 0.89% Knight = 0.89% Scout = 26.19% 
+Scout: Mag = 7.44% Knight = 0.0% Healer = 73.81% 
+
+fight 337 
+Mag 762 37.69% 
+Knight 892 44.11% 
+Healer 94 4.65% 
+Scout 274 13.55% 
+
+Mag: Knight = 34.42% Healer = 99.11% Scout = 92.58% 
+Knight: Mag = 65.58% Healer = 99.11% Scout = 100.0% 
+Healer: Mag = 0.89% Knight = 0.89% Scout = 26.11% 
+Scout: Mag = 7.42% Knight = 0.0% Healer = 73.89% 
+
+fight 338 
+Mag 765 37.72% 
+Knight 894 44.08% 
+Healer 94 4.64% 
+Scout 275 13.56% 
+
+Mag: Knight = 34.62% Healer = 99.11% Scout = 92.6% 
+Knight: Mag = 65.38% Healer = 99.11% Scout = 100.0% 
+Healer: Mag = 0.89% Knight = 0.89% Scout = 26.04% 
+Scout: Mag = 7.4% Knight = 0.0% Healer = 73.96% 
+
+fight 339 
+Mag 768 37.76% 
+Knight 896 44.05% 
+Healer 94 4.62% 
+Scout 276 13.57% 
+
+Mag: Knight = 34.81% Healer = 99.12% Scout = 92.63% 
+Knight: Mag = 65.19% Healer = 99.12% Scout = 100.0% 
+Healer: Mag = 0.88% Knight = 0.88% Scout = 25.96% 
+Scout: Mag = 7.37% Knight = 0.0% Healer = 74.04% 
+
+fight 340 
+Mag 770 37.75% 
+Knight 899 44.07% 
+Healer 94 4.61% 
+Scout 277 13.58% 
+
+Mag: Knight = 34.71% Healer = 99.12% Scout = 92.65% 
+Knight: Mag = 65.29% Healer = 99.12% Scout = 100.0% 
+Healer: Mag = 0.88% Knight = 0.88% Scout = 25.88% 
+Scout: Mag = 7.35% Knight = 0.0% Healer = 74.12% 
+
+fight 341 
+Mag 772 37.73% 
+Knight 902 44.09% 
+Healer 94 4.59% 
+Scout 278 13.59% 
+
+Mag: Knight = 34.6% Healer = 99.12% Scout = 92.67% 
+Knight: Mag = 65.4% Healer = 99.12% Scout = 100.0% 
+Healer: Mag = 0.88% Knight = 0.88% Scout = 25.81% 
+Scout: Mag = 7.33% Knight = 0.0% Healer = 74.19% 
+
+fight 342 
+Mag 774 37.72% 
+Knight 905 44.1% 
+Healer 94 4.58% 
+Scout 279 13.6% 
+
+Mag: Knight = 34.5% Healer = 99.12% Scout = 92.69% 
+Knight: Mag = 65.5% Healer = 99.12% Scout = 100.0% 
+Healer: Mag = 0.88% Knight = 0.88% Scout = 25.73% 
+Scout: Mag = 7.31% Knight = 0.0% Healer = 74.27% 
+
+fight 343 
+Mag 777 37.76% 
+Knight 907 44.07% 
+Healer 95 4.62% 
+Scout 279 13.56% 
+
+Mag: Knight = 34.69% Healer = 99.13% Scout = 92.71% 
+Knight: Mag = 65.31% Healer = 99.13% Scout = 100.0% 
+Healer: Mag = 0.87% Knight = 0.87% Scout = 25.95% 
+Scout: Mag = 7.29% Knight = 0.0% Healer = 74.05% 
+
+fight 344 
+Mag 779 37.74% 
+Knight 910 44.09% 
+Healer 95 4.6% 
+Scout 280 13.57% 
+
+Mag: Knight = 34.59% Healer = 99.13% Scout = 92.73% 
+Knight: Mag = 65.41% Healer = 99.13% Scout = 100.0% 
+Healer: Mag = 0.87% Knight = 0.87% Scout = 25.87% 
+Scout: Mag = 7.27% Knight = 0.0% Healer = 74.13% 
+
+fight 345 
+Mag 781 37.73% 
+Knight 913 44.11% 
+Healer 95 4.59% 
+Scout 281 13.57% 
+
+Mag: Knight = 34.49% Healer = 99.13% Scout = 92.75% 
+Knight: Mag = 65.51% Healer = 99.13% Scout = 100.0% 
+Healer: Mag = 0.87% Knight = 0.87% Scout = 25.8% 
+Scout: Mag = 7.25% Knight = 0.0% Healer = 74.2% 
+
+fight 346 
+Mag 783 37.72% 
+Knight 916 44.12% 
+Healer 95 4.58% 
+Scout 282 13.58% 
+
+Mag: Knight = 34.39% Healer = 99.13% Scout = 92.77% 
+Knight: Mag = 65.61% Healer = 99.13% Scout = 100.0% 
+Healer: Mag = 0.87% Knight = 0.87% Scout = 25.72% 
+Scout: Mag = 7.23% Knight = 0.0% Healer = 74.28% 
+
+fight 347 
+Mag 785 37.7% 
+Knight 919 44.14% 
+Healer 95 4.56% 
+Scout 283 13.59% 
+
+Mag: Knight = 34.29% Healer = 99.14% Scout = 92.8% 
+Knight: Mag = 65.71% Healer = 99.14% Scout = 100.0% 
+Healer: Mag = 0.86% Knight = 0.86% Scout = 25.65% 
+Scout: Mag = 7.2% Knight = 0.0% Healer = 74.35% 
+
+fight 348 
+Mag 787 37.69% 
+Knight 922 44.16% 
+Healer 95 4.55% 
+Scout 284 13.6% 
+
+Mag: Knight = 34.2% Healer = 99.14% Scout = 92.82% 
+Knight: Mag = 65.8% Healer = 99.14% Scout = 100.0% 
+Healer: Mag = 0.86% Knight = 0.86% Scout = 25.57% 
+Scout: Mag = 7.18% Knight = 0.0% Healer = 74.43% 
+
+fight 349 
+Mag 790 37.73% 
+Knight 924 44.13% 
+Healer 96 4.58% 
+Scout 284 13.56% 
+
+Mag: Knight = 34.38% Healer = 99.14% Scout = 92.84% 
+Knight: Mag = 65.62% Healer = 99.14% Scout = 100.0% 
+Healer: Mag = 0.86% Knight = 0.86% Scout = 25.79% 
+Scout: Mag = 7.16% Knight = 0.0% Healer = 74.21% 
+
+fight 350 
+Mag 792 37.71% 
+Knight 927 44.14% 
+Healer 96 4.57% 
+Scout 285 13.57% 
+
+Mag: Knight = 34.29% Healer = 99.14% Scout = 92.86% 
+Knight: Mag = 65.71% Healer = 99.14% Scout = 100.0% 
+Healer: Mag = 0.86% Knight = 0.86% Scout = 25.71% 
+Scout: Mag = 7.14% Knight = 0.0% Healer = 74.29% 
+
+fight 351 
+Mag 794 37.7% 
+Knight 929 44.11% 
+Healer 96 4.56% 
+Scout 287 13.63% 
+
+Mag: Knight = 34.47% Healer = 99.15% Scout = 92.59% 
+Knight: Mag = 65.53% Healer = 99.15% Scout = 100.0% 
+Healer: Mag = 0.85% Knight = 0.85% Scout = 25.64% 
+Scout: Mag = 7.41% Knight = 0.0% Healer = 74.36% 
+
+fight 352 
+Mag 797 37.74% 
+Knight 931 44.08% 
+Healer 96 4.55% 
+Scout 288 13.64% 
+
+Mag: Knight = 34.66% Healer = 99.15% Scout = 92.61% 
+Knight: Mag = 65.34% Healer = 99.15% Scout = 100.0% 
+Healer: Mag = 0.85% Knight = 0.85% Scout = 25.57% 
+Scout: Mag = 7.39% Knight = 0.0% Healer = 74.43% 
+
+fight 353 
+Mag 800 37.77% 
+Knight 933 44.05% 
+Healer 96 4.53% 
+Scout 289 13.64% 
+
+Mag: Knight = 34.84% Healer = 99.15% Scout = 92.63% 
+Knight: Mag = 65.16% Healer = 99.15% Scout = 100.0% 
+Healer: Mag = 0.85% Knight = 0.85% Scout = 25.5% 
+Scout: Mag = 7.37% Knight = 0.0% Healer = 74.5% 
+
+fight 354 
+Mag 802 37.76% 
+Knight 935 44.02% 
+Healer 97 4.57% 
+Scout 290 13.65% 
+
+Mag: Knight = 35.03% Healer = 99.15% Scout = 92.37% 
+Knight: Mag = 64.97% Healer = 99.15% Scout = 100.0% 
+Healer: Mag = 0.85% Knight = 0.85% Scout = 25.71% 
+Scout: Mag = 7.63% Knight = 0.0% Healer = 74.29% 
+
+fight 355 
+Mag 804 37.75% 
+Knight 938 44.04% 
+Healer 97 4.55% 
+Scout 291 13.66% 
+
+Mag: Knight = 34.93% Healer = 99.15% Scout = 92.39% 
+Knight: Mag = 65.07% Healer = 99.15% Scout = 100.0% 
+Healer: Mag = 0.85% Knight = 0.85% Scout = 25.63% 
+Scout: Mag = 7.61% Knight = 0.0% Healer = 74.37% 
+
+fight 356 
+Mag 807 37.78% 
+Knight 940 44.01% 
+Healer 98 4.59% 
+Scout 291 13.62% 
+
+Mag: Knight = 35.11% Healer = 99.16% Scout = 92.42% 
+Knight: Mag = 64.89% Healer = 99.16% Scout = 100.0% 
+Healer: Mag = 0.84% Knight = 0.84% Scout = 25.84% 
+Scout: Mag = 7.58% Knight = 0.0% Healer = 74.16% 
+
+fight 357 
+Mag 809 37.77% 
+Knight 943 44.02% 
+Healer 99 4.62% 
+Scout 291 13.59% 
+
+Mag: Knight = 35.01% Healer = 99.16% Scout = 92.44% 
+Knight: Mag = 64.99% Healer = 99.16% Scout = 100.0% 
+Healer: Mag = 0.84% Knight = 0.84% Scout = 26.05% 
+Scout: Mag = 7.56% Knight = 0.0% Healer = 73.95% 
+
+fight 358 
+Mag 812 37.8% 
+Knight 945 43.99% 
+Healer 99 4.61% 
+Scout 292 13.59% 
+
+Mag: Knight = 35.2% Healer = 99.16% Scout = 92.46% 
+Knight: Mag = 64.8% Healer = 99.16% Scout = 100.0% 
+Healer: Mag = 0.84% Knight = 0.84% Scout = 25.98% 
+Scout: Mag = 7.54% Knight = 0.0% Healer = 74.02% 
+
+fight 359 
+Mag 815 37.84% 
+Knight 947 43.96% 
+Healer 99 4.6% 
+Scout 293 13.6% 
+
+Mag: Knight = 35.38% Healer = 99.16% Scout = 92.48% 
+Knight: Mag = 64.62% Healer = 99.16% Scout = 100.0% 
+Healer: Mag = 0.84% Knight = 0.84% Scout = 25.91% 
+Scout: Mag = 7.52% Knight = 0.0% Healer = 74.09% 
+
+fight 360 
+Mag 817 37.82% 
+Knight 950 43.98% 
+Healer 100 4.63% 
+Scout 293 13.56% 
+
+Mag: Knight = 35.28% Healer = 99.17% Scout = 92.5% 
+Knight: Mag = 64.72% Healer = 99.17% Scout = 100.0% 
+Healer: Mag = 0.83% Knight = 0.83% Scout = 26.11% 
+Scout: Mag = 7.5% Knight = 0.0% Healer = 73.89% 
+
+fight 361 
+Mag 820 37.86% 
+Knight 952 43.95% 
+Healer 101 4.66% 
+Scout 293 13.53% 
+
+Mag: Knight = 35.46% Healer = 99.17% Scout = 92.52% 
+Knight: Mag = 64.54% Healer = 99.17% Scout = 100.0% 
+Healer: Mag = 0.83% Knight = 0.83% Scout = 26.32% 
+Scout: Mag = 7.48% Knight = 0.0% Healer = 73.68% 
+
+fight 362 
+Mag 822 37.85% 
+Knight 955 43.97% 
+Healer 101 4.65% 
+Scout 294 13.54% 
+
+Mag: Knight = 35.36% Healer = 99.17% Scout = 92.54% 
+Knight: Mag = 64.64% Healer = 99.17% Scout = 100.0% 
+Healer: Mag = 0.83% Knight = 0.83% Scout = 26.24% 
+Scout: Mag = 7.46% Knight = 0.0% Healer = 73.76% 
+
+fight 363 
+Mag 824 37.83% 
+Knight 958 43.99% 
+Healer 102 4.68% 
+Scout 294 13.5% 
+
+Mag: Knight = 35.26% Healer = 99.17% Scout = 92.56% 
+Knight: Mag = 64.74% Healer = 99.17% Scout = 100.0% 
+Healer: Mag = 0.83% Knight = 0.83% Scout = 26.45% 
+Scout: Mag = 7.44% Knight = 0.0% Healer = 73.55% 
+
+fight 364 
+Mag 826 37.82% 
+Knight 961 44.0% 
+Healer 102 4.67% 
+Scout 295 13.51% 
+
+Mag: Knight = 35.16% Healer = 99.18% Scout = 92.58% 
+Knight: Mag = 64.84% Healer = 99.18% Scout = 100.0% 
+Healer: Mag = 0.82% Knight = 0.82% Scout = 26.37% 
+Scout: Mag = 7.42% Knight = 0.0% Healer = 73.63% 
+
+fight 365 
+Mag 828 37.81% 
+Knight 964 44.02% 
+Healer 102 4.66% 
+Scout 296 13.52% 
+
+Mag: Knight = 35.07% Healer = 99.18% Scout = 92.6% 
+Knight: Mag = 64.93% Healer = 99.18% Scout = 100.0% 
+Healer: Mag = 0.82% Knight = 0.82% Scout = 26.3% 
+Scout: Mag = 7.4% Knight = 0.0% Healer = 73.7% 
+
+fight 366 
+Mag 830 37.8% 
+Knight 967 44.03% 
+Healer 102 4.64% 
+Scout 297 13.52% 
+
+Mag: Knight = 34.97% Healer = 99.18% Scout = 92.62% 
+Knight: Mag = 65.03% Healer = 99.18% Scout = 100.0% 
+Healer: Mag = 0.82% Knight = 0.82% Scout = 26.23% 
+Scout: Mag = 7.38% Knight = 0.0% Healer = 73.77% 
+
+fight 367 
+Mag 833 37.83% 
+Knight 969 44.01% 
+Healer 103 4.68% 
+Scout 297 13.49% 
+
+Mag: Knight = 35.15% Healer = 99.18% Scout = 92.64% 
+Knight: Mag = 64.85% Healer = 99.18% Scout = 100.0% 
+Healer: Mag = 0.82% Knight = 0.82% Scout = 26.43% 
+Scout: Mag = 7.36% Knight = 0.0% Healer = 73.57% 
+
+fight 368 
+Mag 835 37.82% 
+Knight 972 44.02% 
+Healer 103 4.66% 
+Scout 298 13.5% 
+
+Mag: Knight = 35.05% Healer = 99.18% Scout = 92.66% 
+Knight: Mag = 64.95% Healer = 99.18% Scout = 100.0% 
+Healer: Mag = 0.82% Knight = 0.82% Scout = 26.36% 
+Scout: Mag = 7.34% Knight = 0.0% Healer = 73.64% 
+
+fight 369 
+Mag 838 37.85% 
+Knight 974 43.99% 
+Healer 104 4.7% 
+Scout 298 13.46% 
+
+Mag: Knight = 35.23% Healer = 99.19% Scout = 92.68% 
+Knight: Mag = 64.77% Healer = 99.19% Scout = 100.0% 
+Healer: Mag = 0.81% Knight = 0.81% Scout = 26.56% 
+Scout: Mag = 7.32% Knight = 0.0% Healer = 73.44% 
+
+fight 370 
+Mag 840 37.84% 
+Knight 977 44.01% 
+Healer 104 4.68% 
+Scout 299 13.47% 
+
+Mag: Knight = 35.14% Healer = 99.19% Scout = 92.7% 
+Knight: Mag = 64.86% Healer = 99.19% Scout = 100.0% 
+Healer: Mag = 0.81% Knight = 0.81% Scout = 26.49% 
+Scout: Mag = 7.3% Knight = 0.0% Healer = 73.51% 
+
+fight 371 
+Mag 843 37.87% 
+Knight 979 43.98% 
+Healer 104 4.67% 
+Scout 300 13.48% 
+
+Mag: Knight = 35.31% Healer = 99.19% Scout = 92.72% 
+Knight: Mag = 64.69% Healer = 99.19% Scout = 100.0% 
+Healer: Mag = 0.81% Knight = 0.81% Scout = 26.42% 
+Scout: Mag = 7.28% Knight = 0.0% Healer = 73.58% 
+
+fight 372 
+Mag 846 37.9% 
+Knight 981 43.95% 
+Healer 105 4.7% 
+Scout 300 13.44% 
+
+Mag: Knight = 35.48% Healer = 99.19% Scout = 92.74% 
+Knight: Mag = 64.52% Healer = 99.19% Scout = 100.0% 
+Healer: Mag = 0.81% Knight = 0.81% Scout = 26.61% 
+Scout: Mag = 7.26% Knight = 0.0% Healer = 73.39% 
+
+fight 373 
+Mag 849 37.94% 
+Knight 983 43.92% 
+Healer 105 4.69% 
+Scout 301 13.45% 
+
+Mag: Knight = 35.66% Healer = 99.2% Scout = 92.76% 
+Knight: Mag = 64.34% Healer = 99.2% Scout = 100.0% 
+Healer: Mag = 0.8% Knight = 0.8% Scout = 26.54% 
+Scout: Mag = 7.24% Knight = 0.0% Healer = 73.46% 
+
+fight 374 
+Mag 851 37.92% 
+Knight 986 43.94% 
+Healer 106 4.72% 
+Scout 301 13.41% 
+
+Mag: Knight = 35.56% Healer = 99.2% Scout = 92.78% 
+Knight: Mag = 64.44% Healer = 99.2% Scout = 100.0% 
+Healer: Mag = 0.8% Knight = 0.8% Scout = 26.74% 
+Scout: Mag = 7.22% Knight = 0.0% Healer = 73.26% 
+
+fight 375 
+Mag 853 37.91% 
+Knight 989 43.96% 
+Healer 106 4.71% 
+Scout 302 13.42% 
+
+Mag: Knight = 35.47% Healer = 99.2% Scout = 92.8% 
+Knight: Mag = 64.53% Healer = 99.2% Scout = 100.0% 
+Healer: Mag = 0.8% Knight = 0.8% Scout = 26.67% 
+Scout: Mag = 7.2% Knight = 0.0% Healer = 73.33% 
+
+fight 376 
+Mag 855 37.9% 
+Knight 992 43.97% 
+Healer 106 4.7% 
+Scout 303 13.43% 
+
+Mag: Knight = 35.37% Healer = 99.2% Scout = 92.82% 
+Knight: Mag = 64.63% Healer = 99.2% Scout = 100.0% 
+Healer: Mag = 0.8% Knight = 0.8% Scout = 26.6% 
+Scout: Mag = 7.18% Knight = 0.0% Healer = 73.4% 
+
+fight 377 
+Mag 857 37.89% 
+Knight 995 43.99% 
+Healer 106 4.69% 
+Scout 304 13.44% 
+
+Mag: Knight = 35.28% Healer = 99.2% Scout = 92.84% 
+Knight: Mag = 64.72% Healer = 99.2% Scout = 100.0% 
+Healer: Mag = 0.8% Knight = 0.8% Scout = 26.53% 
+Scout: Mag = 7.16% Knight = 0.0% Healer = 73.47% 
+
+fight 378 
+Mag 859 37.87% 
+Knight 998 44.0% 
+Healer 107 4.72% 
+Scout 304 13.4% 
+
+Mag: Knight = 35.19% Healer = 99.21% Scout = 92.86% 
+Knight: Mag = 64.81% Healer = 99.21% Scout = 100.0% 
+Healer: Mag = 0.79% Knight = 0.79% Scout = 26.72% 
+Scout: Mag = 7.14% Knight = 0.0% Healer = 73.28% 
+
+fight 379 
+Mag 862 37.91% 
+Knight 1000 43.98% 
+Healer 107 4.71% 
+Scout 305 13.41% 
+
+Mag: Knight = 35.36% Healer = 99.21% Scout = 92.88% 
+Knight: Mag = 64.64% Healer = 99.21% Scout = 100.0% 
+Healer: Mag = 0.79% Knight = 0.79% Scout = 26.65% 
+Scout: Mag = 7.12% Knight = 0.0% Healer = 73.35% 
+
+fight 380 
+Mag 865 37.94% 
+Knight 1002 43.95% 
+Healer 107 4.69% 
+Scout 306 13.42% 
+
+Mag: Knight = 35.53% Healer = 99.21% Scout = 92.89% 
+Knight: Mag = 64.47% Healer = 99.21% Scout = 100.0% 
+Healer: Mag = 0.79% Knight = 0.79% Scout = 26.58% 
+Scout: Mag = 7.11% Knight = 0.0% Healer = 73.42% 
+
+fight 381 
+Mag 867 37.93% 
+Knight 1005 43.96% 
+Healer 107 4.68% 
+Scout 307 13.43% 
+
+Mag: Knight = 35.43% Healer = 99.21% Scout = 92.91% 
+Knight: Mag = 64.57% Healer = 99.21% Scout = 100.0% 
+Healer: Mag = 0.79% Knight = 0.79% Scout = 26.51% 
+Scout: Mag = 7.09% Knight = 0.0% Healer = 73.49% 
+
+fight 382 
+Mag 869 37.91% 
+Knight 1007 43.94% 
+Healer 107 4.67% 
+Scout 309 13.48% 
+
+Mag: Knight = 35.6% Healer = 99.21% Scout = 92.67% 
+Knight: Mag = 64.4% Healer = 99.21% Scout = 100.0% 
+Healer: Mag = 0.79% Knight = 0.79% Scout = 26.44% 
+Scout: Mag = 7.33% Knight = 0.0% Healer = 73.56% 
+
+fight 383 
+Mag 871 37.9% 
+Knight 1010 43.95% 
+Healer 108 4.7% 
+Scout 309 13.45% 
+
+Mag: Knight = 35.51% Healer = 99.22% Scout = 92.69% 
+Knight: Mag = 64.49% Healer = 99.22% Scout = 100.0% 
+Healer: Mag = 0.78% Knight = 0.78% Scout = 26.63% 
+Scout: Mag = 7.31% Knight = 0.0% Healer = 73.37% 
+
+fight 384 
+Mag 874 37.93% 
+Knight 1012 43.92% 
+Healer 109 4.73% 
+Scout 309 13.41% 
+
+Mag: Knight = 35.68% Healer = 99.22% Scout = 92.71% 
+Knight: Mag = 64.32% Healer = 99.22% Scout = 100.0% 
+Healer: Mag = 0.78% Knight = 0.78% Scout = 26.82% 
+Scout: Mag = 7.29% Knight = 0.0% Healer = 73.18% 
+
+fight 385 
+Mag 876 37.92% 
+Knight 1015 43.94% 
+Healer 109 4.72% 
+Scout 310 13.42% 
+
+Mag: Knight = 35.58% Healer = 99.22% Scout = 92.73% 
+Knight: Mag = 64.42% Healer = 99.22% Scout = 100.0% 
+Healer: Mag = 0.78% Knight = 0.78% Scout = 26.75% 
+Scout: Mag = 7.27% Knight = 0.0% Healer = 73.25% 
+
+fight 386 
+Mag 878 37.91% 
+Knight 1018 43.96% 
+Healer 109 4.71% 
+Scout 311 13.43% 
+
+Mag: Knight = 35.49% Healer = 99.22% Scout = 92.75% 
+Knight: Mag = 64.51% Healer = 99.22% Scout = 100.0% 
+Healer: Mag = 0.78% Knight = 0.78% Scout = 26.68% 
+Scout: Mag = 7.25% Knight = 0.0% Healer = 73.32% 
+
+fight 387 
+Mag 881 37.94% 
+Knight 1020 43.93% 
+Healer 109 4.69% 
+Scout 312 13.44% 
+
+Mag: Knight = 35.66% Healer = 99.22% Scout = 92.76% 
+Knight: Mag = 64.34% Healer = 99.22% Scout = 100.0% 
+Healer: Mag = 0.78% Knight = 0.78% Scout = 26.61% 
+Scout: Mag = 7.24% Knight = 0.0% Healer = 73.39% 
+
+fight 388 
+Mag 884 37.97% 
+Knight 1022 43.9% 
+Healer 110 4.73% 
+Scout 312 13.4% 
+
+Mag: Knight = 35.82% Healer = 99.23% Scout = 92.78% 
+Knight: Mag = 64.18% Healer = 99.23% Scout = 100.0% 
+Healer: Mag = 0.77% Knight = 0.77% Scout = 26.8% 
+Scout: Mag = 7.22% Knight = 0.0% Healer = 73.2% 
+
+fight 389 
+Mag 887 38.0% 
+Knight 1024 43.87% 
+Healer 110 4.71% 
+Scout 313 13.41% 
+
+Mag: Knight = 35.99% Healer = 99.23% Scout = 92.8% 
+Knight: Mag = 64.01% Healer = 99.23% Scout = 100.0% 
+Healer: Mag = 0.77% Knight = 0.77% Scout = 26.74% 
+Scout: Mag = 7.2% Knight = 0.0% Healer = 73.26% 
+
+fight 390 
+Mag 890 38.03% 
+Knight 1026 43.85% 
+Healer 110 4.7% 
+Scout 314 13.42% 
+
+Mag: Knight = 36.15% Healer = 99.23% Scout = 92.82% 
+Knight: Mag = 63.85% Healer = 99.23% Scout = 100.0% 
+Healer: Mag = 0.77% Knight = 0.77% Scout = 26.67% 
+Scout: Mag = 7.18% Knight = 0.0% Healer = 73.33% 
+
+fight 391 
+Mag 892 38.02% 
+Knight 1029 43.86% 
+Healer 110 4.69% 
+Scout 315 13.43% 
+
+Mag: Knight = 36.06% Healer = 99.23% Scout = 92.84% 
+Knight: Mag = 63.94% Healer = 99.23% Scout = 100.0% 
+Healer: Mag = 0.77% Knight = 0.77% Scout = 26.6% 
+Scout: Mag = 7.16% Knight = 0.0% Healer = 73.4% 
+
+fight 392 
+Mag 894 38.01% 
+Knight 1032 43.88% 
+Healer 110 4.68% 
+Scout 316 13.44% 
+
+Mag: Knight = 35.97% Healer = 99.23% Scout = 92.86% 
+Knight: Mag = 64.03% Healer = 99.23% Scout = 100.0% 
+Healer: Mag = 0.77% Knight = 0.77% Scout = 26.53% 
+Scout: Mag = 7.14% Knight = 0.0% Healer = 73.47% 
+
+fight 393 
+Mag 896 38.0% 
+Knight 1035 43.89% 
+Healer 110 4.66% 
+Scout 317 13.44% 
+
+Mag: Knight = 35.88% Healer = 99.24% Scout = 92.88% 
+Knight: Mag = 64.12% Healer = 99.24% Scout = 100.0% 
+Healer: Mag = 0.76% Knight = 0.76% Scout = 26.46% 
+Scout: Mag = 7.12% Knight = 0.0% Healer = 73.54% 
+
+fight 394 
+Mag 898 37.99% 
+Knight 1038 43.91% 
+Healer 110 4.65% 
+Scout 318 13.45% 
+
+Mag: Knight = 35.79% Healer = 99.24% Scout = 92.89% 
+Knight: Mag = 64.21% Healer = 99.24% Scout = 100.0% 
+Healer: Mag = 0.76% Knight = 0.76% Scout = 26.4% 
+Scout: Mag = 7.11% Knight = 0.0% Healer = 73.6% 
+
+fight 395 
+Mag 901 38.02% 
+Knight 1040 43.88% 
+Healer 110 4.64% 
+Scout 319 13.46% 
+
+Mag: Knight = 35.95% Healer = 99.24% Scout = 92.91% 
+Knight: Mag = 64.05% Healer = 99.24% Scout = 100.0% 
+Healer: Mag = 0.76% Knight = 0.76% Scout = 26.33% 
+Scout: Mag = 7.09% Knight = 0.0% Healer = 73.67% 
+
+fight 396 
+Mag 904 38.05% 
+Knight 1042 43.86% 
+Healer 110 4.63% 
+Scout 320 13.47% 
+
+Mag: Knight = 36.11% Healer = 99.24% Scout = 92.93% 
+Knight: Mag = 63.89% Healer = 99.24% Scout = 100.0% 
+Healer: Mag = 0.76% Knight = 0.76% Scout = 26.26% 
+Scout: Mag = 7.07% Knight = 0.0% Healer = 73.74% 
+
+fight 397 
+Mag 906 38.04% 
+Knight 1045 43.87% 
+Healer 110 4.62% 
+Scout 321 13.48% 
+
+Mag: Knight = 36.02% Healer = 99.24% Scout = 92.95% 
+Knight: Mag = 63.98% Healer = 99.24% Scout = 100.0% 
+Healer: Mag = 0.76% Knight = 0.76% Scout = 26.2% 
+Scout: Mag = 7.05% Knight = 0.0% Healer = 73.8% 
+
+fight 398 
+Mag 908 38.02% 
+Knight 1048 43.89% 
+Healer 110 4.61% 
+Scout 322 13.48% 
+
+Mag: Knight = 35.93% Healer = 99.25% Scout = 92.96% 
+Knight: Mag = 64.07% Healer = 99.25% Scout = 100.0% 
+Healer: Mag = 0.75% Knight = 0.75% Scout = 26.13% 
+Scout: Mag = 7.04% Knight = 0.0% Healer = 73.87% 
+
+fight 399 
+Mag 910 38.01% 
+Knight 1051 43.9% 
+Healer 111 4.64% 
+Scout 322 13.45% 
+
+Mag: Knight = 35.84% Healer = 99.25% Scout = 92.98% 
+Knight: Mag = 64.16% Healer = 99.25% Scout = 100.0% 
+Healer: Mag = 0.75% Knight = 0.75% Scout = 26.32% 
+Scout: Mag = 7.02% Knight = 0.0% Healer = 73.68% 
+
+fight 400 
+Mag 913 38.04% 
+Knight 1053 43.88% 
+Healer 112 4.67% 
+Scout 322 13.42% 
+
+Mag: Knight = 36.0% Healer = 99.25% Scout = 93.0% 
+Knight: Mag = 64.0% Healer = 99.25% Scout = 100.0% 
+Healer: Mag = 0.75% Knight = 0.75% Scout = 26.5% 
+Scout: Mag = 7.0% Knight = 0.0% Healer = 73.5% 
+
+fight 401 
+Mag 915 38.03% 
+Knight 1056 43.89% 
+Healer 113 4.7% 
+Scout 322 13.38% 
+
+Mag: Knight = 35.91% Healer = 99.25% Scout = 93.02% 
+Knight: Mag = 64.09% Healer = 99.25% Scout = 100.0% 
+Healer: Mag = 0.75% Knight = 0.75% Scout = 26.68% 
+Scout: Mag = 6.98% Knight = 0.0% Healer = 73.32% 
+
+fight 402 
+Mag 918 38.06% 
+Knight 1058 43.86% 
+Healer 114 4.73% 
+Scout 322 13.35% 
+
+Mag: Knight = 36.07% Healer = 99.25% Scout = 93.03% 
+Knight: Mag = 63.93% Healer = 99.25% Scout = 100.0% 
+Healer: Mag = 0.75% Knight = 0.75% Scout = 26.87% 
+Scout: Mag = 6.97% Knight = 0.0% Healer = 73.13% 
+
+fight 403 
+Mag 920 38.05% 
+Knight 1061 43.88% 
+Healer 115 4.76% 
+Scout 322 13.32% 
+
+Mag: Knight = 35.98% Healer = 99.26% Scout = 93.05% 
+Knight: Mag = 64.02% Healer = 99.26% Scout = 100.0% 
+Healer: Mag = 0.74% Knight = 0.74% Scout = 27.05% 
+Scout: Mag = 6.95% Knight = 0.0% Healer = 72.95% 
+
+fight 404 
+Mag 923 38.08% 
+Knight 1063 43.85% 
+Healer 116 4.79% 
+Scout 322 13.28% 
+
+Mag: Knight = 36.14% Healer = 99.26% Scout = 93.07% 
+Knight: Mag = 63.86% Healer = 99.26% Scout = 100.0% 
+Healer: Mag = 0.74% Knight = 0.74% Scout = 27.23% 
+Scout: Mag = 6.93% Knight = 0.0% Healer = 72.77% 
+
+fight 405 
+Mag 926 38.11% 
+Knight 1065 43.83% 
+Healer 116 4.77% 
+Scout 323 13.29% 
+
+Mag: Knight = 36.3% Healer = 99.26% Scout = 93.09% 
+Knight: Mag = 63.7% Healer = 99.26% Scout = 100.0% 
+Healer: Mag = 0.74% Knight = 0.74% Scout = 27.16% 
+Scout: Mag = 6.91% Knight = 0.0% Healer = 72.84% 
+
+fight 406 
+Mag 929 38.14% 
+Knight 1067 43.8% 
+Healer 116 4.76% 
+Scout 324 13.3% 
+
+Mag: Knight = 36.45% Healer = 99.26% Scout = 93.1% 
+Knight: Mag = 63.55% Healer = 99.26% Scout = 100.0% 
+Healer: Mag = 0.74% Knight = 0.74% Scout = 27.09% 
+Scout: Mag = 6.9% Knight = 0.0% Healer = 72.91% 
+
+fight 407 
+Mag 931 38.12% 
+Knight 1070 43.82% 
+Healer 116 4.75% 
+Scout 325 13.31% 
+
+Mag: Knight = 36.36% Healer = 99.26% Scout = 93.12% 
+Knight: Mag = 63.64% Healer = 99.26% Scout = 100.0% 
+Healer: Mag = 0.74% Knight = 0.74% Scout = 27.03% 
+Scout: Mag = 6.88% Knight = 0.0% Healer = 72.97% 
+
+fight 408 
+Mag 934 38.15% 
+Knight 1072 43.79% 
+Healer 116 4.74% 
+Scout 326 13.32% 
+
+Mag: Knight = 36.52% Healer = 99.26% Scout = 93.14% 
+Knight: Mag = 63.48% Healer = 99.26% Scout = 100.0% 
+Healer: Mag = 0.74% Knight = 0.74% Scout = 26.96% 
+Scout: Mag = 6.86% Knight = 0.0% Healer = 73.04% 
+
+fight 409 
+Mag 936 38.14% 
+Knight 1075 43.81% 
+Healer 117 4.77% 
+Scout 326 13.28% 
+
+Mag: Knight = 36.43% Healer = 99.27% Scout = 93.15% 
+Knight: Mag = 63.57% Healer = 99.27% Scout = 100.0% 
+Healer: Mag = 0.73% Knight = 0.73% Scout = 27.14% 
+Scout: Mag = 6.85% Knight = 0.0% Healer = 72.86% 
+
+fight 410 
+Mag 938 38.13% 
+Knight 1077 43.78% 
+Healer 118 4.8% 
+Scout 327 13.29% 
+
+Mag: Knight = 36.59% Healer = 99.27% Scout = 92.93% 
+Knight: Mag = 63.41% Healer = 99.27% Scout = 100.0% 
+Healer: Mag = 0.73% Knight = 0.73% Scout = 27.32% 
+Scout: Mag = 7.07% Knight = 0.0% Healer = 72.68% 
+
+fight 411 
+Mag 940 38.12% 
+Knight 1080 43.8% 
+Healer 118 4.79% 
+Scout 328 13.3% 
+
+Mag: Knight = 36.5% Healer = 99.27% Scout = 92.94% 
+Knight: Mag = 63.5% Healer = 99.27% Scout = 100.0% 
+Healer: Mag = 0.73% Knight = 0.73% Scout = 27.25% 
+Scout: Mag = 7.06% Knight = 0.0% Healer = 72.75% 
+
+fight 412 
+Mag 943 38.15% 
+Knight 1082 43.77% 
+Healer 118 4.77% 
+Scout 329 13.31% 
+
+Mag: Knight = 36.65% Healer = 99.27% Scout = 92.96% 
+Knight: Mag = 63.35% Healer = 99.27% Scout = 100.0% 
+Healer: Mag = 0.73% Knight = 0.73% Scout = 27.18% 
+Scout: Mag = 7.04% Knight = 0.0% Healer = 72.82% 
+
+fight 413 
+Mag 945 38.14% 
+Knight 1085 43.79% 
+Healer 118 4.76% 
+Scout 330 13.32% 
+
+Mag: Knight = 36.56% Healer = 99.27% Scout = 92.98% 
+Knight: Mag = 63.44% Healer = 99.27% Scout = 100.0% 
+Healer: Mag = 0.73% Knight = 0.73% Scout = 27.12% 
+Scout: Mag = 7.02% Knight = 0.0% Healer = 72.88% 
+
+fight 414 
+Mag 947 38.12% 
+Knight 1087 43.76% 
+Healer 119 4.79% 
+Scout 331 13.33% 
+
+Mag: Knight = 36.71% Healer = 99.03% Scout = 93.0% 
+Knight: Mag = 63.29% Healer = 99.28% Scout = 100.0% 
+Healer: Mag = 0.97% Knight = 0.72% Scout = 27.05% 
+Scout: Mag = 7.0% Knight = 0.0% Healer = 72.95% 
+
+fight 415 
+Mag 950 38.15% 
+Knight 1089 43.73% 
+Healer 120 4.82% 
+Scout 331 13.29% 
+
+Mag: Knight = 36.87% Healer = 99.04% Scout = 93.01% 
+Knight: Mag = 63.13% Healer = 99.28% Scout = 100.0% 
+Healer: Mag = 0.96% Knight = 0.72% Scout = 27.23% 
+Scout: Mag = 6.99% Knight = 0.0% Healer = 72.77% 
+
+fight 416 
+Mag 952 38.14% 
+Knight 1092 43.75% 
+Healer 121 4.85% 
+Scout 331 13.26% 
+
+Mag: Knight = 36.78% Healer = 99.04% Scout = 93.03% 
+Knight: Mag = 63.22% Healer = 99.28% Scout = 100.0% 
+Healer: Mag = 0.96% Knight = 0.72% Scout = 27.4% 
+Scout: Mag = 6.97% Knight = 0.0% Healer = 72.6% 
+
+fight 417 
+Mag 955 38.17% 
+Knight 1094 43.73% 
+Healer 121 4.84% 
+Scout 332 13.27% 
+
+Mag: Knight = 36.93% Healer = 99.04% Scout = 93.05% 
+Knight: Mag = 63.07% Healer = 99.28% Scout = 100.0% 
+Healer: Mag = 0.96% Knight = 0.72% Scout = 27.34% 
+Scout: Mag = 6.95% Knight = 0.0% Healer = 72.66% 
+
+fight 418 
+Mag 957 38.16% 
+Knight 1097 43.74% 
+Healer 121 4.82% 
+Scout 333 13.28% 
+
+Mag: Knight = 36.84% Healer = 99.04% Scout = 93.06% 
+Knight: Mag = 63.16% Healer = 99.28% Scout = 100.0% 
+Healer: Mag = 0.96% Knight = 0.72% Scout = 27.27% 
+Scout: Mag = 6.94% Knight = 0.0% Healer = 72.73% 
+
+fight 419 
+Mag 959 38.15% 
+Knight 1100 43.75% 
+Healer 121 4.81% 
+Scout 334 13.29% 
+
+Mag: Knight = 36.75% Healer = 99.05% Scout = 93.08% 
+Knight: Mag = 63.25% Healer = 99.28% Scout = 100.0% 
+Healer: Mag = 0.95% Knight = 0.72% Scout = 27.21% 
+Scout: Mag = 6.92% Knight = 0.0% Healer = 72.79% 
+
+fight 420 
+Mag 962 38.17% 
+Knight 1102 43.73% 
+Healer 122 4.84% 
+Scout 334 13.25% 
+
+Mag: Knight = 36.9% Healer = 99.05% Scout = 93.1% 
+Knight: Mag = 63.1% Healer = 99.29% Scout = 100.0% 
+Healer: Mag = 0.95% Knight = 0.71% Scout = 27.38% 
+Scout: Mag = 6.9% Knight = 0.0% Healer = 72.62% 
+
+fight 421 
+Mag 964 38.16% 
+Knight 1105 43.75% 
+Healer 122 4.83% 
+Scout 335 13.26% 
+
+Mag: Knight = 36.82% Healer = 99.05% Scout = 93.11% 
+Knight: Mag = 63.18% Healer = 99.29% Scout = 100.0% 
+Healer: Mag = 0.95% Knight = 0.71% Scout = 27.32% 
+Scout: Mag = 6.89% Knight = 0.0% Healer = 72.68% 
+
+fight 422 
+Mag 966 38.15% 
+Knight 1108 43.76% 
+Healer 123 4.86% 
+Scout 335 13.23% 
+
+Mag: Knight = 36.73% Healer = 99.05% Scout = 93.13% 
+Knight: Mag = 63.27% Healer = 99.29% Scout = 100.0% 
+Healer: Mag = 0.95% Knight = 0.71% Scout = 27.49% 
+Scout: Mag = 6.87% Knight = 0.0% Healer = 72.51% 
+
+fight 423 
+Mag 969 38.18% 
+Knight 1110 43.74% 
+Healer 123 4.85% 
+Scout 336 13.24% 
+
+Mag: Knight = 36.88% Healer = 99.05% Scout = 93.14% 
+Knight: Mag = 63.12% Healer = 99.29% Scout = 100.0% 
+Healer: Mag = 0.95% Knight = 0.71% Scout = 27.42% 
+Scout: Mag = 6.86% Knight = 0.0% Healer = 72.58% 
+
+fight 424 
+Mag 972 38.21% 
+Knight 1112 43.71% 
+Healer 124 4.87% 
+Scout 336 13.21% 
+
+Mag: Knight = 37.03% Healer = 99.06% Scout = 93.16% 
+Knight: Mag = 62.97% Healer = 99.29% Scout = 100.0% 
+Healer: Mag = 0.94% Knight = 0.71% Scout = 27.59% 
+Scout: Mag = 6.84% Knight = 0.0% Healer = 72.41% 
+
+fight 425 
+Mag 974 38.2% 
+Knight 1115 43.73% 
+Healer 124 4.86% 
+Scout 337 13.22% 
+
+Mag: Knight = 36.94% Healer = 99.06% Scout = 93.18% 
+Knight: Mag = 63.06% Healer = 99.29% Scout = 100.0% 
+Healer: Mag = 0.94% Knight = 0.71% Scout = 27.53% 
+Scout: Mag = 6.82% Knight = 0.0% Healer = 72.47% 
+
+fight 426 
+Mag 976 38.18% 
+Knight 1118 43.74% 
+Healer 124 4.85% 
+Scout 338 13.22% 
+
+Mag: Knight = 36.85% Healer = 99.06% Scout = 93.19% 
+Knight: Mag = 63.15% Healer = 99.3% Scout = 100.0% 
+Healer: Mag = 0.94% Knight = 0.7% Scout = 27.46% 
+Scout: Mag = 6.81% Knight = 0.0% Healer = 72.54% 
+
+fight 427 
+Mag 978 38.17% 
+Knight 1121 43.75% 
+Healer 124 4.84% 
+Scout 339 13.23% 
+
+Mag: Knight = 36.77% Healer = 99.06% Scout = 93.21% 
+Knight: Mag = 63.23% Healer = 99.3% Scout = 100.0% 
+Healer: Mag = 0.94% Knight = 0.7% Scout = 27.4% 
+Scout: Mag = 6.79% Knight = 0.0% Healer = 72.6% 
+
+fight 428 
+Mag 981 38.2% 
+Knight 1123 43.73% 
+Healer 124 4.83% 
+Scout 340 13.24% 
+
+Mag: Knight = 36.92% Healer = 99.07% Scout = 93.22% 
+Knight: Mag = 63.08% Healer = 99.3% Scout = 100.0% 
+Healer: Mag = 0.93% Knight = 0.7% Scout = 27.34% 
+Scout: Mag = 6.78% Knight = 0.0% Healer = 72.66% 
+
+fight 429 
+Mag 984 38.23% 
+Knight 1125 43.71% 
+Healer 125 4.86% 
+Scout 340 13.21% 
+
+Mag: Knight = 37.06% Healer = 99.07% Scout = 93.24% 
+Knight: Mag = 62.94% Healer = 99.3% Scout = 100.0% 
+Healer: Mag = 0.93% Knight = 0.7% Scout = 27.51% 
+Scout: Mag = 6.76% Knight = 0.0% Healer = 72.49% 
+
+fight 430 
+Mag 986 38.22% 
+Knight 1128 43.72% 
+Healer 125 4.84% 
+Scout 341 13.22% 
+
+Mag: Knight = 36.98% Healer = 99.07% Scout = 93.26% 
+Knight: Mag = 63.02% Healer = 99.3% Scout = 100.0% 
+Healer: Mag = 0.93% Knight = 0.7% Scout = 27.44% 
+Scout: Mag = 6.74% Knight = 0.0% Healer = 72.56% 
+
+fight 431 
+Mag 988 38.21% 
+Knight 1131 43.74% 
+Healer 126 4.87% 
+Scout 341 13.19% 
+
+Mag: Knight = 36.89% Healer = 99.07% Scout = 93.27% 
+Knight: Mag = 63.11% Healer = 99.3% Scout = 100.0% 
+Healer: Mag = 0.93% Knight = 0.7% Scout = 27.61% 
+Scout: Mag = 6.73% Knight = 0.0% Healer = 72.39% 
+
+fight 432 
+Mag 991 38.23% 
+Knight 1133 43.71% 
+Healer 126 4.86% 
+Scout 342 13.19% 
+
+Mag: Knight = 37.04% Healer = 99.07% Scout = 93.29% 
+Knight: Mag = 62.96% Healer = 99.31% Scout = 100.0% 
+Healer: Mag = 0.93% Knight = 0.69% Scout = 27.55% 
+Scout: Mag = 6.71% Knight = 0.0% Healer = 72.45% 
+
+fight 433 
+Mag 993 38.22% 
+Knight 1136 43.73% 
+Healer 126 4.85% 
+Scout 343 13.2% 
+
+Mag: Knight = 36.95% Healer = 99.08% Scout = 93.3% 
+Knight: Mag = 63.05% Healer = 99.31% Scout = 100.0% 
+Healer: Mag = 0.92% Knight = 0.69% Scout = 27.48% 
+Scout: Mag = 6.7% Knight = 0.0% Healer = 72.52% 
+
+fight 434 
+Mag 995 38.21% 
+Knight 1139 43.74% 
+Healer 127 4.88% 
+Scout 343 13.17% 
+
+Mag: Knight = 36.87% Healer = 99.08% Scout = 93.32% 
+Knight: Mag = 63.13% Healer = 99.31% Scout = 100.0% 
+Healer: Mag = 0.92% Knight = 0.69% Scout = 27.65% 
+Scout: Mag = 6.68% Knight = 0.0% Healer = 72.35% 
+
+fight 435 
+Mag 997 38.2% 
+Knight 1142 43.75% 
+Healer 128 4.9% 
+Scout 343 13.14% 
+
+Mag: Knight = 36.78% Healer = 99.08% Scout = 93.33% 
+Knight: Mag = 63.22% Healer = 99.31% Scout = 100.0% 
+Healer: Mag = 0.92% Knight = 0.69% Scout = 27.82% 
+Scout: Mag = 6.67% Knight = 0.0% Healer = 72.18% 
+
+fight 436 
+Mag 999 38.19% 
+Knight 1145 43.77% 
+Healer 128 4.89% 
+Scout 344 13.15% 
+
+Mag: Knight = 36.7% Healer = 99.08% Scout = 93.35% 
+Knight: Mag = 63.3% Healer = 99.31% Scout = 100.0% 
+Healer: Mag = 0.92% Knight = 0.69% Scout = 27.75% 
+Scout: Mag = 6.65% Knight = 0.0% Healer = 72.25% 
+
+fight 437 
+Mag 1001 38.18% 
+Knight 1148 43.78% 
+Healer 128 4.88% 
+Scout 345 13.16% 
+
+Mag: Knight = 36.61% Healer = 99.08% Scout = 93.36% 
+Knight: Mag = 63.39% Healer = 99.31% Scout = 100.0% 
+Healer: Mag = 0.92% Knight = 0.69% Scout = 27.69% 
+Scout: Mag = 6.64% Knight = 0.0% Healer = 72.31% 
+
+fight 438 
+Mag 1004 38.2% 
+Knight 1150 43.76% 
+Healer 128 4.87% 
+Scout 346 13.17% 
+
+Mag: Knight = 36.76% Healer = 99.09% Scout = 93.38% 
+Knight: Mag = 63.24% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 0.91% Knight = 0.68% Scout = 27.63% 
+Scout: Mag = 6.62% Knight = 0.0% Healer = 72.37% 
+
+fight 439 
+Mag 1006 38.19% 
+Knight 1153 43.77% 
+Healer 129 4.9% 
+Scout 346 13.14% 
+
+Mag: Knight = 36.67% Healer = 99.09% Scout = 93.39% 
+Knight: Mag = 63.33% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 0.91% Knight = 0.68% Scout = 27.79% 
+Scout: Mag = 6.61% Knight = 0.0% Healer = 72.21% 
+
+fight 440 
+Mag 1008 38.18% 
+Knight 1156 43.79% 
+Healer 129 4.89% 
+Scout 347 13.14% 
+
+Mag: Knight = 36.59% Healer = 99.09% Scout = 93.41% 
+Knight: Mag = 63.41% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 0.91% Knight = 0.68% Scout = 27.73% 
+Scout: Mag = 6.59% Knight = 0.0% Healer = 72.27% 
+
+fight 441 
+Mag 1009 38.13% 
+Knight 1159 43.8% 
+Healer 129 4.88% 
+Scout 349 13.19% 
+
+Mag: Knight = 36.51% Healer = 99.09% Scout = 93.2% 
+Knight: Mag = 63.49% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 0.91% Knight = 0.68% Scout = 27.66% 
+Scout: Mag = 6.8% Knight = 0.0% Healer = 72.34% 
+
+fight 442 
+Mag 1012 38.16% 
+Knight 1161 43.78% 
+Healer 129 4.86% 
+Scout 350 13.2% 
+
+Mag: Knight = 36.65% Healer = 99.1% Scout = 93.21% 
+Knight: Mag = 63.35% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 0.9% Knight = 0.68% Scout = 27.6% 
+Scout: Mag = 6.79% Knight = 0.0% Healer = 72.4% 
+
+fight 443 
+Mag 1015 38.19% 
+Knight 1163 43.75% 
+Healer 130 4.89% 
+Scout 350 13.17% 
+
+Mag: Knight = 36.79% Healer = 99.1% Scout = 93.23% 
+Knight: Mag = 63.21% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 0.9% Knight = 0.68% Scout = 27.77% 
+Scout: Mag = 6.77% Knight = 0.0% Healer = 72.23% 
+
+fight 444 
+Mag 1016 38.14% 
+Knight 1166 43.77% 
+Healer 130 4.88% 
+Scout 352 13.21% 
+
+Mag: Knight = 36.71% Healer = 99.1% Scout = 93.02% 
+Knight: Mag = 63.29% Healer = 99.32% Scout = 100.0% 
+Healer: Mag = 0.9% Knight = 0.68% Scout = 27.7% 
+Scout: Mag = 6.98% Knight = 0.0% Healer = 72.3% 
+
+fight 445 
+Mag 1018 38.13% 
+Knight 1169 43.78% 
+Healer 130 4.87% 
+Scout 353 13.22% 
+
+Mag: Knight = 36.63% Healer = 99.1% Scout = 93.03% 
+Knight: Mag = 63.37% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 0.9% Knight = 0.67% Scout = 27.64% 
+Scout: Mag = 6.97% Knight = 0.0% Healer = 72.36% 
+
+fight 446 
+Mag 1020 38.12% 
+Knight 1172 43.8% 
+Healer 130 4.86% 
+Scout 354 13.23% 
+
+Mag: Knight = 36.55% Healer = 99.1% Scout = 93.05% 
+Knight: Mag = 63.45% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 0.9% Knight = 0.67% Scout = 27.58% 
+Scout: Mag = 6.95% Knight = 0.0% Healer = 72.42% 
+
+fight 447 
+Mag 1023 38.14% 
+Knight 1174 43.77% 
+Healer 130 4.85% 
+Scout 355 13.24% 
+
+Mag: Knight = 36.69% Healer = 99.11% Scout = 93.06% 
+Knight: Mag = 63.31% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 0.89% Knight = 0.67% Scout = 27.52% 
+Scout: Mag = 6.94% Knight = 0.0% Healer = 72.48% 
+
+fight 448 
+Mag 1026 38.17% 
+Knight 1176 43.75% 
+Healer 131 4.87% 
+Scout 355 13.21% 
+
+Mag: Knight = 36.83% Healer = 99.11% Scout = 93.08% 
+Knight: Mag = 63.17% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 0.89% Knight = 0.67% Scout = 27.68% 
+Scout: Mag = 6.92% Knight = 0.0% Healer = 72.32% 
+
+fight 449 
+Mag 1028 38.16% 
+Knight 1179 43.76% 
+Healer 131 4.86% 
+Scout 356 13.21% 
+
+Mag: Knight = 36.75% Healer = 99.11% Scout = 93.1% 
+Knight: Mag = 63.25% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 0.89% Knight = 0.67% Scout = 27.62% 
+Scout: Mag = 6.9% Knight = 0.0% Healer = 72.38% 
+
+fight 450 
+Mag 1031 38.19% 
+Knight 1181 43.74% 
+Healer 131 4.85% 
+Scout 357 13.22% 
+
+Mag: Knight = 36.89% Healer = 99.11% Scout = 93.11% 
+Knight: Mag = 63.11% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 0.89% Knight = 0.67% Scout = 27.56% 
+Scout: Mag = 6.89% Knight = 0.0% Healer = 72.44% 
+
+fight 451 
+Mag 1034 38.21% 
+Knight 1183 43.72% 
+Healer 131 4.84% 
+Scout 358 13.23% 
+
+Mag: Knight = 37.03% Healer = 99.11% Scout = 93.13% 
+Knight: Mag = 62.97% Healer = 99.33% Scout = 100.0% 
+Healer: Mag = 0.89% Knight = 0.67% Scout = 27.49% 
+Scout: Mag = 6.87% Knight = 0.0% Healer = 72.51% 
+
+fight 452 
+Mag 1036 38.2% 
+Knight 1186 43.73% 
+Healer 131 4.83% 
+Scout 359 13.24% 
+
+Mag: Knight = 36.95% Healer = 99.12% Scout = 93.14% 
+Knight: Mag = 63.05% Healer = 99.34% Scout = 100.0% 
+Healer: Mag = 0.88% Knight = 0.66% Scout = 27.43% 
+Scout: Mag = 6.86% Knight = 0.0% Healer = 72.57% 
+

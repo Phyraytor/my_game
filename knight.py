@@ -18,36 +18,16 @@ class Knight(person.Person):
         '''-------------------------------------**********--------------------------------------'''
         '''--------------**********-------------Faster axe--------------**********--------------'''
         '''-------------------------------------**********--------------------------------------'''
-        '''cast_bonus = {'front_block' : 5}'''
         def finish(name: str, damage: float) -> dict:
             result = {'target': {}, 'self': [] }
-
-            '''result['self'].append({
-                'func': self.create_dot,
-                'name': 'bandages',
-                'type': 'hil',
-                'damage': damage * 0.1,
-                'stage': 4,
-                'time': 0.9,
-            })'''
-
             result['target']['hit'] = {
                 'name': name,
                 'type': 'physical',
                 'damage': damage,
             }
-
-            '''result['target']['dot'] = {
-                'name': 'bleeding',
-                'type': 'physical',
-                'damage': damage * 0.2,
-                'stage': 3,
-                'time': 0.7,
-            }'''
-            #result['target']['stop'] = self.stats['time']
             return result
 
-        skill = person.classSkill.Skill(name='Faster axe', cast=0.7, coldown=0, lvl=0, finish=finish, mult=0.2)
+        skill = person.classSkill.Skill(name='Faster axe', cast=1, coldown=0, lvl=0, finish=finish, mult=1)
         self.skills.append(skill)
 """
 

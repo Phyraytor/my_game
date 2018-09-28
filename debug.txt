@@ -1,0 +1,4978 @@
+Mag 99 Knight -44
+Mag WIN
+Mag 505 Healer -35
+Mag WIN
+Mag 2000 Scout -158
+Mag WIN
+Knight 935 Healer -110
+Knight WIN
+Knight 4000 Scout -208
+Knight WIN
+Healer 2400 Scout -58
+Healer WIN
+Mag 115 Knight -91
+Mag WIN
+Mag 238 Healer 0
+Mag WIN
+Mag 2000 Scout -232
+Mag WIN
+Knight 307 Healer -41
+Knight WIN
+Knight 4000 Scout -86
+Knight WIN
+Healer 2400 Scout -73
+Healer WIN
+Mag 434 Knight -357
+Mag WIN
+Mag 300 Healer -103
+Mag WIN
+Mag 2000 Scout -265
+Mag WIN
+Knight 1263 Healer -17
+Knight WIN
+Knight 4000 Scout -46
+Knight WIN
+Healer 2400 Scout -124
+Healer WIN
+Mag -133 Knight 167
+Knight WIN
+Mag 145 Healer -118
+Mag WIN
+Mag 2000 Scout -109
+Mag WIN
+Knight 1198 Healer -184
+Knight WIN
+Knight 4000 Scout -117
+Knight WIN
+Healer 2400 Scout -9
+Healer WIN
+Mag -3 Knight 236
+Knight WIN
+Mag 673 Healer -37
+Mag WIN
+Mag 2000 Scout -144
+Mag WIN
+Knight 643 Healer -154
+Knight WIN
+Knight 4000 Scout -7
+Knight WIN
+Healer 2400 Scout -66
+Healer WIN
+Mag -11 Knight 320
+Knight WIN
+Mag 294 Healer -4
+Mag WIN
+Mag 2000 Scout -338
+Mag WIN
+Knight 1358 Healer -149
+Knight WIN
+Knight 4000 Scout -95
+Knight WIN
+Healer 2400 Scout -30
+Healer WIN
+Mag -5 Knight 313
+Knight WIN
+Mag 578 Healer -22
+Mag WIN
+Mag 2000 Scout -112
+Mag WIN
+Knight 933 Healer -160
+Knight WIN
+Knight 4000 Scout -70
+Knight WIN
+Healer 2400 Scout -33
+Healer WIN
+Mag 282 Knight -56
+Mag WIN
+Mag 476 Healer -50
+Mag WIN
+Mag 2000 Scout -79
+Mag WIN
+Knight 1539 Healer -29
+Knight WIN
+Knight 4000 Scout -40
+Knight WIN
+Healer 2400 Scout -18
+Healer WIN
+Mag -89 Knight 805
+Knight WIN
+Mag 604 Healer -96
+Mag WIN
+Mag 2000 Scout -5
+Mag WIN
+Knight 1400 Healer -37
+Knight WIN
+Knight 4000 Scout -76
+Knight WIN
+Healer 2400 Scout -106
+Healer WIN
+Mag 154 Knight -279
+Mag WIN
+Mag 468 Healer -24
+Mag WIN
+Mag 2000 Scout -206
+Mag WIN
+Knight 749 Healer -140
+Knight WIN
+Knight 4000 Scout -14
+Knight WIN
+Healer 2400 Scout -120
+Healer WIN
+Mag 244 Knight -58
+Mag WIN
+Mag 621 Healer -135
+Mag WIN
+Mag 2000 Scout -171
+Mag WIN
+Knight 1094 Healer -1
+Knight WIN
+Knight 4000 Scout -41
+Knight WIN
+Healer 2400 Scout -26
+Healer WIN
+Mag 38 Knight -207
+Mag WIN
+Mag 543 Healer -22
+Mag WIN
+Mag 2000 Scout -15
+Mag WIN
+Knight 552 Healer -96
+Knight WIN
+Knight 4000 Scout -101
+Knight WIN
+Healer 2400 Scout -59
+Healer WIN
+Mag -34 Knight 58
+Knight WIN
+Mag 561 Healer -63
+Mag WIN
+Mag 2000 Scout -136
+Mag WIN
+Knight 1137 Healer -153
+Knight WIN
+Knight 4000 Scout -103
+Knight WIN
+Healer 2400 Scout -125
+Healer WIN
+Mag -102 Knight 289
+Knight WIN
+Mag 473 Healer -114
+Mag WIN
+Mag 2000 Scout -38
+Mag WIN
+Knight 955 Healer -165
+Knight WIN
+Knight 4000 Scout -109
+Knight WIN
+Healer 2400 Scout -63
+Healer WIN
+Mag 275 Knight -75
+Mag WIN
+Mag 202 Healer -219
+Mag WIN
+Mag 2000 Scout -72
+Mag WIN
+Knight 1344 Healer -63
+Knight WIN
+Knight 4000 Scout -112
+Knight WIN
+Healer 2400 Scout -71
+Healer WIN
+Mag -142 Knight 909
+Knight WIN
+Mag 80 Healer -86
+Mag WIN
+Mag 2000 Scout -317
+Mag WIN
+Knight 707 Healer -109
+Knight WIN
+Knight 4000 Scout -70
+Knight WIN
+Healer 2400 Scout -8
+Healer WIN
+Mag -85 Knight 459
+Knight WIN
+Mag 822 Healer -48
+Mag WIN
+Mag 2000 Scout -237
+Mag WIN
+Knight 1360 Healer -17
+Knight WIN
+Knight 4000 Scout -68
+Knight WIN
+Healer 2400 Scout -180
+Healer WIN
+Mag -52 Knight 666
+Knight WIN
+Mag 242 Healer -301
+Mag WIN
+Mag 2000 Scout -102
+Mag WIN
+Knight 1456 Healer -16
+Knight WIN
+Knight 4000 Scout -46
+Knight WIN
+Healer 2400 Scout -108
+Healer WIN
+Mag -107 Knight 10
+Knight WIN
+Mag 230 Healer -31
+Mag WIN
+Mag 2000 Scout -131
+Mag WIN
+Knight 1308 Healer -6
+Knight WIN
+Knight 4000 Scout -96
+Knight WIN
+Healer 2400 Scout -319
+Healer WIN
+Mag -98 Knight 199
+Knight WIN
+Mag 646 Healer -103
+Mag WIN
+Mag 2000 Scout -185
+Mag WIN
+Knight 1358 Healer -275
+Knight WIN
+Knight 4000 Scout -22
+Knight WIN
+Healer 2400 Scout -38
+Healer WIN
+Mag 220 Knight -209
+Mag WIN
+Mag 316 Healer -74
+Mag WIN
+Mag 2000 Scout -132
+Mag WIN
+Knight 1253 Healer -135
+Knight WIN
+Mag -6 Knight 240
+Knight WIN
+Mag 284 Healer -168
+Mag WIN
+Mag 446 Scout -234
+Mag WIN
+Knight 1404 Healer -123
+Knight WIN
+Knight 2154 Scout -66
+Knight WIN
+Healer -9 Scout 269
+Scout WIN
+Mag 308 Knight -373
+Mag WIN
+Mag 348 Healer -47
+Mag WIN
+Mag 563 Scout -238
+Mag WIN
+Knight 1076 Healer -111
+Knight WIN
+Knight 2344 Scout -172
+Knight WIN
+Healer 108 Scout -106
+Healer WIN
+Mag -54 Knight 813
+Knight WIN
+Mag 158 Healer -80
+Mag WIN
+Mag 382 Scout -219
+Mag WIN
+Knight 195 Healer -132
+Knight WIN
+Knight 2250 Scout -122
+Knight WIN
+Healer 41 Scout -144
+Healer WIN
+Mag -28 Knight 643
+Knight WIN
+Mag 358 Healer -64
+Mag WIN
+Mag 286 Scout -128
+Mag WIN
+Knight 1007 Healer -149
+Knight WIN
+Knight 2279 Scout -122
+Knight WIN
+Healer -35 Scout 41
+Scout WIN
+Mag 238 Knight -268
+Mag WIN
+Mag 178 Healer -28
+Mag WIN
+Mag 884 Scout -28
+Mag WIN
+Knight 1198 Healer -92
+Knight WIN
+Knight 1599 Scout -61
+Knight WIN
+Healer -74 Scout 231
+Scout WIN
+Mag 312 Knight -148
+Mag WIN
+Mag 95 Healer -166
+Mag WIN
+Mag 434 Scout -181
+Mag WIN
+Knight 1363 Healer -141
+Knight WIN
+Knight 2394 Scout -131
+Knight WIN
+Healer -99 Scout 465
+Scout WIN
+Mag -71 Knight 153
+Knight WIN
+Mag 511 Healer -53
+Mag WIN
+Mag 294 Scout -127
+Mag WIN
+Knight 1492 Healer -59
+Knight WIN
+Knight 2145 Scout -110
+Knight WIN
+Healer -2 Scout 378
+Scout WIN
+Mag -17 Knight 59
+Knight WIN
+Mag 384 Healer -78
+Mag WIN
+Mag 56 Scout -275
+Mag WIN
+Knight 1343 Healer -97
+Knight WIN
+Knight 2209 Scout -116
+Knight WIN
+Healer -149 Scout 188
+Scout WIN
+Mag 104 Knight -61
+Mag WIN
+Mag 327 Healer -185
+Mag WIN
+Mag 217 Scout -255
+Mag WIN
+Knight 1357 Healer -116
+Knight WIN
+Knight 2132 Scout -10
+Knight WIN
+Healer -125 Scout 437
+Scout WIN
+Mag 568 Knight -283
+Mag WIN
+Mag 524 Healer -58
+Mag WIN
+Mag 807 Scout -206
+Mag WIN
+Knight 864 Healer -106
+Knight WIN
+Knight 1842 Scout -41
+Knight WIN
+Healer -199 Scout 621
+Scout WIN
+Mag 33 Knight -276
+Mag WIN
+Mag 327 Healer -79
+Mag WIN
+Mag 789 Scout -85
+Mag WIN
+Knight 518 Healer -86
+Knight WIN
+Knight 2235 Scout -138
+Knight WIN
+Healer -62 Scout 824
+Scout WIN
+Mag 199 Knight -293
+Mag WIN
+Mag 708 Healer -22
+Mag WIN
+Mag 308 Scout -198
+Mag WIN
+Knight 634 Healer -34
+Knight WIN
+Knight 1688 Scout -22
+Knight WIN
+Healer -35 Scout 223
+Scout WIN
+Mag 95 Knight -189
+Mag WIN
+Mag 519 Healer -11
+Mag WIN
+Mag 186 Scout -22
+Mag WIN
+Knight 1083 Healer -85
+Knight WIN
+Knight 1820 Scout -107
+Knight WIN
+Healer -156 Scout 236
+Scout WIN
+Mag -98 Knight 534
+Knight WIN
+Mag 917 Healer -11
+Mag WIN
+Mag 153 Scout -164
+Mag WIN
+Knight 1031 Healer -57
+Knight WIN
+Knight 1945 Scout -143
+Knight WIN
+Healer -84 Scout 632
+Scout WIN
+Mag 54 Knight -303
+Mag WIN
+Mag 253 Healer -108
+Mag WIN
+Mag 173 Scout -302
+Mag WIN
+Knight 921 Healer -74
+Knight WIN
+Knight 2211 Scout -115
+Knight WIN
+Healer 158 Scout -143
+Healer WIN
+Mag 119 Knight -381
+Mag WIN
+Mag 193 Healer -190
+Mag WIN
+Mag -14 Scout 95
+Scout WIN
+Knight 732 Healer -141
+Knight WIN
+Knight 1737 Scout -116
+Knight WIN
+Healer 144 Scout -171
+Healer WIN
+Mag 80 Knight -249
+Mag WIN
+Mag 765 Healer -10
+Mag WIN
+Mag 576 Scout -77
+Mag WIN
+Knight 1016 Healer -95
+Knight WIN
+Knight 2339 Scout -153
+Knight WIN
+Healer 132 Scout -97
+Healer WIN
+Mag -64 Knight 1241
+Knight WIN
+Mag 636 Healer -31
+Mag WIN
+Mag 389 Scout -255
+Mag WIN
+Knight 774 Healer -164
+Knight WIN
+Knight 1792 Scout -98
+Knight WIN
+Healer -83 Scout 499
+Scout WIN
+Mag -44 Knight 704
+Knight WIN
+Mag 505 Healer -97
+Mag WIN
+Mag 475 Scout -115
+Mag WIN
+Knight 1630 Healer -47
+Knight WIN
+Knight 1898 Scout -29
+Knight WIN
+Healer -64 Scout 269
+Scout WIN
+Mag -63 Knight 98
+Knight WIN
+Mag 136 Healer -57
+Mag WIN
+Mag 543 Scout -157
+Mag WIN
+Knight 1319 Healer -34
+Knight WIN
+Knight 2010 Scout -37
+Knight WIN
+Healer 97 Scout -138
+Healer WIN
+Mag 153 Knight -224
+Mag WIN
+Mag 388 Healer -117
+Mag WIN
+Mag 773 Scout -144
+Mag WIN
+Knight 1675 Healer -5
+Knight WIN
+Knight 2118 Scout -55
+Knight WIN
+Healer -7 Scout 274
+Scout WIN
+Mag 205 Knight -98
+Mag WIN
+Mag 903 Healer -63
+Mag WIN
+Mag -5 Scout 603
+Scout WIN
+Knight 1041 Healer -90
+Knight WIN
+Knight 1974 Scout -91
+Knight WIN
+Healer 247 Scout -16
+Healer WIN
+Mag 111 Knight -26
+Mag WIN
+Mag 353 Healer -64
+Mag WIN
+Mag 613 Scout -222
+Mag WIN
+Knight 498 Healer -157
+Knight WIN
+Knight 2390 Scout -67
+Knight WIN
+Healer 200 Scout -149
+Healer WIN
+Mag 341 Knight -33
+Mag WIN
+Mag 700 Healer -87
+Mag WIN
+Mag 417 Scout -108
+Mag WIN
+Knight 859 Healer -28
+Knight WIN
+Knight 2243 Scout -45
+Knight WIN
+Healer 402 Scout -48
+Healer WIN
+Mag 21 Knight -49
+Mag WIN
+Mag 586 Healer -19
+Mag WIN
+Mag 527 Scout -207
+Mag WIN
+Knight 1405 Healer -96
+Knight WIN
+Knight 2048 Scout -77
+Knight WIN
+Healer -198 Scout 790
+Scout WIN
+Mag -132 Knight 314
+Knight WIN
+Mag 810 Healer -70
+Mag WIN
+Mag 817 Scout -130
+Mag WIN
+Knight 1025 Healer -148
+Knight WIN
+Knight 1959 Scout -65
+Knight WIN
+Healer 196 Scout -191
+Healer WIN
+Mag -63 Knight 935
+Knight WIN
+Mag 476 Healer -107
+Mag WIN
+Mag -39 Scout 56
+Scout WIN
+Knight 658 Healer -148
+Knight WIN
+Knight 2018 Scout -68
+Knight WIN
+Healer 40 Scout -92
+Healer WIN
+Mag 52 Knight -11
+Mag WIN
+Mag 728 Healer -112
+Mag WIN
+Mag 183 Scout -132
+Mag WIN
+Knight 168 Healer -142
+Knight WIN
+Knight 2033 Scout -11
+Knight WIN
+Healer 116 Scout -122
+Healer WIN
+Mag 70 Knight -33
+Mag WIN
+Mag 510 Healer -63
+Mag WIN
+Mag 283 Scout -216
+Mag WIN
+Knight 668 Healer -90
+Knight WIN
+Knight 1584 Scout -54
+Knight WIN
+Healer 8 Scout -28
+Healer WIN
+Mag 453 Knight -221
+Mag WIN
+Mag 246 Healer -163
+Mag WIN
+Mag 725 Scout -283
+Mag WIN
+Knight 1543 Healer -65
+Knight WIN
+Knight 2043 Scout -147
+Knight WIN
+Healer -63 Scout 572
+Scout WIN
+Mag -113 Knight 979
+Knight WIN
+Mag 687 Healer -49
+Mag WIN
+Mag 539 Scout -263
+Mag WIN
+Knight 808 Healer -142
+Knight WIN
+Knight 2060 Scout -18
+Knight WIN
+Healer -64 Scout 304
+Scout WIN
+Mag 87 Knight -165
+Mag WIN
+Mag 717 Healer -191
+Mag WIN
+Mag 742 Scout -138
+Mag WIN
+Knight 1037 Healer -88
+Knight WIN
+Knight 2073 Scout -75
+Knight WIN
+Healer -44 Scout 141
+Scout WIN
+Mag -82 Knight 16
+Knight WIN
+Mag 443 Healer -19
+Mag WIN
+Mag 382 Scout -13
+Mag WIN
+Knight 1588 Healer -130
+Knight WIN
+Knight 2268 Scout -81
+Knight WIN
+Healer -40 Scout 293
+Scout WIN
+Mag -114 Knight 728
+Knight WIN
+Mag 436 Healer -80
+Mag WIN
+Mag 421 Scout -50
+Mag WIN
+Knight 1321 Healer -243
+Knight WIN
+Knight 1694 Scout 0
+Knight WIN
+Healer -97 Scout 289
+Scout WIN
+Mag 48 Knight -211
+Mag WIN
+Mag 358 Healer -46
+Mag WIN
+Mag 22 Scout -17
+Mag WIN
+Knight 1096 Healer -29
+Knight WIN
+Knight 1796 Scout -4
+Knight WIN
+Healer -142 Scout 577
+Scout WIN
+Mag -150 Knight 810
+Knight WIN
+Mag 608 Healer -1
+Mag WIN
+Mag 456 Scout -251
+Mag WIN
+Knight 1165 Healer -45
+Knight WIN
+Knight 1736 Scout -47
+Knight WIN
+Healer -101 Scout 466
+Scout WIN
+Mag -22 Knight 593
+Knight WIN
+Mag -92 Healer 241
+Healer WIN
+Mag 490 Scout -106
+Mag WIN
+Knight 1254 Healer -160
+Knight WIN
+Knight 2070 Scout -29
+Knight WIN
+Healer -62 Scout 400
+Scout WIN
+Mag 228 Knight -240
+Mag WIN
+Mag 187 Healer -117
+Mag WIN
+Mag 561 Scout -143
+Mag WIN
+Knight 1283 Healer -25
+Knight WIN
+Knight 2152 Scout -94
+Knight WIN
+Healer 150 Scout -155
+Healer WIN
+Mag -115 Knight 375
+Knight WIN
+Mag 512 Healer -65
+Mag WIN
+Mag 647 Scout -64
+Mag WIN
+Knight 864 Healer -37
+Knight WIN
+Knight 1727 Scout -67
+Knight WIN
+Healer -132 Scout 202
+Scout WIN
+Mag -70 Knight 499
+Knight WIN
+Mag 309 Healer -120
+Mag WIN
+Mag 322 Scout -14
+Mag WIN
+Knight 375 Healer -186
+Knight WIN
+Knight 2403 Scout -128
+Knight WIN
+Healer -13 Scout 814
+Scout WIN
+Mag -179 Knight 228
+Knight WIN
+Mag 172 Healer -32
+Mag WIN
+Mag 624 Scout -87
+Mag WIN
+Knight 1673 Healer -109
+Knight WIN
+Knight 1932 Scout -73
+Knight WIN
+Healer 308 Scout -52
+Healer WIN
+Mag 378 Knight -149
+Mag WIN
+Mag 541 Healer -9
+Mag WIN
+Mag 17 Scout -197
+Mag WIN
+Knight 1267 Healer -108
+Knight WIN
+Knight 1719 Scout -255
+Knight WIN
+Healer 331 Scout -120
+Healer WIN
+Mag 198 Knight -84
+Mag WIN
+Mag 444 Healer -13
+Mag WIN
+Mag 531 Scout -232
+Mag WIN
+Knight 1057 Healer -81
+Knight WIN
+Knight 2346 Scout 0
+Knight WIN
+Healer -53 Scout 576
+Scout WIN
+Mag 76 Knight -227
+Mag WIN
+Mag 131 Healer -16
+Mag WIN
+Mag 366 Scout -238
+Mag WIN
+Knight 1151 Healer -45
+Knight WIN
+Knight 1752 Scout -67
+Knight WIN
+Healer -73 Scout 163
+Scout WIN
+Mag -34 Knight 1104
+Knight WIN
+Mag 276 Healer -105
+Mag WIN
+Mag 523 Scout -294
+Mag WIN
+Knight 1437 Healer -55
+Knight WIN
+Knight 2179 Scout -140
+Knight WIN
+Healer -81 Scout 61
+Scout WIN
+Mag -239 Knight 299
+Knight WIN
+Mag 117 Healer -120
+Mag WIN
+Mag 707 Scout -237
+Mag WIN
+Knight 1171 Healer -45
+Knight WIN
+Knight 1904 Scout -59
+Knight WIN
+Healer -93 Scout 271
+Scout WIN
+Mag -262 Knight 376
+Knight WIN
+Mag 709 Healer -128
+Mag WIN
+Mag 138 Scout -69
+Mag WIN
+Knight 1751 Healer -3
+Knight WIN
+Knight 2317 Scout -42
+Knight WIN
+Healer -147 Scout 118
+Scout WIN
+Mag 479 Knight -232
+Mag WIN
+Mag 250 Healer -8
+Mag WIN
+Mag 633 Scout -233
+Mag WIN
+Knight 962 Healer -192
+Knight WIN
+Knight 2266 Scout -106
+Knight WIN
+Healer -8 Scout 460
+Scout WIN
+Mag 92 Knight -78
+Mag WIN
+Mag 240 Healer -59
+Mag WIN
+Mag -32 Scout 136
+Scout WIN
+Knight 909 Healer -114
+Knight WIN
+Knight 2095 Scout -174
+Knight WIN
+Healer -180 Scout 242
+Scout WIN
+Mag 138 Knight -235
+Mag WIN
+Mag 252 Healer -178
+Mag WIN
+Mag 567 Scout -213
+Mag WIN
+Knight 1376 Healer -98
+Knight WIN
+Knight 2355 Scout -94
+Knight WIN
+Healer -64 Scout 285
+Scout WIN
+Mag -164 Knight 179
+Knight WIN
+Mag 272 Healer -89
+Mag WIN
+Mag 541 Scout -221
+Mag WIN
+Knight 919 Healer -115
+Knight WIN
+Knight 1993 Scout 0
+Knight WIN
+Healer -161 Scout 484
+Scout WIN
+Mag -31 Knight 209
+Knight WIN
+Mag 206 Healer -27
+Mag WIN
+Mag 394 Scout -158
+Mag WIN
+Knight 1410 Healer -172
+Knight WIN
+Knight 2523 Scout -67
+Knight WIN
+Healer 154 Scout -105
+Healer WIN
+Mag -120 Knight 11
+Knight WIN
+Mag 160 Healer -111
+Mag WIN
+Mag 217 Scout -219
+Mag WIN
+Knight 1043 Healer -9
+Knight WIN
+Knight 1712 Scout -62
+Knight WIN
+Healer -76 Scout 165
+Scout WIN
+Mag 57 Knight -6
+Mag WIN
+Mag 383 Healer -366
+Mag WIN
+Mag 643 Scout -89
+Mag WIN
+Knight 1043 Healer -49
+Knight WIN
+Knight 2346 Scout -36
+Knight WIN
+Healer -222 Scout 46
+Scout WIN
+Mag 148 Knight -439
+Mag WIN
+Mag 675 Healer -105
+Mag WIN
+Mag 674 Scout -145
+Mag WIN
+Knight 1991 Healer -77
+Knight WIN
+Knight 2056 Scout -56
+Knight WIN
+Healer -1 Scout 401
+Scout WIN
+Mag 416 Knight -135
+Mag WIN
+Mag 276 Healer -27
+Mag WIN
+Mag -246 Scout 186
+Scout WIN
+Knight 1005 Healer -67
+Knight WIN
+Knight 1940 Scout -105
+Knight WIN
+Healer -39 Scout 275
+Scout WIN
+Mag -17 Knight 1265
+Knight WIN
+Mag 433 Healer -215
+Mag WIN
+Mag 946 Scout -89
+Mag WIN
+Knight 415 Healer -63
+Knight WIN
+Knight 2129 Scout -53
+Knight WIN
+Healer -106 Scout 517
+Scout WIN
+Mag -135 Knight 1002
+Knight WIN
+Mag 575 Healer -208
+Mag WIN
+Mag 648 Scout -58
+Mag WIN
+Knight 981 Healer -11
+Knight WIN
+Knight 1743 Scout -31
+Knight WIN
+Healer -61 Scout 419
+Scout WIN
+Mag 102 Knight -304
+Mag WIN
+Mag 121 Healer -111
+Mag WIN
+Mag 661 Scout -19
+Mag WIN
+Knight 635 Healer -103
+Knight WIN
+Knight 1979 Scout -35
+Knight WIN
+Healer -164 Scout 432
+Scout WIN
+Mag -127 Knight 105
+Knight WIN
+Mag 438 Healer -88
+Mag WIN
+Mag 517 Scout -225
+Mag WIN
+Knight 1174 Healer -255
+Knight WIN
+Knight 1868 Scout -61
+Knight WIN
+Healer -267 Scout 286
+Scout WIN
+Mag 400 Knight -109
+Mag WIN
+Mag 312 Healer -69
+Mag WIN
+Mag 809 Scout -40
+Mag WIN
+Knight 894 Healer -38
+Knight WIN
+Knight 2078 Scout -12
+Knight WIN
+Healer -59 Scout 407
+Scout WIN
+Mag -45 Knight 129
+Knight WIN
+Mag 287 Healer -40
+Mag WIN
+Mag 727 Scout -70
+Mag WIN
+Knight 572 Healer -90
+Knight WIN
+Knight 1892 Scout -60
+Knight WIN
+Healer 159 Scout -96
+Healer WIN
+Mag -178 Knight 611
+Knight WIN
+Mag 228 Healer -1
+Mag WIN
+Mag 67 Scout -337
+Mag WIN
+Knight 743 Healer -5
+Knight WIN
+Knight 1910 Scout -99
+Knight WIN
+Healer -93 Scout 231
+Scout WIN
+Mag -153 Knight 902
+Knight WIN
+Mag 663 Healer -142
+Mag WIN
+Mag 904 Scout -132
+Mag WIN
+Knight 682 Healer -119
+Knight WIN
+Knight 1916 Scout -123
+Knight WIN
+Healer -54 Scout 185
+Scout WIN
+Mag 212 Knight -137
+Mag WIN
+Mag 490 Healer -77
+Mag WIN
+Mag -48 Scout 49
+Scout WIN
+Knight 778 Healer -154
+Knight WIN
+Knight 1886 Scout -74
+Knight WIN
+Healer -95 Scout 475
+Scout WIN
+Mag 388 Knight -178
+Mag WIN
+Mag 391 Healer -149
+Mag WIN
+Mag 587 Scout -114
+Mag WIN
+Knight 817 Healer -116
+Knight WIN
+Knight 2180 Scout -19
+Knight WIN
+Healer 69 Scout -101
+Healer WIN
+Mag 335 Knight -104
+Mag WIN
+Mag 577 Healer -19
+Mag WIN
+Mag 77 Scout -241
+Mag WIN
+Knight 516 Healer -68
+Knight WIN
+Knight 2368 Scout -68
+Knight WIN
+Healer -30 Scout 691
+Scout WIN
+Mag -146 Knight 357
+Knight WIN
+Mag 373 Healer -146
+Mag WIN
+Mag 1031 Scout -119
+Mag WIN
+Knight 1169 Healer -249
+Knight WIN
+Knight 2192 Scout -146
+Knight WIN
+Healer -141 Scout 337
+Scout WIN
+Mag 487 Knight -117
+Mag WIN
+Mag 280 Healer -35
+Mag WIN
+Mag 356 Scout -281
+Mag WIN
+Knight 1424 Healer -111
+Knight WIN
+Knight 2401 Scout -79
+Knight WIN
+Healer -15 Scout 266
+Scout WIN
+Mag -23 Knight 582
+Knight WIN
+Mag 447 Healer -183
+Mag WIN
+Mag 418 Scout -199
+Mag WIN
+Knight 1696 Healer -6
+Knight WIN
+Knight 2183 Scout -19
+Knight WIN
+Healer -22 Scout 623
+Scout WIN
+Mag -11 Knight 30
+Knight WIN
+Mag 292 Healer -155
+Mag WIN
+Mag 845 Scout -76
+Mag WIN
+Knight 1025 Healer -76
+Knight WIN
+Knight 1891 Scout -18
+Knight WIN
+Healer 431 Scout -147
+Healer WIN
+Mag 335 Knight -246
+Mag WIN
+Mag 965 Healer -16
+Mag WIN
+Mag 444 Scout -28
+Mag WIN
+Knight 810 Healer -59
+Knight WIN
+Knight 2160 Scout -89
+Knight WIN
+Healer -1 Scout 156
+Scout WIN
+Mag -59 Knight 433
+Knight WIN
+Mag 527 Healer -27
+Mag WIN
+Mag 248 Scout -186
+Mag WIN
+Knight 1220 Healer -61
+Knight WIN
+Knight 2276 Scout -63
+Knight WIN
+Healer -119 Scout 425
+Scout WIN
+Mag 136 Knight -37
+Mag WIN
+Mag 452 Healer -130
+Mag WIN
+Mag 454 Scout -128
+Mag WIN
+Knight 479 Healer -15
+Knight WIN
+Knight 2109 Scout -83
+Knight WIN
+Healer -37 Scout 275
+Scout WIN
+Mag 245 Knight -186
+Mag WIN
+Mag 574 Healer -147
+Mag WIN
+Mag 620 Scout -51
+Mag WIN
+Knight 1099 Healer -134
+Knight WIN
+Knight 1958 Scout -10
+Knight WIN
+Healer -97 Scout 760
+Scout WIN
+Mag -97 Knight 222
+Knight WIN
+Mag 190 Healer -150
+Mag WIN
+Mag -83 Scout 45
+Scout WIN
+Knight 1146 Healer -38
+Knight WIN
+Knight 1794 Scout -1
+Knight WIN
+Healer -66 Scout 761
+Scout WIN
+Mag -194 Knight 709
+Knight WIN
+Mag -30 Healer 20
+Healer WIN
+Mag 5 Scout -243
+Mag WIN
+Knight 1042 Healer -50
+Knight WIN
+Knight 2186 Scout -93
+Knight WIN
+Healer -93 Scout 95
+Scout WIN
+Mag 161 Knight -89
+Mag WIN
+Mag 465 Healer -12
+Mag WIN
+Mag 438 Scout -581
+Mag WIN
+Knight 961 Healer -11
+Knight WIN
+Knight 2474 Scout -97
+Knight WIN
+Healer -77 Scout 148
+Scout WIN
+Mag -64 Knight 582
+Knight WIN
+Mag 446 Healer -129
+Mag WIN
+Mag 533 Scout -231
+Mag WIN
+Knight 1331 Healer -127
+Knight WIN
+Knight 2127 Scout -20
+Knight WIN
+Healer 22 Scout -134
+Healer WIN
+Mag -113 Knight 172
+Knight WIN
+Mag 622 Healer -153
+Mag WIN
+Mag 368 Scout -303
+Mag WIN
+Knight 1592 Healer -92
+Knight WIN
+Knight 2301 Scout -37
+Knight WIN
+Healer -133 Scout 570
+Scout WIN
+Mag 309 Knight -246
+Mag WIN
+Mag 404 Healer -262
+Mag WIN
+Mag 212 Scout -213
+Mag WIN
+Knight 1748 Healer -51
+Knight WIN
+Knight 1917 Scout -52
+Knight WIN
+Healer -31 Scout 81
+Scout WIN
+Mag 74 Knight -255
+Mag WIN
+Mag 506 Healer -161
+Mag WIN
+Mag 665 Scout -36
+Mag WIN
+Knight 1461 Healer -69
+Knight WIN
+Knight 2359 Scout -154
+Knight WIN
+Healer -145 Scout 363
+Scout WIN
+Mag -64 Knight 252
+Knight WIN
+Mag 528 Healer -93
+Mag WIN
+Mag 350 Scout -179
+Mag WIN
+Knight 978 Healer -168
+Knight WIN
+Knight 1993 Scout -71
+Knight WIN
+Healer -6 Scout 349
+Scout WIN
+Mag -108 Knight 245
+Knight WIN
+Mag 674 Healer -186
+Mag WIN
+Mag -28 Scout 115
+Scout WIN
+Knight 1590 Healer -71
+Knight WIN
+Knight 2150 Scout -100
+Knight WIN
+Healer -117 Scout 31
+Scout WIN
+Mag 211 Knight -55
+Mag WIN
+Mag 498 Healer -189
+Mag WIN
+Mag 436 Scout -305
+Mag WIN
+Knight 1263 Healer -29
+Knight WIN
+Knight 2079 Scout -28
+Knight WIN
+Healer 343 Scout -36
+Healer WIN
+Mag -123 Knight 456
+Knight WIN
+Mag 584 Healer -63
+Mag WIN
+Mag 291 Scout -67
+Mag WIN
+Knight 1343 Healer -122
+Knight WIN
+Knight 1731 Scout -207
+Knight WIN
+Healer -62 Scout 249
+Scout WIN
+Mag -33 Knight 129
+Knight WIN
+Mag 544 Healer -3
+Mag WIN
+Mag 378 Scout -110
+Mag WIN
+Knight 1056 Healer -27
+Knight WIN
+Knight 1405 Scout -88
+Knight WIN
+Healer -131 Scout 765
+Scout WIN
+Mag 252 Knight -97
+Mag WIN
+Mag 654 Healer -139
+Mag WIN
+Mag 465 Scout -75
+Mag WIN
+Knight 795 Healer -29
+Knight WIN
+Knight 1760 Scout -16
+Knight WIN
+Healer 42 Scout -151
+Healer WIN
+Mag -140 Knight 471
+Knight WIN
+Mag 770 Healer -137
+Mag WIN
+Mag 626 Scout -8
+Mag WIN
+Knight 777 Healer -128
+Knight WIN
+Knight 1728 Scout -11
+Knight WIN
+Healer 0 Scout 710
+Scout WIN
+Mag -117 Knight 517
+Knight WIN
+Mag 534 Healer -63
+Mag WIN
+Mag 847 Scout -72
+Mag WIN
+Knight 1097 Healer -36
+Knight WIN
+Knight 2275 Scout -149
+Knight WIN
+Healer -45 Scout 679
+Scout WIN
+Mag 268 Knight -242
+Mag WIN
+Mag 392 Healer -82
+Mag WIN
+Mag 451 Scout -191
+Mag WIN
+Knight 1028 Healer -102
+Knight WIN
+Knight 1893 Scout -104
+Knight WIN
+Healer -116 Scout 175
+Scout WIN
+Mag 358 Knight -128
+Mag WIN
+Mag 496 Healer -142
+Mag WIN
+Mag 6 Scout -30
+Mag WIN
+Knight 1164 Healer -75
+Knight WIN
+Knight 1839 Scout -72
+Knight WIN
+Healer -80 Scout 354
+Scout WIN
+Mag 0 Knight 441
+Knight WIN
+Mag 169 Healer -17
+Mag WIN
+Mag 555 Scout -143
+Mag WIN
+Knight 1265 Healer -158
+Knight WIN
+Knight 2049 Scout -53
+Knight WIN
+Healer -164 Scout 622
+Scout WIN
+Mag -121 Knight 127
+Knight WIN
+Mag 419 Healer -69
+Mag WIN
+Mag 178 Scout -46
+Mag WIN
+Knight 1252 Healer -26
+Knight WIN
+Knight 2058 Scout -8
+Knight WIN
+Healer -284 Scout 523
+Scout WIN
+Mag -96 Knight 841
+Knight WIN
+Mag 230 Healer -22
+Mag WIN
+Mag 121 Scout -101
+Mag WIN
+Knight 1077 Healer -118
+Knight WIN
+Knight 2071 Scout -13
+Knight WIN
+Healer -27 Scout 172
+Scout WIN
+Mag -86 Knight 254
+Knight WIN
+Mag 699 Healer -63
+Mag WIN
+Mag -76 Scout 52
+Scout WIN
+Knight 1511 Healer -132
+Knight WIN
+Knight 1978 Scout -51
+Knight WIN
+Healer -156 Scout 415
+Scout WIN
+Mag -90 Knight 501
+Knight WIN
+Mag 870 Healer -115
+Mag WIN
+Mag -52 Scout 751
+Scout WIN
+Knight 766 Healer -37
+Knight WIN
+Knight 2106 Scout -84
+Knight WIN
+Healer 0 Scout 645
+Scout WIN
+Mag 164 Knight -128
+Mag WIN
+Mag 644 Healer -77
+Mag WIN
+Mag 518 Scout -106
+Mag WIN
+Knight 887 Healer -12
+Knight WIN
+Knight 2207 Scout -86
+Knight WIN
+Healer -224 Scout 666
+Scout WIN
+Mag -180 Knight 43
+Knight WIN
+Mag 568 Healer -53
+Mag WIN
+Mag 322 Scout -9
+Mag WIN
+Knight 1538 Healer -135
+Knight WIN
+Knight 2078 Scout -78
+Knight WIN
+Healer -118 Scout 314
+Scout WIN
+Mag -56 Knight 494
+Knight WIN
+Mag 100 Healer -99
+Mag WIN
+Mag 418 Scout -44
+Mag WIN
+Knight 1129 Healer -113
+Knight WIN
+Knight 2255 Scout -20
+Knight WIN
+Healer 97 Scout -36
+Healer WIN
+Mag 57 Knight -143
+Mag WIN
+Mag 522 Healer -95
+Mag WIN
+Mag 382 Scout -88
+Mag WIN
+Knight 1305 Healer -319
+Knight WIN
+Knight 2261 Scout -99
+Knight WIN
+Healer -50 Scout 420
+Scout WIN
+Mag -111 Knight 371
+Knight WIN
+Mag 379 Healer -47
+Mag WIN
+Mag 163 Scout -276
+Mag WIN
+Knight 1924 Healer -79
+Knight WIN
+Knight 1418 Scout -113
+Knight WIN
+Healer -57 Scout 211
+Scout WIN
+Mag 172 Knight -140
+Mag WIN
+Mag 457 Healer -199
+Mag WIN
+Mag 170 Scout -203
+Mag WIN
+Knight 885 Healer -37
+Knight WIN
+Knight 2192 Scout -73
+Knight WIN
+Healer -125 Scout 161
+Scout WIN
+Mag -61 Knight 135
+Knight WIN
+Mag 126 Healer -39
+Mag WIN
+Mag 422 Scout -195
+Mag WIN
+Knight 654 Healer -116
+Knight WIN
+Knight 1467 Scout -61
+Knight WIN
+Healer -103 Scout 9
+Scout WIN
+Mag 256 Knight -133
+Mag WIN
+Mag 205 Healer 0
+Mag WIN
+Mag 822 Scout -172
+Mag WIN
+Knight 559 Healer -35
+Knight WIN
+Knight 1880 Scout -3
+Knight WIN
+Healer 115 Scout -73
+Healer WIN
+Mag -95 Knight 517
+Knight WIN
+Mag 329 Healer -85
+Mag WIN
+Mag 179 Scout -93
+Mag WIN
+Knight 929 Healer -118
+Knight WIN
+Knight 2295 Scout -35
+Knight WIN
+Healer -285 Scout 676
+Scout WIN
+Mag -169 Knight 561
+Knight WIN
+Mag 552 Healer -127
+Mag WIN
+Mag 83 Scout -31
+Mag WIN
+Knight 1561 Healer -4
+Knight WIN
+Knight 2030 Scout -129
+Knight WIN
+Healer 150 Scout -73
+Healer WIN
+Mag 365 Knight -323
+Mag WIN
+Mag 449 Healer -34
+Mag WIN
+Mag 432 Scout -39
+Mag WIN
+Knight 976 Healer -56
+Knight WIN
+Knight 2393 Scout -8
+Knight WIN
+Healer -119 Scout 173
+Scout WIN
+Mag -28 Knight 627
+Knight WIN
+Mag 203 Healer -48
+Mag WIN
+Mag 395 Scout -57
+Mag WIN
+Knight 1603 Healer -102
+Knight WIN
+Knight 2261 Scout -65
+Knight WIN
+Healer -115 Scout 317
+Scout WIN
+Mag 121 Knight -166
+Mag WIN
+Mag 767 Healer -93
+Mag WIN
+Mag 1099 Scout -7
+Mag WIN
+Knight 1027 Healer -62
+Knight WIN
+Knight 1780 Scout -119
+Knight WIN
+Healer 170 Scout -49
+Healer WIN
+Mag -88 Knight 324
+Knight WIN
+Mag 803 Healer -112
+Mag WIN
+Mag 788 Scout -114
+Mag WIN
+Knight 1373 Healer -71
+Knight WIN
+Knight 2367 Scout -30
+Knight WIN
+Healer -104 Scout 553
+Scout WIN
+Mag -189 Knight 127
+Knight WIN
+Mag 389 Healer -145
+Mag WIN
+Mag 535 Scout -83
+Mag WIN
+Knight 1344 Healer -251
+Knight WIN
+Knight 1864 Scout -30
+Knight WIN
+Healer -18 Scout 2
+Scout WIN
+Mag 189 Knight -126
+Mag WIN
+Mag 624 Healer -48
+Mag WIN
+Mag 411 Scout -80
+Mag WIN
+Knight 806 Healer -128
+Knight WIN
+Knight 1810 Scout -56
+Knight WIN
+Healer -22 Scout 815
+Scout WIN
+Mag -71 Knight 1253
+Knight WIN
+Mag 586 Healer -174
+Mag WIN
+Mag 764 Scout -102
+Mag WIN
+Knight 1535 Healer -62
+Knight WIN
+Knight 2060 Scout -119
+Knight WIN
+Healer -23 Scout 523
+Scout WIN
+Mag -56 Knight 185
+Knight WIN
+Mag 451 Healer -80
+Mag WIN
+Mag 239 Scout -428
+Mag WIN
+Knight 1080 Healer -18
+Knight WIN
+Knight 1959 Scout -78
+Knight WIN
+Healer -304 Scout 184
+Scout WIN
+Mag 138 Knight -45
+Mag WIN
+Mag 419 Healer -283
+Mag WIN
+Mag 733 Scout -63
+Mag WIN
+Knight 979 Healer -26
+Knight WIN
+Knight 2304 Scout -5
+Knight WIN
+Healer -53 Scout 365
+Scout WIN
+Mag 54 Knight -157
+Mag WIN
+Mag 528 Healer -19
+Mag WIN
+Mag 591 Scout -205
+Mag WIN
+Knight 856 Healer -22
+Knight WIN
+Knight 1986 Scout -23
+Knight WIN
+Healer -58 Scout 121
+Scout WIN
+Mag 477 Knight -206
+Mag WIN
+Mag 809 Healer -136
+Mag WIN
+Mag 228 Scout -148
+Mag WIN
+Knight 1162 Healer -102
+Knight WIN
+Knight 1803 Scout -54
+Knight WIN
+Healer 36 Scout -118
+Healer WIN
+Mag -29 Knight 558
+Knight WIN
+Mag 518 Healer -66
+Mag WIN
+Mag 280 Scout -75
+Mag WIN
+Knight 1025 Healer -18
+Knight WIN
+Knight 2219 Scout -72
+Knight WIN
+Healer 112 Scout -82
+Healer WIN
+Mag -174 Knight 305
+Knight WIN
+Mag 377 Healer -26
+Mag WIN
+Mag 286 Scout -213
+Mag WIN
+Knight 1204 Healer -33
+Knight WIN
+Knight 1809 Scout -137
+Knight WIN
+Healer -28 Scout 289
+Scout WIN
+Mag 237 Knight -330
+Mag WIN
+Mag 197 Healer -138
+Mag WIN
+Mag 677 Scout -156
+Mag WIN
+Knight 1127 Healer -117
+Knight WIN
+Knight 2121 Scout -99
+Knight WIN
+Healer -1 Scout 555
+Scout WIN
+Mag -121 Knight 414
+Knight WIN
+Mag 417 Healer -53
+Mag WIN
+Mag 166 Scout -274
+Mag WIN
+Knight 875 Healer -319
+Knight WIN
+Knight 1991 Scout -24
+Knight WIN
+Healer 185 Scout -154
+Healer WIN
+Mag -63 Knight 335
+Knight WIN
+Mag 718 Healer -180
+Mag WIN
+Mag 829 Scout -108
+Mag WIN
+Knight 930 Healer -15
+Knight WIN
+Knight 1940 Scout -59
+Knight WIN
+Healer -214 Scout 141
+Scout WIN
+Mag 26 Knight -241
+Mag WIN
+Mag 827 Healer -50
+Mag WIN
+Mag 736 Scout -9
+Mag WIN
+Knight 1209 Healer -190
+Knight WIN
+Knight 2130 Scout -7
+Knight WIN
+Healer -164 Scout 460
+Scout WIN
+Mag -101 Knight 965
+Knight WIN
+Mag 698 Healer -276
+Mag WIN
+Mag 152 Scout -108
+Mag WIN
+Knight 910 Healer -154
+Knight WIN
+Knight 1604 Scout -125
+Knight WIN
+Healer -69 Scout 491
+Scout WIN
+Mag -168 Knight 531
+Knight WIN
+Mag 52 Healer -148
+Mag WIN
+Mag 169 Scout -183
+Mag WIN
+Knight 1357 Healer -91
+Knight WIN
+Knight 1976 Scout -68
+Knight WIN
+Healer -53 Scout 58
+Scout WIN
+Mag 180 Knight -245
+Mag WIN
+Mag 238 Healer -9
+Mag WIN
+Mag 606 Scout -48
+Mag WIN
+Knight 1121 Healer -53
+Knight WIN
+Knight 1783 Scout -65
+Knight WIN
+Healer -32 Scout 316
+Scout WIN
+Mag -56 Knight 954
+Knight WIN
+Mag 705 Healer -61
+Mag WIN
+Mag 343 Scout -297
+Mag WIN
+Knight 1199 Healer -44
+Knight WIN
+Knight 2464 Scout -37
+Knight WIN
+Healer 490 Scout -5
+Healer WIN
+Mag 68 Knight -635
+Mag WIN
+Mag 296 Healer -160
+Mag WIN
+Mag 824 Scout -440
+Mag WIN
+Knight 1714 Healer -30
+Knight WIN
+Knight 2309 Scout -17
+Knight WIN
+Healer -84 Scout 500
+Scout WIN
+Mag 111 Knight -211
+Mag WIN
+Mag 162 Healer -230
+Mag WIN
+Mag 172 Scout -114
+Mag WIN
+Knight 528 Healer -60
+Knight WIN
+Knight 2315 Scout -3
+Knight WIN
+Healer -118 Scout 574
+Scout WIN
+Mag 118 Knight -182
+Mag WIN
+Mag 272 Healer -73
+Mag WIN
+Mag -58 Scout 171
+Scout WIN
+Knight 1421 Healer -110
+Knight WIN
+Knight 2109 Scout -16
+Knight WIN
+Healer -95 Scout 378
+Scout WIN
+Mag 203 Knight -93
+Mag WIN
+Mag 425 Healer -34
+Mag WIN
+Mag -72 Scout 490
+Scout WIN
+Knight 1233 Healer -75
+Knight WIN
+Knight 2090 Scout -145
+Knight WIN
+Healer -39 Scout 172
+Scout WIN
+Mag 269 Knight -284
+Mag WIN
+Mag 550 Healer -149
+Mag WIN
+Mag 868 Scout -141
+Mag WIN
+Knight 1447 Healer -9
+Knight WIN
+Knight 2296 Scout -69
+Knight WIN
+Healer -162 Scout 798
+Scout WIN
+Mag -52 Knight 661
+Knight WIN
+Mag 269 Healer -101
+Mag WIN
+Mag 59 Scout -124
+Mag WIN
+Knight 1071 Healer -122
+Knight WIN
+Knight 2023 Scout -16
+Knight WIN
+Healer -13 Scout 25
+Scout WIN
+Mag 99 Knight -223
+Mag WIN
+Mag 783 Healer -23
+Mag WIN
+Mag 551 Scout -3
+Mag WIN
+Knight 1628 Healer -134
+Knight WIN
+Knight 2035 Scout -14
+Knight WIN
+Healer -2 Scout 500
+Scout WIN
+Mag -132 Knight 902
+Knight WIN
+Mag 289 Healer -60
+Mag WIN
+Mag 798 Scout -162
+Mag WIN
+Knight 782 Healer -77
+Knight WIN
+Knight 1754 Scout -106
+Knight WIN
+Healer 50 Scout -156
+Healer WIN
+Mag 157 Knight -532
+Mag WIN
+Mag 158 Healer -140
+Mag WIN
+Mag 570 Scout -237
+Mag WIN
+Knight 616 Healer -148
+Knight WIN
+Knight 1798 Scout -9
+Knight WIN
+Healer -180 Scout 74
+Scout WIN
+Mag -56 Knight 301
+Knight WIN
+Mag 406 Healer -19
+Mag WIN
+Mag 255 Scout -274
+Mag WIN
+Knight 1205 Healer -99
+Knight WIN
+Knight 2441 Scout -43
+Knight WIN
+Healer 438 Scout -71
+Healer WIN
+Mag -46 Knight 745
+Knight WIN
+Mag 623 Healer -9
+Mag WIN
+Mag 464 Scout -113
+Mag WIN
+Knight 1139 Healer -74
+Knight WIN
+Knight 1969 Scout -86
+Knight WIN
+Healer -82 Scout 203
+Scout WIN
+Mag -18 Knight 443
+Knight WIN
+Mag 549 Healer -60
+Mag WIN
+Mag -77 Scout 35
+Scout WIN
+Knight 1125 Healer -156
+Knight WIN
+Knight 1959 Scout -19
+Knight WIN
+Healer -85 Scout 175
+Scout WIN
+Mag 136 Knight -14
+Mag WIN
+Mag -4 Healer 91
+Healer WIN
+Mag -97 Scout 57
+Scout WIN
+Knight 1217 Healer -197
+Knight WIN
+Knight 1722 Scout -65
+Knight WIN
+Healer -109 Scout 320
+Scout WIN
+Mag -77 Knight 521
+Knight WIN
+Mag 945 Healer -2
+Mag WIN
+Mag 878 Scout -57
+Mag WIN
+Knight 1227 Healer -54
+Knight WIN
+Knight 1758 Scout -87
+Knight WIN
+Healer -85 Scout 181
+Scout WIN
+Mag -130 Knight 981
+Knight WIN
+Mag 505 Healer -144
+Mag WIN
+Mag 482 Scout -68
+Mag WIN
+Knight 1078 Healer -84
+Knight WIN
+Knight 2127 Scout -91
+Knight WIN
+Healer -146 Scout 422
+Scout WIN
+Mag -20 Knight 72
+Knight WIN
+Mag 507 Healer -50
+Mag WIN
+Mag 579 Scout -4
+Mag WIN
+Knight 1355 Healer -102
+Knight WIN
+Knight 1885 Scout -51
+Knight WIN
+Healer -30 Scout 598
+Scout WIN
+Mag -43 Knight 25
+Knight WIN
+Mag 727 Healer -161
+Mag WIN
+Mag -109 Scout 31
+Scout WIN
+Knight 1109 Healer -14
+Knight WIN
+Knight 1979 Scout -76
+Knight WIN
+Healer 123 Scout -100
+Healer WIN
+Mag 485 Knight -208
+Mag WIN
+Mag 192 Healer -20
+Mag WIN
+Mag 108 Scout -210
+Mag WIN
+Knight 1255 Healer -179
+Knight WIN
+Knight 2014 Scout -40
+Knight WIN
+Healer 32 Scout -186
+Healer WIN
+Mag -70 Knight 973
+Knight WIN
+Mag 256 Healer -96
+Mag WIN
+Mag 540 Scout -45
+Mag WIN
+Knight 821 Healer -58
+Knight WIN
+Knight 2203 Scout -20
+Knight WIN
+Healer -174 Scout 210
+Scout WIN
+Mag 11 Knight -338
+Mag WIN
+Mag 534 Healer -84
+Mag WIN
+Mag 465 Scout -294
+Mag WIN
+Knight 1474 Healer -60
+Knight WIN
+Knight 1797 Scout -6
+Knight WIN
+Healer -212 Scout 262
+Scout WIN
+Mag 155 Knight -144
+Mag WIN
+Mag 620 Healer -113
+Mag WIN
+Mag 143 Scout -106
+Mag WIN
+Knight 768 Healer -35
+Knight WIN
+Knight 2137 Scout -54
+Knight WIN
+Healer -60 Scout 172
+Scout WIN
+Mag -173 Knight 371
+Knight WIN
+Mag 288 Healer -151
+Mag WIN
+Mag -40 Scout 45
+Scout WIN
+Knight 861 Healer -48
+Knight WIN
+Knight 2342 Scout -53
+Knight WIN
+Healer -55 Scout 224
+Scout WIN
+Mag 28 Knight -196
+Mag WIN
+Mag 371 Healer -110
+Mag WIN
+Mag 537 Scout -234
+Mag WIN
+Knight 1314 Healer -114
+Knight WIN
+Knight 1835 Scout -63
+Knight WIN
+Healer -121 Scout 350
+Scout WIN
+Mag 178 Knight -144
+Mag WIN
+Mag 596 Healer -63
+Mag WIN
+Mag 779 Scout -107
+Mag WIN
+Knight 1107 Healer -112
+Knight WIN
+Knight 2017 Scout -70
+Knight WIN
+Healer -12 Scout 693
+Scout WIN
+Mag 244 Knight -108
+Mag WIN
+Mag 563 Healer -122
+Mag WIN
+Mag 986 Scout -93
+Mag WIN
+Knight 1023 Healer -62
+Knight WIN
+Knight 2208 Scout -40
+Knight WIN
+Healer 81 Scout -66
+Healer WIN
+Mag -42 Knight 289
+Knight WIN
+Mag 330 Healer -193
+Mag WIN
+Mag 465 Scout -168
+Mag WIN
+Knight 1313 Healer -83
+Knight WIN
+Knight 2055 Scout -98
+Knight WIN
+Healer -109 Scout 242
+Scout WIN
+Mag -96 Knight 101
+Knight WIN
+Mag 629 Healer -139
+Mag WIN
+Mag 457 Scout -122
+Mag WIN
+Knight 920 Healer -123
+Knight WIN
+Knight 2043 Scout -33
+Knight WIN
+Healer -56 Scout 238
+Scout WIN
+Mag -111 Knight 701
+Knight WIN
+Mag 833 Healer -241
+Mag WIN
+Mag 862 Scout -114
+Mag WIN
+Knight 1019 Healer -95
+Knight WIN
+Knight 2153 Scout -56
+Knight WIN
+Healer -112 Scout 180
+Scout WIN
+Mag -14 Knight 608
+Knight WIN
+Mag 357 Healer -193
+Mag WIN
+Mag 446 Scout -112
+Mag WIN
+Knight 852 Healer -127
+Knight WIN
+Knight 1916 Scout -132
+Knight WIN
+Healer -32 Scout 239
+Scout WIN
+Mag -211 Knight 70
+Knight WIN
+Mag 501 Healer -335
+Mag WIN
+Mag 424 Scout -100
+Mag WIN
+Knight 1123 Healer -114
+Knight WIN
+Knight 1993 Scout -151
+Knight WIN
+Healer -74 Scout 669
+Scout WIN
+Mag -23 Knight 495
+Knight WIN
+Mag 573 Healer -398
+Mag WIN
+Mag 17 Scout -192
+Mag WIN
+Knight 1120 Healer -17
+Knight WIN
+Knight 2166 Scout -37
+Knight WIN
+Healer -50 Scout 167
+Scout WIN
+Mag 50 Knight -5
+Mag WIN
+Mag 135 Healer -121
+Mag WIN
+Mag 1001 Scout -57
+Mag WIN
+Knight 962 Healer -59
+Knight WIN
+Knight 2261 Scout -7
+Knight WIN
+Healer -8 Scout 230
+Scout WIN
+Mag 25 Knight -243
+Mag WIN
+Mag 143 Healer -45
+Mag WIN
+Mag 368 Scout -16
+Mag WIN
+Knight 1503 Healer -27
+Knight WIN
+Knight 1743 Scout -79
+Knight WIN
+Healer -173 Scout 31
+Scout WIN
+Mag -137 Knight 1211
+Knight WIN
+Mag 704 Healer -134
+Mag WIN
+Mag 473 Scout -138
+Mag WIN
+Knight 1384 Healer -59
+Knight WIN
+Knight 1543 Scout -85
+Knight WIN
+Healer 74 Scout -208
+Healer WIN
+Mag 95 Knight -213
+Mag WIN
+Mag 792 Healer -43
+Mag WIN
+Mag 464 Scout -102
+Mag WIN
+Knight 1231 Healer -151
+Knight WIN
+Knight 1768 Scout -9
+Knight WIN
+Healer -54 Scout 425
+Scout WIN
+Mag -144 Knight 796
+Knight WIN
+Mag 537 Healer -101
+Mag WIN
+Mag 118 Scout -298
+Mag WIN
+Knight 1934 Healer -16
+Knight WIN
+Knight 2016 Scout -72
+Knight WIN
+Healer -117 Scout 393
+Scout WIN
+Mag -41 Knight 97
+Knight WIN
+Mag 299 Healer -106
+Mag WIN
+Mag 537 Scout -107
+Mag WIN
+Knight 1030 Healer -24
+Knight WIN
+Knight 1717 Scout -168
+Knight WIN
+Healer -63 Scout 319
+Scout WIN
+Mag 210 Knight -139
+Mag WIN
+Mag 619 Healer -96
+Mag WIN
+Mag 370 Scout -46
+Mag WIN
+Knight 1216 Healer -12
+Knight WIN
+Knight 2004 Scout -26
+Knight WIN
+Healer -7 Scout 246
+Scout WIN
+Mag -25 Knight 273
+Knight WIN
+Mag 279 Healer -129
+Mag WIN
+Mag 307 Scout -341
+Mag WIN
+Knight 1245 Healer -43
+Knight WIN
+Knight 1895 Scout -34
+Knight WIN
+Healer -28 Scout 284
+Scout WIN
+Mag 95 Knight -458
+Mag WIN
+Mag 446 Healer -326
+Mag WIN
+Mag 787 Scout -183
+Mag WIN
+Knight 1169 Healer -152
+Knight WIN
+Knight 2062 Scout -1
+Knight WIN
+Healer -146 Scout 763
+Scout WIN
+Mag 10 Knight -22
+Mag WIN
+Mag 464 Healer -53
+Mag WIN
+Mag 374 Scout -64
+Mag WIN
+Knight 993 Healer -80
+Knight WIN
+Knight 2104 Scout -74
+Knight WIN
+Healer -74 Scout 197
+Scout WIN
+Mag -40 Knight 71
+Knight WIN
+Mag 663 Healer -237
+Mag WIN
+Mag 401 Scout -40
+Mag WIN
+Knight 1276 Healer -161
+Knight WIN
+Knight 1148 Scout -51
+Knight WIN
+Healer -150 Scout 221
+Scout WIN
+Mag -185 Knight 549
+Knight WIN
+Mag 289 Healer -138
+Mag WIN
+Mag 125 Scout -75
+Mag WIN
+Knight 601 Healer -95
+Knight WIN
+Knight 2266 Scout -14
+Knight WIN
+Healer -105 Scout 277
+Scout WIN
+Mag -9 Knight 1104
+Knight WIN
+Mag 873 Healer -27
+Mag WIN
+Mag 529 Scout -415
+Mag WIN
+Knight 1388 Healer -3
+Knight WIN
+Knight 2310 Scout -119
+Knight WIN
+Healer -21 Scout 102
+Scout WIN
+Mag 410 Knight -98
+Mag WIN
+Mag 633 Healer -73
+Mag WIN
+Mag 666 Scout -58
+Mag WIN
+Knight 362 Healer -140
+Knight WIN
+Knight 2277 Scout -100
+Knight WIN
+Healer -210 Scout 313
+Scout WIN
+Mag -156 Knight 476
+Knight WIN
+Mag 585 Healer -194
+Mag WIN
+Mag 199 Scout -178
+Mag WIN
+Knight 1234 Healer -21
+Knight WIN
+Knight 1977 Scout -17
+Knight WIN
+Healer 99 Scout -20
+Healer WIN
+Mag -190 Knight 33
+Knight WIN
+Mag 610 Healer -8
+Mag WIN
+Mag 637 Scout -24
+Mag WIN
+Knight 783 Healer -53
+Knight WIN
+Knight 2053 Scout -14
+Knight WIN
+Healer -67 Scout 745
+Scout WIN
+Mag -86 Knight 113
+Knight WIN
+Mag 211 Healer -82
+Mag WIN
+Mag 104 Scout -74
+Mag WIN
+Knight 1299 Healer -79
+Knight WIN
+Knight 2352 Scout -106
+Knight WIN
+Healer -148 Scout 691
+Scout WIN
+Mag -196 Knight 224
+Knight WIN
+Mag 299 Healer -9
+Mag WIN
+Mag 730 Scout -114
+Mag WIN
+Knight 887 Healer -92
+Knight WIN
+Knight 1291 Scout 0
+Knight WIN
+Healer -136 Scout 128
+Scout WIN
+Mag 128 Knight -161
+Mag WIN
+Mag 810 Healer -25
+Mag WIN
+Mag 830 Scout -14
+Mag WIN
+Knight 1109 Healer -48
+Knight WIN
+Knight 1912 Scout -15
+Knight WIN
+Healer -190 Scout 246
+Scout WIN
+Mag 403 Knight -91
+Mag WIN
+Mag 68 Healer -177
+Mag WIN
+Mag 508 Scout -83
+Mag WIN
+Knight 1149 Healer -15
+Knight WIN
+Knight 2283 Scout -24
+Knight WIN
+Healer -33 Scout 726
+Scout WIN
+Mag -129 Knight 179
+Knight WIN
+Mag 745 Healer -195
+Mag WIN
+Mag 462 Scout -87
+Mag WIN
+Knight 937 Healer -12
+Knight WIN
+Knight 2267 Scout -156
+Knight WIN
+Healer 213 Scout -158
+Healer WIN
+Mag -8 Knight 510
+Knight WIN
+Mag 426 Healer -155
+Mag WIN
+Mag 441 Scout -193
+Mag WIN
+Knight 1365 Healer -109
+Knight WIN
+Knight 1692 Scout -104
+Knight WIN
+Healer 70 Scout -13
+Healer WIN
+Mag -59 Knight 419
+Knight WIN
+Mag 473 Healer -189
+Mag WIN
+Mag 371 Scout -155
+Mag WIN
+Knight 1644 Healer -19
+Knight WIN
+Knight 2216 Scout -169
+Knight WIN
+Healer -183 Scout 60
+Scout WIN
+Mag -130 Knight 61
+Knight WIN
+Mag 270 Healer -118
+Mag WIN
+Mag 283 Scout -37
+Mag WIN
+Knight 1504 Healer -51
+Knight WIN
+Knight 2257 Scout -10
+Knight WIN
+Healer -115 Scout 346
+Scout WIN
+Mag -84 Knight 179
+Knight WIN
+Mag 656 Healer -35
+Mag WIN
+Mag 819 Scout -47
+Mag WIN
+Knight 764 Healer -122
+Knight WIN
+Knight 2129 Scout 0
+Knight WIN
+Healer -4 Scout 55
+Scout WIN
+Mag 152 Knight -206
+Mag WIN
+Mag 561 Healer -38
+Mag WIN
+Mag 406 Scout -152
+Mag WIN
+Knight 1138 Healer -159
+Knight WIN
+Knight 1965 Scout -89
+Knight WIN
+Healer -91 Scout 919
+Scout WIN
+Mag -7 Knight 302
+Knight WIN
+Mag 648 Healer -104
+Mag WIN
+Mag 439 Scout -130
+Mag WIN
+Knight 1546 Healer -84
+Knight WIN
+Knight 1879 Scout -62
+Knight WIN
+Healer -47 Scout 672
+Scout WIN
+Mag 95 Knight -280
+Mag WIN
+Mag 151 Healer -18
+Mag WIN
+Mag 433 Scout -68
+Mag WIN
+Knight 1298 Healer -82
+Knight WIN
+Knight 2326 Scout -7
+Knight WIN
+Healer -22 Scout 235
+Scout WIN
+Mag 145 Knight -382
+Mag WIN
+Mag 320 Healer -78
+Mag WIN
+Mag 731 Scout -23
+Mag WIN
+Knight 1139 Healer -119
+Knight WIN
+Knight 2253 Scout -76
+Knight WIN
+Healer -112 Scout 793
+Scout WIN
+Mag 510 Knight -103
+Mag WIN
+Mag 791 Healer -99
+Mag WIN
+Mag 217 Scout -81
+Mag WIN
+Knight 899 Healer -94
+Knight WIN
+Knight 2256 Scout -111
+Knight WIN
+Healer -53 Scout 229
+Scout WIN
+Mag -33 Knight 443
+Knight WIN
+Mag 491 Healer -128
+Mag WIN
+Mag 14 Scout -244
+Mag WIN
+Knight 649 Healer -137
+Knight WIN
+Knight 2167 Scout -41
+Knight WIN
+Healer 2 Scout -174
+Healer WIN
+Mag 30 Knight -302
+Mag WIN
+Mag 631 Healer -16
+Mag WIN
+Mag 664 Scout -31
+Mag WIN
+Knight 732 Healer -116
+Knight WIN
+Knight 2005 Scout -65
+Knight WIN
+Healer -82 Scout 328
+Scout WIN
+Mag -21 Knight 1085
+Knight WIN
+Mag 454 Healer -64
+Mag WIN
+Mag 935 Scout -219
+Mag WIN
+Knight 752 Healer -218
+Knight WIN
+Knight 1795 Scout -88
+Knight WIN
+Healer -78 Scout 767
+Scout WIN
+Mag 113 Knight -216
+Mag WIN
+Mag 378 Healer -20
+Mag WIN
+Mag 738 Scout -117
+Mag WIN
+Knight 1218 Healer -69
+Knight WIN
+Knight 2386 Scout -39
+Knight WIN
+Healer -34 Scout 485
+Scout WIN
+Mag -93 Knight 38
+Knight WIN
+Mag 502 Healer -76
+Mag WIN
+Mag 298 Scout -99
+Mag WIN
+Knight 950 Healer -119
+Knight WIN
+Knight 1918 Scout -20
+Knight WIN
+Healer 294 Scout -22
+Healer WIN
+Mag -49 Knight 556
+Knight WIN
+Mag 393 Healer -75
+Mag WIN
+Mag 638 Scout -4
+Mag WIN
+Knight 1225 Healer -337
+Knight WIN
+Knight 2256 Scout -21
+Knight WIN
+Healer -51 Scout 281
+Scout WIN
+Mag -67 Knight 1042
+Knight WIN
+Mag 328 Healer -166
+Mag WIN
+Mag 392 Scout -105
+Mag WIN
+Knight 1374 Healer -29
+Knight WIN
+Knight 2323 Scout -58
+Knight WIN
+Healer -148 Scout 106
+Scout WIN
+Mag -140 Knight 661
+Knight WIN
+Mag 672 Healer -109
+Mag WIN
+Mag 455 Scout -84
+Mag WIN
+Knight 925 Healer -9
+Knight WIN
+Knight 2234 Scout -71
+Knight WIN
+Healer 133 Scout -56
+Healer WIN
+Mag -8 Knight 255
+Knight WIN
+Mag 223 Healer -79
+Mag WIN
+Mag 712 Scout -484
+Mag WIN
+Knight 1118 Healer -84
+Knight WIN
+Knight 1956 Scout -17
+Knight WIN
+Healer -252 Scout 290
+Scout WIN
+Mag -13 Knight 721
+Knight WIN
+Mag 346 Healer -39
+Mag WIN
+Mag 417 Scout -93
+Mag WIN
+Knight 1390 Healer -105
+Knight WIN
+Knight 2136 Scout -100
+Knight WIN
+Healer 514 Scout -115
+Healer WIN
+Mag -10 Knight 986
+Knight WIN
+Mag 694 Healer -29
+Mag WIN
+Mag 591 Scout -144
+Mag WIN
+Knight 1734 Healer -350
+Knight WIN
+Knight 1745 Scout -98
+Knight WIN
+Healer -27 Scout 462
+Scout WIN
+Mag -117 Knight 252
+Knight WIN
+Mag 885 Healer -121
+Mag WIN
+Mag 714 Scout -112
+Mag WIN
+Knight 935 Healer -31
+Knight WIN
+Knight 2090 Scout -76
+Knight WIN
+Healer -69 Scout 259
+Scout WIN
+Mag -49 Knight 322
+Knight WIN
+Mag 311 Healer -172
+Mag WIN
+Mag -129 Scout 60
+Scout WIN
+Knight 1332 Healer -94
+Knight WIN
+Knight 1925 Scout -3
+Knight WIN
+Healer -189 Scout 144
+Scout WIN
+Mag -72 Knight 276
+Knight WIN
+Mag 349 Healer -3
+Mag WIN
+Mag 435 Scout -199
+Mag WIN
+Knight 1022 Healer -27
+Knight WIN
+Knight 2194 Scout -44
+Knight WIN
+Healer 7 Scout -58
+Healer WIN
+Mag -46 Knight 623
+Knight WIN
+Mag 690 Healer -24
+Mag WIN
+Mag 971 Scout -51
+Mag WIN
+Knight 881 Healer -109
+Knight WIN
+Knight 2078 Scout -51
+Knight WIN
+Healer 381 Scout -209
+Healer WIN
+Mag -84 Knight 158
+Knight WIN
+Mag 570 Healer -17
+Mag WIN
+Mag 422 Scout -225
+Mag WIN
+Knight 1915 Healer -36
+Knight WIN
+Knight 2104 Scout -92
+Knight WIN
+Healer 322 Scout -7
+Healer WIN
+Mag 169 Knight -146
+Mag WIN
+Mag 423 Healer -183
+Mag WIN
+Mag -89 Scout 43
+Scout WIN
+Knight 978 Healer -27
+Knight WIN
+Knight 1625 Scout -109
+Knight WIN
+Healer -101 Scout 94
+Scout WIN
+Mag -26 Knight 702
+Knight WIN
+Mag 224 Healer -141
+Mag WIN
+Mag 803 Scout -6
+Mag WIN
+Knight 1862 Healer -90
+Knight WIN
+Knight 2093 Scout -50
+Knight WIN
+Healer 12 Scout -40
+Healer WIN
+Mag -13 Knight 136
+Knight WIN
+Mag 592 Healer -64
+Mag WIN
+Mag 738 Scout -115
+Mag WIN
+Knight 424 Healer -20
+Knight WIN
+Knight 2124 Scout -89
+Knight WIN
+Healer -52 Scout 422
+Scout WIN
+Mag -72 Knight 631
+Knight WIN
+Mag 607 Healer -106
+Mag WIN
+Mag 974 Scout -98
+Mag WIN
+Knight 1114 Healer -24
+Knight WIN
+Knight 2052 Scout -7
+Knight WIN
+Healer -167 Scout 279
+Scout WIN
+Mag -125 Knight 1128
+Knight WIN
+Mag 334 Healer -129
+Mag WIN
+Mag 434 Scout -183
+Mag WIN
+Knight 1164 Healer -65
+Knight WIN
+Knight 1955 Scout -99
+Knight WIN
+Healer 269 Scout -140
+Healer WIN
+Mag 197 Knight 0
+Mag WIN
+Mag 711 Healer -55
+Mag WIN
+Mag 390 Scout -456
+Mag WIN
+Knight 982 Healer -48
+Knight WIN
+Knight 1648 Scout -50
+Knight WIN
+Healer 571 Scout -153
+Healer WIN
+Mag -105 Knight 1
+Knight WIN
+Mag 443 Healer -52
+Mag WIN
+Mag 688 Scout -223
+Mag WIN
+Knight 1314 Healer -29
+Knight WIN
+Knight 2031 Scout -22
+Knight WIN
+Healer -93 Scout 5
+Scout WIN
+Mag 12 Knight -179
+Mag WIN
+Mag 568 Healer -114
+Mag WIN
+Mag 364 Scout -85
+Mag WIN
+Knight 1556 Healer -150
+Knight WIN
+Knight 1763 Scout -121
+Knight WIN
+Healer -15 Scout 195
+Scout WIN
+Mag -113 Knight 407
+Knight WIN
+Mag 507 Healer -108
+Mag WIN
+Mag 219 Scout -153
+Mag WIN
+Knight 857 Healer -148
+Knight WIN
+Knight 2153 Scout -126
+Knight WIN
+Healer -10 Scout 710
+Scout WIN
+Mag -70 Knight 687
+Knight WIN
+Mag 619 Healer -89
+Mag WIN
+Mag -125 Scout 176
+Scout WIN
+Knight 900 Healer -108
+Knight WIN
+Knight 2107 Scout -19
+Knight WIN
+Healer -41 Scout 23
+Scout WIN
+Mag 138 Knight -139
+Mag WIN
+Mag 823 Healer -11
+Mag WIN
+Mag 162 Scout -84
+Mag WIN
+Knight 1207 Healer -70
+Knight WIN
+Knight 2248 Scout -138
+Knight WIN
+Healer -117 Scout 315
+Scout WIN
+Mag 290 Knight -417
+Mag WIN
+Mag 674 Healer -65
+Mag WIN
+Mag 97 Scout -232
+Mag WIN
+Knight 678 Healer -51
+Knight WIN
+Knight 2148 Scout -28
+Knight WIN
+Healer -20 Scout 491
+Scout WIN
+Mag -375 Knight 1183
+Knight WIN
+Mag 407 Healer -178
+Mag WIN
+Mag 779 Scout -131
+Mag WIN
+Knight 1351 Healer -153
+Knight WIN
+Knight 1399 Scout -147
+Knight WIN
+Healer 270 Scout -78
+Healer WIN
+Mag -52 Knight 911
+Knight WIN
+Mag 706 Healer -31
+Mag WIN
+Mag 561 Scout -78
+Mag WIN
+Knight 1175 Healer -24
+Knight WIN
+Knight 1900 Scout -18
+Knight WIN
+Healer -47 Scout 366
+Scout WIN
+Mag -14 Knight 682
+Knight WIN
+Mag 460 Healer -118
+Mag WIN
+Mag 485 Scout -221
+Mag WIN
+Knight 1342 Healer -85
+Knight WIN
+Knight 2174 Scout -90
+Knight WIN
+Healer 605 Scout -1
+Healer WIN
+Mag 60 Knight -166
+Mag WIN
+Mag 405 Healer -55
+Mag WIN
+Mag 313 Scout -102
+Mag WIN
+Knight 933 Healer -156
+Knight WIN
+Knight 1677 Scout -65
+Knight WIN
+Healer 119 Scout -31
+Healer WIN
+Mag -115 Knight 119
+Knight WIN
+Mag 666 Healer -56
+Mag WIN
+Mag 643 Scout -56
+Mag WIN
+Knight 923 Healer -95
+Knight WIN
+Knight 1892 Scout -128
+Knight WIN
+Healer 76 Scout -60
+Healer WIN
+Mag -79 Knight 597
+Knight WIN
+Mag 837 Healer -143
+Mag WIN
+Mag 1041 Scout -17
+Mag WIN
+Knight 1439 Healer -26
+Knight WIN
+Knight 2193 Scout -66
+Knight WIN
+Healer -110 Scout 62
+Scout WIN
+Mag -69 Knight 549
+Knight WIN
+Mag 336 Healer -50
+Mag WIN
+Mag 464 Scout -188
+Mag WIN
+Knight 1079 Healer -160
+Knight WIN
+Knight 2054 Scout -107
+Knight WIN
+Healer -13 Scout 62
+Scout WIN
+Mag -117 Knight 297
+Knight WIN
+Mag 460 Healer -168
+Mag WIN
+Mag 303 Scout -25
+Mag WIN
+Knight 1330 Healer -58
+Knight WIN
+Knight 2020 Scout -121
+Knight WIN
+Healer -224 Scout 416
+Scout WIN
+Mag -130 Knight 216
+Knight WIN
+Mag 544 Healer -82
+Mag WIN
+Mag 610 Scout -195
+Mag WIN
+Knight 1010 Healer -22
+Knight WIN
+Knight 1813 Scout -66
+Knight WIN
+Healer -15 Scout 127
+Scout WIN
+Mag -38 Knight 144
+Knight WIN
+Mag 558 Healer -3
+Mag WIN
+Mag 646 Scout -123
+Mag WIN
+Knight 509 Healer -104
+Knight WIN
+Knight 2420 Scout -22
+Knight WIN
+Healer 132 Scout -19
+Healer WIN
+Mag 287 Knight -207
+Mag WIN
+Mag 574 Healer -6
+Mag WIN
+Mag 802 Scout -269
+Mag WIN
+Knight 1558 Healer -20
+Knight WIN
+Knight 2147 Scout -79
+Knight WIN
+Healer -53 Scout 206
+Scout WIN
+Mag 44 Knight -121
+Mag WIN
+Mag 264 Healer -62
+Mag WIN
+Mag 516 Scout -125
+Mag WIN
+Knight 950 Healer -52
+Knight WIN
+Knight 2013 Scout -43
+Knight WIN
+Healer 321 Scout -134
+Healer WIN
+Mag -34 Knight 702
+Knight WIN
+Mag 309 Healer -17
+Mag WIN
+Mag 73 Scout -363
+Mag WIN
+Knight 1413 Healer -87
+Knight WIN
+Knight 2275 Scout -58
+Knight WIN
+Healer -29 Scout 132
+Scout WIN
+Mag 66 Knight -169
+Mag WIN
+Mag 446 Healer -104
+Mag WIN
+Mag 505 Scout -239
+Mag WIN
+Knight 676 Healer -112
+Knight WIN
+Knight 2088 Scout -100
+Knight WIN
+Healer -66 Scout 225
+Scout WIN
+Mag -57 Knight 923
+Knight WIN
+Mag 543 Healer -95
+Mag WIN
+Mag -137 Scout 26
+Scout WIN
+Knight 983 Healer -184
+Knight WIN
+Knight 1776 Scout -37
+Knight WIN
+Healer -100 Scout 358
+Scout WIN
+Mag -50 Knight 480
+Knight WIN
+Mag 396 Healer -54
+Mag WIN
+Mag 385 Scout -449
+Mag WIN
+Knight 916 Healer -39
+Knight WIN
+Knight 2096 Scout -38
+Knight WIN
+Healer 152 Scout -262
+Healer WIN
+Mag -88 Knight 319
+Knight WIN
+Mag 565 Healer -192
+Mag WIN
+Mag 686 Scout -40
+Mag WIN
+Knight 1075 Healer -39
+Knight WIN
+Knight 2196 Scout -43
+Knight WIN
+Healer -19 Scout 366
+Scout WIN
+Mag -26 Knight 445
+Knight WIN
+Mag 17 Healer -199
+Mag WIN
+Mag 795 Scout -12
+Mag WIN
+Knight 217 Healer -62
+Knight WIN
+Knight 1796 Scout -54
+Knight WIN
+Healer -160 Scout 652
+Scout WIN
+Mag 121 Knight -505
+Mag WIN
+Mag -13 Healer 124
+Healer WIN
+Mag 248 Scout -136
+Mag WIN
+Knight 1708 Healer -157
+Knight WIN
+Knight 1696 Scout -105
+Knight WIN
+Healer -66 Scout 417
+Scout WIN
+Mag 202 Knight -501
+Mag WIN
+Mag 399 Healer -111
+Mag WIN
+Mag 636 Scout -208
+Mag WIN
+Knight 1979 Healer -1
+Knight WIN
+Knight 1834 Scout -117
+Knight WIN
+Healer -69 Scout 40
+Scout WIN
+Mag -65 Knight 966
+Knight WIN
+Mag 223 Healer -161
+Mag WIN
+Mag 730 Scout -210
+Mag WIN
+Knight 1268 Healer -67
+Knight WIN
+Knight 2036 Scout -11
+Knight WIN
+Healer 213 Scout -30
+Healer WIN
+Mag 17 Knight -221
+Mag WIN
+Mag 581 Healer -196
+Mag WIN
+Mag 669 Scout -205
+Mag WIN
+Knight 1134 Healer -110
+Knight WIN
+Knight 2232 Scout -77
+Knight WIN
+Healer -125 Scout 64
+Scout WIN
+Mag -44 Knight 124
+Knight WIN
+Mag 615 Healer -103
+Mag WIN
+Mag 460 Scout -150
+Mag WIN
+Knight 1203 Healer -92
+Knight WIN
+Knight 1924 Scout -105
+Knight WIN
+Healer -5 Scout 672
+Scout WIN
+Mag -118 Knight 133
+Knight WIN
+Mag 819 Healer -28
+Mag WIN
+Mag 800 Scout -87
+Mag WIN
+Knight 760 Healer -15
+Knight WIN
+Knight 2473 Scout -19
+Knight WIN
+Healer -143 Scout 551
+Scout WIN
+Mag 65 Knight -118
+Mag WIN
+Mag 588 Healer -56
+Mag WIN
+Mag 795 Scout -195
+Mag WIN
+Knight 541 Healer -114
+Knight WIN
+Knight 1959 Scout -82
+Knight WIN
+Healer -133 Scout 250
+Scout WIN
+Mag -82 Knight 261
+Knight WIN
+Mag 284 Healer -58
+Mag WIN
+Mag 800 Scout -203
+Mag WIN
+Knight 1121 Healer -32
+Knight WIN
+Knight 2398 Scout -102
+Knight WIN
+Healer -27 Scout 565
+Scout WIN
+Mag -24 Knight 303
+Knight WIN
+Mag 362 Healer -33
+Mag WIN
+Mag 179 Scout -231
+Mag WIN
+Knight 1352 Healer -10
+Knight WIN
+Knight 2250 Scout -131
+Knight WIN
+Healer 359 Scout -178
+Healer WIN
+Mag 343 Knight -75
+Mag WIN
+Mag 434 Healer -190
+Mag WIN
+Mag 35 Scout -149
+Mag WIN
+Knight 995 Healer -86
+Knight WIN
+Knight 2361 Scout -37
+Knight WIN
+Healer -78 Scout 472
+Scout WIN
+Mag 376 Knight -299
+Mag WIN
+Mag 218 Healer -115
+Mag WIN
+Mag 154 Scout -270
+Mag WIN
+Knight 289 Healer -33
+Knight WIN
+Knight 1795 Scout -55
+Knight WIN
+Healer 492 Scout -185
+Healer WIN
+Mag -46 Knight 555
+Knight WIN
+Mag 302 Healer -119
+Mag WIN
+Mag -237 Scout 82
+Scout WIN
+Knight 1124 Healer -26
+Knight WIN
+Knight 1735 Scout -99
+Knight WIN
+Healer -110 Scout 310
+Scout WIN
+Mag -13 Knight 1522
+Knight WIN
+Mag 264 Healer 0
+Mag WIN
+Mag 740 Scout -186
+Mag WIN
+Knight 848 Healer -136
+Knight WIN
+Knight 2220 Scout -18
+Knight WIN
+Healer -115 Scout 133
+Scout WIN
+Mag -98 Knight 362
+Knight WIN
+Mag 870 Healer -64
+Mag WIN
+Mag 423 Scout -249
+Mag WIN
+Knight 1079 Healer -124
+Knight WIN
+Knight 2529 Scout -125
+Knight WIN
+Healer 80 Scout -79
+Healer WIN
+Mag 65 Knight -48
+Mag WIN
+Mag 437 Healer -165
+Mag WIN
+Mag 497 Scout -102
+Mag WIN
+Knight 898 Healer -114
+Knight WIN
+Knight 2221 Scout -62
+Knight WIN
+Healer -225 Scout 137
+Scout WIN
+Mag -2 Knight 332
+Knight WIN
+Mag 535 Healer -27
+Mag WIN
+Mag 729 Scout -102
+Mag WIN
+Knight 1919 Healer -50
+Knight WIN
+Knight 1667 Scout -34
+Knight WIN
+Healer 253 Scout -243
+Healer WIN
+Mag -139 Knight 656
+Knight WIN
+Mag 648 Healer -8
+Mag WIN
+Mag -111 Scout 135
+Scout WIN
+Knight 941 Healer -77
+Knight WIN
+Knight 2229 Scout -8
+Knight WIN
+Healer -182 Scout 209
+Scout WIN
+Mag 307 Knight -397
+Mag WIN
+Mag 398 Healer -89
+Mag WIN
+Mag 314 Scout -190
+Mag WIN
+Knight 809 Healer -25
+Knight WIN
+Knight 2085 Scout -29
+Knight WIN
+Healer -94 Scout 657
+Scout WIN
+Mag 582 Knight -82
+Mag WIN
+Mag 402 Healer -56
+Mag WIN
+Mag 716 Scout -275
+Mag WIN
+Knight 1683 Healer -87
+Knight WIN
+Knight 1833 Scout -19
+Knight WIN
+Healer -30 Scout 583
+Scout WIN
+Mag 66 Knight -19
+Mag WIN
+Mag 422 Healer -24
+Mag WIN
+Mag 611 Scout -9
+Mag WIN
+Knight 508 Healer -17
+Knight WIN
+Knight 2319 Scout -80
+Knight WIN
+Healer -104 Scout 8
+Scout WIN
+Mag -206 Knight 1166
+Knight WIN
+Mag 307 Healer -5
+Mag WIN
+Mag 321 Scout -428
+Mag WIN
+Knight 1360 Healer -184
+Knight WIN
+Knight 2166 Scout -94
+Knight WIN
+Healer -61 Scout 622
+Scout WIN
+Mag -140 Knight 186
+Knight WIN
+Mag 450 Healer -148
+Mag WIN
+Mag 117 Scout -163
+Mag WIN
+Knight 1483 Healer -17
+Knight WIN
+Knight 2069 Scout -36
+Knight WIN
+Healer 53 Scout -51
+Healer WIN
+Mag 182 Knight -297
+Mag WIN
+Mag 428 Healer -85
+Mag WIN
+Mag 139 Scout -200
+Mag WIN
+Knight 1346 Healer -74
+Knight WIN
+Knight 2235 Scout -44
+Knight WIN
+Healer -14 Scout 388
+Scout WIN
+Mag -110 Knight 91
+Knight WIN
+Mag 973 Healer -83
+Mag WIN
+Mag 150 Scout -172
+Mag WIN
+Knight 993 Healer -19
+Knight WIN
+Knight 2256 Scout -98
+Knight WIN
+Healer 298 Scout -84
+Healer WIN
+Mag -30 Knight 170
+Knight WIN
+Mag 442 Healer -209
+Mag WIN
+Mag 456 Scout -191
+Mag WIN
+Knight 803 Healer -91
+Knight WIN
+Knight 2070 Scout -95
+Knight WIN
+Healer -159 Scout 70
+Scout WIN
+Mag -6 Knight 296
+Knight WIN
+Mag 392 Healer -132
+Mag WIN
+Mag 212 Scout -185
+Mag WIN
+Knight 1421 Healer -38
+Knight WIN
+Knight 1994 Scout -14
+Knight WIN
+Healer 41 Scout -98
+Healer WIN
+Mag -135 Knight 609
+Knight WIN
+Mag 782 Healer -108
+Mag WIN
+Mag 309 Scout -205
+Mag WIN
+Knight 1171 Healer -93
+Knight WIN
+Knight 2318 Scout -49
+Knight WIN
+Healer -91 Scout 380
+Scout WIN
+Mag -144 Knight 816
+Knight WIN
+Mag 319 Healer -39
+Mag WIN
+Mag 812 Scout -198
+Mag WIN
+Knight 1116 Healer -163
+Knight WIN
+Knight 2266 Scout -137
+Knight WIN
+Healer -49 Scout 504
+Scout WIN
+Mag 107 Knight -197
+Mag WIN
+Mag 693 Healer -107
+Mag WIN
+Mag 327 Scout -48
+Mag WIN
+Knight 1121 Healer -108
+Knight WIN
+Knight 2148 Scout -49
+Knight WIN
+Healer -103 Scout 446
+Scout WIN
+Mag -153 Knight 119
+Knight WIN
+Mag 663 Healer -93
+Mag WIN
+Mag 834 Scout -547
+Mag WIN
+Knight 949 Healer -52
+Knight WIN
+Knight 2252 Scout -112
+Knight WIN
+Healer -55 Scout 212
+Scout WIN
+Mag 137 Knight -268
+Mag WIN
+Mag 597 Healer -95
+Mag WIN
+Mag 650 Scout -118
+Mag WIN
+Knight 1536 Healer -111
+Knight WIN
+Knight 2514 Scout -50
+Knight WIN
+Healer 48 Scout -133
+Healer WIN
+Mag -51 Knight 448
+Knight WIN
+Mag 602 Healer -55
+Mag WIN
+Mag 933 Scout -212
+Mag WIN
+Knight 1501 Healer -182
+Knight WIN
+Knight 2204 Scout -160
+Knight WIN
+Healer -101 Scout 55
+Scout WIN
+Mag -90 Knight 866
+Knight WIN
+Mag 551 Healer -103
+Mag WIN
+Mag 710 Scout -5
+Mag WIN
+Knight 1303 Healer -73
+Knight WIN
+Knight 2021 Scout -30
+Knight WIN
+Healer -78 Scout 318
+Scout WIN
+Mag -51 Knight 410
+Knight WIN
+Mag 747 Healer -282
+Mag WIN
+Mag 544 Scout -32
+Mag WIN
+Knight 905 Healer -141
+Knight WIN
+Knight 1702 Scout -62
+Knight WIN
+Healer 267 Scout -99
+Healer WIN
+Mag 170 Knight -19
+Mag WIN
+Mag 37 Healer -106
+Mag WIN
+Mag 418 Scout -121
+Mag WIN
+Knight 577 Healer -46
+Knight WIN
+Knight 2437 Scout -20
+Knight WIN
+Healer -2 Scout 230
+Scout WIN
+Mag -85 Knight 350
+Knight WIN
+Mag 637 Healer -93
+Mag WIN
+Mag 373 Scout -70
+Mag WIN
+Knight 1391 Healer -133
+Knight WIN
+Knight 1745 Scout -16
+Knight WIN
+Healer -50 Scout 277
+Scout WIN
+Mag 287 Knight -5
+Mag WIN
+Mag 636 Healer -131
+Mag WIN
+Mag -55 Scout 491
+Scout WIN
+Knight 1053 Healer -10
+Knight WIN
+Knight 2199 Scout -24
+Knight WIN
+Healer -81 Scout 132
+Scout WIN
+Mag 102 Knight -30
+Mag WIN
+Mag 403 Healer -178
+Mag WIN
+Mag 717 Scout -228
+Mag WIN
+Knight 1131 Healer -156
+Knight WIN
+Knight 2085 Scout -22
+Knight WIN
+Healer 14 Scout -141
+Healer WIN
+Mag -30 Knight 201
+Knight WIN
+Mag 336 Healer -32
+Mag WIN
+Mag 361 Scout -265
+Mag WIN
+Knight 680 Healer -27
+Knight WIN
+Knight 1796 Scout -35
+Knight WIN
+Healer 34 Scout -108
+Healer WIN
+Mag -130 Knight 822
+Knight WIN
+Mag 273 Healer -174
+Mag WIN
+Mag 93 Scout -220
+Mag WIN
+Knight 878 Healer -79
+Knight WIN
+Knight 1783 Scout -110
+Knight WIN
+Healer -65 Scout 75
+Scout WIN
+Mag -155 Knight 795
+Knight WIN
+Mag 492 Healer -143
+Mag WIN
+Mag 637 Scout -112
+Mag WIN
+Knight 242 Healer -1
+Knight WIN
+Knight 2154 Scout -100
+Knight WIN
+Healer -55 Scout 252
+Scout WIN
+Mag -59 Knight 548
+Knight WIN
+Mag 323 Healer -45
+Mag WIN
+Mag 650 Scout -333
+Mag WIN
+Knight 1401 Healer -77
+Knight WIN
+Knight 1628 Scout -281
+Knight WIN
+Healer -70 Scout 316
+Scout WIN
+Mag 114 Knight -148
+Mag WIN
+Mag 674 Healer -80
+Mag WIN
+Mag 283 Scout -195
+Mag WIN
+Knight 1514 Healer -30
+Knight WIN
+Knight 2238 Scout -12
+Knight WIN
+Healer -58 Scout 147
+Scout WIN
+Mag -66 Knight 1657
+Knight WIN
+Mag 511 Healer -184
+Mag WIN
+Mag 214 Scout -294
+Mag WIN
+Knight 845 Healer -241
+Knight WIN
+Knight 1759 Scout -39
+Knight WIN
+Healer -242 Scout 432
+Scout WIN
+Mag 462 Knight -145
+Mag WIN
+Mag 598 Healer -194
+Mag WIN
+Mag 157 Scout -487
+Mag WIN
+Knight 1072 Healer -40
+Knight WIN
+Knight 1628 Scout -100
+Knight WIN
+Healer 132 Scout -108
+Healer WIN
+Mag -26 Knight 254
+Knight WIN
+Mag 692 Healer -124
+Mag WIN
+Mag 240 Scout -303
+Mag WIN
+Knight 1046 Healer -163
+Knight WIN
+Knight 1784 Scout -115
+Knight WIN
+Healer -26 Scout 278
+Scout WIN
+Mag -193 Knight 1015
+Knight WIN
+Mag 585 Healer -60
+Mag WIN
+Mag 1020 Scout -19
+Mag WIN
+Knight 1107 Healer -82
+Knight WIN
+Knight 1829 Scout -21
+Knight WIN
+Healer -56 Scout 279
+Scout WIN
+Mag 29 Knight -210
+Mag WIN
+Mag 373 Healer -199
+Mag WIN
+Mag 61 Scout -115
+Mag WIN
+Knight 1012 Healer -120
+Knight WIN
+Knight 2027 Scout -73
+Knight WIN
+Healer 127 Scout -56
+Healer WIN
+Mag -156 Knight 398
+Knight WIN
+Mag 585 Healer -159
+Mag WIN
+Mag 347 Scout -231
+Mag WIN
+Knight 788 Healer -24
+Knight WIN
+Knight 1680 Scout -7
+Knight WIN
+Healer 258 Scout -85
+Healer WIN
+Mag -43 Knight 184
+Knight WIN
+Mag 508 Healer -244
+Mag WIN
+Mag 344 Scout -160
+Mag WIN
+Knight 1117 Healer -100
+Knight WIN
+Knight 2286 Scout -23
+Knight WIN
+Healer -64 Scout 212
+Scout WIN
+Mag 330 Knight -350
+Mag WIN
+Mag 828 Healer -55
+Mag WIN
+Mag 535 Scout -166
+Mag WIN
+Knight 481 Healer -42
+Knight WIN
+Knight 2054 Scout -84
+Knight WIN
+Healer 18 Scout -58
+Healer WIN
+Mag -98 Knight 236
+Knight WIN
+Mag 404 Healer -86
+Mag WIN
+Mag 246 Scout -135
+Mag WIN
+Knight 909 Healer -187
+Knight WIN
+Knight 1684 Scout -120
+Knight WIN
+Healer -203 Scout 129
+Scout WIN
+Mag 56 Knight -207
+Mag WIN
+Mag 655 Healer -13
+Mag WIN
+Mag 794 Scout -210
+Mag WIN
+Knight 212 Healer -126
+Knight WIN
+Knight 1932 Scout -11
+Knight WIN
+Healer -18 Scout 251
+Scout WIN
+Mag 194 Knight -351
+Mag WIN
+Mag -120 Healer 69
+Healer WIN
+Mag 1071 Scout -166
+Mag WIN
+Knight 1327 Healer -91
+Knight WIN
+Knight 1605 Scout -66
+Knight WIN
+Healer -89 Scout 238
+Scout WIN
+Mag 194 Knight -175
+Mag WIN
+Mag 424 Healer -125
+Mag WIN
+Mag 758 Scout -67
+Mag WIN
+Knight 1209 Healer -105
+Knight WIN
+Knight 1938 Scout -46
+Knight WIN
+Healer -26 Scout 297
+Scout WIN
+Mag -60 Knight 603
+Knight WIN
+Mag 748 Healer -212
+Mag WIN
+Mag 227 Scout -111
+Mag WIN
+Knight 989 Healer -56
+Knight WIN
+Knight 2271 Scout -4
+Knight WIN
+Healer -4 Scout 64
+Scout WIN
+Mag 2 Knight -42
+Mag WIN
+Mag 473 Healer -125
+Mag WIN
+Mag 116 Scout -318
+Mag WIN
+Knight 952 Healer -11
+Knight WIN
+Knight 1569 Scout -62
+Knight WIN
+Healer -75 Scout 107
+Scout WIN
+Mag 474 Knight -125
+Mag WIN
+Mag 605 Healer -210
+Mag WIN
+Mag 415 Scout -32
+Mag WIN
+Knight 1287 Healer -147
+Knight WIN
+Knight 2034 Scout -15
+Knight WIN
+Healer 61 Scout -92
+Healer WIN
+Mag -2 Knight 686
+Knight WIN
+Mag 645 Healer -171
+Mag WIN
+Mag 1108 Scout -107
+Mag WIN
+Knight 989 Healer 0
+Knight WIN
+Knight 1985 Scout -78
+Knight WIN
+Healer -25 Scout 72
+Scout WIN
+Mag -216 Knight 120
+Knight WIN
+Mag 726 Healer -206
+Mag WIN
+Mag 1038 Scout -28
+Mag WIN
+Knight 907 Healer -69
+Knight WIN
+Knight 1712 Scout -55
+Knight WIN
+Healer -8 Scout 364
+Scout WIN
+Mag -43 Knight 482
+Knight WIN
+Mag 291 Healer -44
+Mag WIN
+Mag 205 Scout -120
+Mag WIN
+Knight 681 Healer -22
+Knight WIN
+Knight 2074 Scout -62
+Knight WIN
+Healer -102 Scout 36
+Scout WIN
+Mag 137 Knight -56
+Mag WIN
+Mag 801 Healer -29
+Mag WIN
+Mag -186 Scout 371
+Scout WIN
+Knight 1321 Healer -179
+Knight WIN
+Knight 1907 Scout -68
+Knight WIN
+Healer 192 Scout -56
+Healer WIN
+Mag -104 Knight 496
+Knight WIN
+Mag 410 Healer -104
+Mag WIN
+Mag 618 Scout -210
+Mag WIN
+Knight 1089 Healer -58
+Knight WIN
+Knight 2322 Scout -37
+Knight WIN
+Healer -181 Scout 134
+Scout WIN
+Mag 305 Knight -291
+Mag WIN
+Mag 821 Healer -389
+Mag WIN
+Mag 679 Scout -1
+Mag WIN
+Knight 1011 Healer -30
+Knight WIN
+Knight 2031 Scout -88
+Knight WIN
+Healer -174 Scout 330
+Scout WIN
+Mag -18 Knight 34
+Knight WIN
+Mag 388 Healer -6
+Mag WIN
+Mag 751 Scout -84
+Mag WIN
+Knight 1207 Healer -121
+Knight WIN
+Knight 1880 Scout -22
+Knight WIN
+Healer -30 Scout 452
+Scout WIN
+Mag -69 Knight 117
+Knight WIN
+Mag 225 Healer -148
+Mag WIN
+Mag 62 Scout -93
+Mag WIN
+Knight 838 Healer -34
+Knight WIN
+Knight 1861 Scout -96
+Knight WIN
+Healer -109 Scout 505
+Scout WIN
+Mag -132 Knight 337
+Knight WIN
+Mag 457 Healer -83
+Mag WIN
+Mag 169 Scout -25
+Mag WIN
+Knight 961 Healer -117
+Knight WIN
+Knight 1890 Scout -62
+Knight WIN
+Healer 38 Scout -13
+Healer WIN
+Mag -143 Knight 33
+Knight WIN
+Mag 583 Healer -76
+Mag WIN
+Mag 689 Scout -120
+Mag WIN
+Knight 1391 Healer -114
+Knight WIN
+Knight 2350 Scout -39
+Knight WIN
+Healer -32 Scout 473
+Scout WIN
+Mag -86 Knight 315
+Knight WIN
+Mag 167 Healer -176
+Mag WIN
+Mag 787 Scout -166
+Mag WIN
+Knight 1209 Healer -18
+Knight WIN
+Knight 1859 Scout -89
+Knight WIN
+Healer -138 Scout 31
+Scout WIN
+Mag -58 Knight 646
+Knight WIN
+Mag 725 Healer -136
+Mag WIN
+Mag 732 Scout -177
+Mag WIN
+Knight 141 Healer -158
+Knight WIN
+Knight 1937 Scout -104
+Knight WIN
+Healer 166 Scout -43
+Healer WIN
+Mag 113 Knight -96
+Mag WIN
+Mag 248 Healer -259
+Mag WIN
+Mag 614 Scout -248
+Mag WIN
+Knight 1132 Healer -5
+Knight WIN
+Knight 2434 Scout -87
+Knight WIN
+Healer -188 Scout 619
+Scout WIN
+Mag 91 Knight -201
+Mag WIN
+Mag 616 Healer -168
+Mag WIN
+Mag 372 Scout -55
+Mag WIN
+Knight 1065 Healer -10
+Knight WIN
+Knight 2396 Scout -58
+Knight WIN
+Healer -17 Scout 387
+Scout WIN
+Mag 11 Knight -55
+Mag WIN
+Mag 198 Healer -219
+Mag WIN
+Mag 385 Scout -157
+Mag WIN
+Knight 1493 Healer -90
+Knight WIN
+Knight 1625 Scout -137
+Knight WIN
+Healer -160 Scout 648
+Scout WIN
+Mag 200 Knight -455
+Mag WIN
+Mag 348 Healer -77
+Mag WIN
+Mag 1120 Scout -297
+Mag WIN
+Knight 962 Healer -19
+Knight WIN
+Knight 2152 Scout -57
+Knight WIN
+Healer -107 Scout 144
+Scout WIN
+Mag -100 Knight 438
+Knight WIN
+Mag 384 Healer -20
+Mag WIN
+Mag 601 Scout -227
+Mag WIN
+Knight 1453 Healer -22
+Knight WIN
+Knight 2160 Scout -70
+Knight WIN
+Healer -124 Scout 86
+Scout WIN
+Mag 30 Knight -78
+Mag WIN
+Mag 453 Healer -36
+Mag WIN
+Mag 353 Scout -244
+Mag WIN
+Knight 773 Healer -3
+Knight WIN
+Knight 1692 Scout -110
+Knight WIN
+Healer 25 Scout -27
+Healer WIN
+Mag 110 Knight -276
+Mag WIN
+Mag 770 Healer -155
+Mag WIN
+Mag 658 Scout -65
+Mag WIN
+Knight 1358 Healer -104
+Knight WIN
+Knight 1993 Scout 0
+Knight WIN
+Healer -6 Scout 826
+Scout WIN
+Mag -161 Knight 985
+Knight WIN
+Mag 823 Healer -1
+Mag WIN
+Mag 228 Scout -216
+Mag WIN
+Knight 1234 Healer -38
+Knight WIN
+Knight 2000 Scout -131
+Knight WIN
+Healer -159 Scout 689
+Scout WIN
+Mag 1 Knight -117
+Mag WIN
+Mag 481 Healer -24
+Mag WIN
+Mag 188 Scout -170
+Mag WIN
+Knight 688 Healer -6
+Knight WIN
+Knight 1985 Scout -119
+Knight WIN
+Healer -109 Scout 663
+Scout WIN
+Mag 383 Knight -208
+Mag WIN
+Mag 563 Healer -52
+Mag WIN
+Mag 645 Scout -60
+Mag WIN
+Knight 104 Healer -53
+Knight WIN
+Knight 1942 Scout -31
+Knight WIN
+Healer -168 Scout 342
+Scout WIN
+Mag -51 Knight 743
+Knight WIN
+Mag 751 Healer -130
+Mag WIN
+Mag 357 Scout -25
+Mag WIN
+Knight 688 Healer -195
+Knight WIN
+Knight 2098 Scout -107
+Knight WIN
+Healer -20 Scout 218
+Scout WIN
+Mag -54 Knight 166
+Knight WIN
+Mag 493 Healer -296
+Mag WIN
+Mag 458 Scout -37
+Mag WIN
+Knight 942 Healer -171
+Knight WIN
+Knight 2191 Scout -51
+Knight WIN
+Healer 45 Scout -87
+Healer WIN
+Mag -24 Knight 468
+Knight WIN
+Mag 393 Healer -42
+Mag WIN
+Mag 146 Scout -271
+Mag WIN
+Knight 1324 Healer -25
+Knight WIN
+Knight 1775 Scout -19
+Knight WIN
+Healer 35 Scout -100
+Healer WIN
+Mag -27 Knight 255
+Knight WIN
+Mag 527 Healer -63
+Mag WIN
+Mag 829 Scout -19
+Mag WIN
+Knight 1075 Healer -24
+Knight WIN
+Knight 2270 Scout -8
+Knight WIN
+Healer 221 Scout -69
+Healer WIN
+Mag -151 Knight 298
+Knight WIN
+Mag 590 Healer -123
+Mag WIN
+Mag 188 Scout -195
+Mag WIN
+Knight 1150 Healer -66
+Knight WIN
+Knight 2137 Scout -87
+Knight WIN
+Healer -59 Scout 614
+Scout WIN
+Mag 39 Knight -125
+Mag WIN
+Mag 503 Healer -75
+Mag WIN
+Mag 356 Scout -88
+Mag WIN
+Knight 346 Healer -67
+Knight WIN
+Knight 1742 Scout -115
+Knight WIN
+Healer -66 Scout 477
+Scout WIN
+Mag -159 Knight 894
+Knight WIN
+Mag 199 Healer -48
+Mag WIN
+Mag 371 Scout -199
+Mag WIN
+Knight 1085 Healer -7
+Knight WIN
+Knight 2349 Scout -109
+Knight WIN
+Healer 296 Scout -10
+Healer WIN
+Mag -147 Knight 935
+Knight WIN
+Mag 611 Healer -71
+Mag WIN
+Mag 404 Scout -225
+Mag WIN
+Knight 1461 Healer -77
+Knight WIN
+Knight 1748 Scout -61
+Knight WIN
+Healer 43 Scout -93
+Healer WIN
+Mag -63 Knight 547
+Knight WIN
+Mag 398 Healer -79
+Mag WIN
+Mag 68 Scout -185
+Mag WIN
+Knight 782 Healer -111
+Knight WIN
+Knight 2031 Scout -131
+Knight WIN
+Healer 132 Scout -141
+Healer WIN
+Mag 121 Knight -246
+Mag WIN
+Mag 491 Healer -10
+Mag WIN
+Mag 653 Scout -28
+Mag WIN
+Knight 958 Healer -12
+Knight WIN
+Knight 1911 Scout -1
+Knight WIN
+Healer -69 Scout 820
+Scout WIN
+Mag -6 Knight 765
+Knight WIN
+Mag 530 Healer -33
+Mag WIN
+Mag 716 Scout -270
+Mag WIN
+Knight 766 Healer -45
+Knight WIN
+Knight 2396 Scout -20
+Knight WIN
+Healer -63 Scout 420
+Scout WIN
+Mag -68 Knight 327
+Knight WIN
+Mag 439 Healer -173
+Mag WIN
+Mag 706 Scout -75
+Mag WIN
+Knight 1123 Healer -203
+Knight WIN
+Knight 1997 Scout -79
+Knight WIN
+Healer 361 Scout -12
+Healer WIN
+Mag -3 Knight 838
+Knight WIN
+Mag 203 Healer -203
+Mag WIN
+Mag 149 Scout -251
+Mag WIN
+Knight 1227 Healer -87
+Knight WIN
+Knight 2252 Scout -55
+Knight WIN
+Healer -36 Scout 249
+Scout WIN
+Mag -11 Knight 762
+Knight WIN
+Mag 481 Healer -84
+Mag WIN
+Mag 471 Scout -157
+Mag WIN
+Knight 902 Healer -182
+Knight WIN
+Knight 2058 Scout -88
+Knight WIN
+Healer -15 Scout 191
+Scout WIN
+Mag -126 Knight 667
+Knight WIN
+Mag 448 Healer -37
+Mag WIN
+Mag 836 Scout -120
+Mag WIN
+Knight 192 Healer -148
+Knight WIN
+Knight 2135 Scout -53
+Knight WIN
+Healer -122 Scout 174
+Scout WIN
+Mag 145 Knight -165
+Mag WIN
+Mag 599 Healer -100
+Mag WIN
+Mag 945 Scout -6
+Mag WIN
+Knight 929 Healer -52
+Knight WIN
+Knight 2310 Scout -17
+Knight WIN
+Healer -117 Scout 125
+Scout WIN
+Mag -68 Knight 556
+Knight WIN
+Mag -62 Healer 374
+Healer WIN
+Mag 506 Scout -175
+Mag WIN
+Knight 1565 Healer -46
+Knight WIN
+Knight 1983 Scout -134
+Knight WIN
+Healer -50 Scout 381
+Scout WIN
+Mag -140 Knight 255
+Knight WIN
+Mag 497 Healer -186
+Mag WIN
+Mag 474 Scout -7
+Mag WIN
+Knight 972 Healer -66
+Knight WIN
+Knight 1957 Scout -1
+Knight WIN
+Healer 14 Scout -17
+Healer WIN
+Mag 488 Knight -249
+Mag WIN
+Mag 908 Healer -16
+Mag WIN
+Mag 73 Scout -565
+Mag WIN
+Knight 852 Healer -151
+Knight WIN
+Knight 2402 Scout -49
+Knight WIN
+Healer -88 Scout 315
+Scout WIN
+Mag 243 Knight -142
+Mag WIN
+Mag 327 Healer -83
+Mag WIN
+Mag 372 Scout -352
+Mag WIN
+Knight 1144 Healer -158
+Knight WIN
+Knight 2298 Scout -136
+Knight WIN
+Healer 121 Scout -163
+Healer WIN
+Mag 243 Knight -97
+Mag WIN
+Mag 262 Healer -26
+Mag WIN
+Mag 77 Scout -21
+Mag WIN
+Knight 1479 Healer -108
+Knight WIN
+Knight 2189 Scout -73
+Knight WIN
+Healer -196 Scout 38
+Scout WIN
+Mag -188 Knight 56
+Knight WIN
+Mag 391 Healer -79
+Mag WIN
+Mag 370 Scout 0
+Mag WIN
+Knight 592 Healer -100
+Knight WIN
+Knight 1907 Scout -31
+Knight WIN
+Healer 131 Scout -53
+Healer WIN
+Mag -34 Knight 37
+Knight WIN
+Mag 535 Healer -31
+Mag WIN
+Mag 129 Scout -450
+Mag WIN
+Knight 911 Healer -94
+Knight WIN
+Knight 2007 Scout -187
+Knight WIN
+Healer 85 Scout -44
+Healer WIN
+Mag -194 Knight 972
+Knight WIN
+Mag 615 Healer -110
+Mag WIN
+Mag 770 Scout -123
+Mag WIN
+Knight 867 Healer -129
+Knight WIN
+Knight 1814 Scout -22
+Knight WIN
+Healer -138 Scout 301
+Scout WIN
+Mag -10 Knight 666
+Knight WIN
+Mag 764 Healer -32
+Mag WIN
+Mag 338 Scout -43
+Mag WIN
+Knight 908 Healer -43
+Knight WIN
+Knight 2155 Scout -14
+Knight WIN
+Healer -11 Scout 51
+Scout WIN
+Mag 167 Knight -420
+Mag WIN
+Mag 669 Healer -24
+Mag WIN
+Mag 888 Scout -193
+Mag WIN
+Knight 695 Healer -175
+Knight WIN
+Knight 1895 Scout -94
+Knight WIN
+Healer 453 Scout -138
+Healer WIN
+Mag -72 Knight 957
+Knight WIN
+Mag 505 Healer -139
+Mag WIN
+Mag 461 Scout -407
+Mag WIN
+Knight 977 Healer -181
+Knight WIN
+Knight 1865 Scout -29
+Knight WIN
+Healer -74 Scout 240
+Scout WIN
+Mag 19 Knight -223
+Mag WIN
+Mag 443 Healer -83
+Mag WIN
+Mag 407 Scout -35
+Mag WIN
+Knight 893 Healer -105
+Knight WIN
+Knight 1952 Scout -28
+Knight WIN
+Healer -193 Scout 317
+Scout WIN
+Mag -24 Knight 91
+Knight WIN
+Mag 171 Healer -130
+Mag WIN
+Mag 469 Scout -149
+Mag WIN
+Knight 1343 Healer -7
+Knight WIN
+Knight 1712 Scout -71
+Knight WIN
+Healer 2 Scout -140
+Healer WIN
+Mag -131 Knight 327
+Knight WIN
+Mag 304 Healer -120
+Mag WIN
+Mag 822 Scout -81
+Mag WIN
+Knight 942 Healer -34
+Knight WIN
+Knight 2353 Scout -55
+Knight WIN
+Healer -97 Scout 276
+Scout WIN
+Mag -15 Knight 503
+Knight WIN
+Mag 554 Healer -50
+Mag WIN
+Mag 853 Scout -238
+Mag WIN
+Knight 1168 Healer -167
+Knight WIN
+Knight 1799 Scout -15
+Knight WIN
+Healer -75 Scout 221
+Scout WIN
+Mag 168 Knight -61
+Mag WIN
+Mag 480 Healer -52
+Mag WIN
+Mag 696 Scout -75
+Mag WIN
+Knight 541 Healer -80
+Knight WIN
+Knight 2152 Scout -61
+Knight WIN
+Healer 75 Scout -18
+Healer WIN
+Mag 185 Knight -6
+Mag WIN
+Mag 750 Healer -15
+Mag WIN
+Mag 594 Scout -172
+Mag WIN
+Knight 616 Healer -57
+Knight WIN
+Knight 2108 Scout -136
+Knight WIN
+Healer -32 Scout 430
+Scout WIN
+Mag 229 Knight -194
+Mag WIN
+Mag 101 Healer -67
+Mag WIN
+Mag 202 Scout -554
+Mag WIN
+Knight 925 Healer -84
+Knight WIN
+Knight 2037 Scout -91
+Knight WIN
+Healer -55 Scout 148
+Scout WIN
+Mag -31 Knight 986
+Knight WIN
+Mag 478 Healer -7
+Mag WIN
+Mag 244 Scout -22
+Mag WIN
+Knight 918 Healer -88
+Knight WIN
+Knight 1586 Scout -47
+Knight WIN
+Healer 235 Scout -132
+Healer WIN
+Mag 2 Knight -325
+Mag WIN
+Mag 507 Healer -48
+Mag WIN
+Mag 531 Scout -216
+Mag WIN
+Knight 883 Healer -162
+Knight WIN
+Knight 2004 Scout -39
+Knight WIN
+Healer -74 Scout 101
+Scout WIN
+Mag -54 Knight 44
+Knight WIN
+Mag 294 Healer -164
+Mag WIN
+Mag 974 Scout -235
+Mag WIN
+Knight 904 Healer -60
+Knight WIN
+Knight 2084 Scout -81
+Knight WIN
+Healer -7 Scout 278
+Scout WIN
+Mag -111 Knight 562
+Knight WIN
+Mag 559 Healer -133
+Mag WIN
+Mag 552 Scout -104
+Mag WIN
+Knight 1315 Healer -64
+Knight WIN
+Knight 2078 Scout -19
+Knight WIN
+Healer -87 Scout 142
+Scout WIN
+Mag -27 Knight 102
+Knight WIN
+Mag 432 Healer -17
+Mag WIN
+Mag 638 Scout -11
+Mag WIN
+Knight 1403 Healer -85
+Knight WIN
+Knight 1612 Scout -104
+Knight WIN
+Healer -72 Scout 457
+Scout WIN
+Mag 743 Knight -113
+Mag WIN
+Mag 406 Healer -95
+Mag WIN
+Mag 492 Scout -149
+Mag WIN
+Knight 519 Healer -30
+Knight WIN
+Knight 2453 Scout -23
+Knight WIN
+Healer -12 Scout 513
+Scout WIN
+Mag -127 Knight 660
+Knight WIN
+Mag -56 Healer 3
+Healer WIN
+Mag 757 Scout -110
+Mag WIN
+Knight 764 Healer -314
+Knight WIN
+Knight 2034 Scout -107
+Knight WIN
+Healer -284 Scout 179
+Scout WIN
+Mag 165 Knight -279
+Mag WIN
+Mag 456 Healer -213
+Mag WIN
+Mag 564 Scout -32
+Mag WIN
+Knight 1561 Healer -41
+Knight WIN
+Knight 2044 Scout -116
+Knight WIN
+Healer -102 Scout 431
+Scout WIN
+Mag 41 Knight -84
+Mag WIN
+Mag 687 Healer -11
+Mag WIN
+Mag 286 Scout -275
+Mag WIN
+Knight 996 Healer -36
+Knight WIN
+Knight 2039 Scout -12
+Knight WIN
+Healer -221 Scout 102
+Scout WIN
+Mag -22 Knight 43
+Knight WIN
+Mag 350 Healer -175
+Mag WIN
+Mag 574 Scout -264
+Mag WIN
+Knight 940 Healer -67
+Knight WIN
+Knight 2160 Scout -82
+Knight WIN
+Healer -103 Scout 215
+Scout WIN
+Mag 330 Knight -47
+Mag WIN
+Mag 791 Healer -71
+Mag WIN
+Mag 501 Scout -61
+Mag WIN
+Knight 981 Healer -111
+Knight WIN
+Knight 1461 Scout -56
+Knight WIN
+Healer 164 Scout -21
+Healer WIN
+Mag -1 Knight 289
+Knight WIN
+Mag 830 Healer -234
+Mag WIN
+Mag 494 Scout -404
+Mag WIN
+Knight 868 Healer -66
+Knight WIN
+Knight 2120 Scout -96
+Knight WIN
+Healer -30 Scout 548
+Scout WIN
+Mag 29 Knight -137
+Mag WIN
+Mag 425 Healer -158
+Mag WIN
+Mag 976 Scout -185
+Mag WIN
+Knight 30 Healer -19
+Knight WIN
+Knight 1976 Scout -111
+Knight WIN
+Healer -43 Scout 1553
+Scout WIN
+Mag -109 Knight 407
+Knight WIN
+Mag 452 Healer -82
+Mag WIN
+Mag 504 Scout -145
+Mag WIN
+Knight 650 Healer -148
+Knight WIN
+Knight 2247 Scout -25
+Knight WIN
+Healer -78 Scout 191
+Scout WIN
+Mag -172 Knight 468
+Knight WIN
+Mag 391 Healer -152
+Mag WIN
+Mag 893 Scout -87
+Mag WIN
+Knight 639 Healer -177
+Knight WIN
+Knight 1556 Scout -85
+Knight WIN
+Healer 77 Scout -73
+Healer WIN
+Mag -189 Knight 95
+Knight WIN
+Mag 663 Healer -78
+Mag WIN
+Mag 443 Scout -262
+Mag WIN
+Knight 1269 Healer -49
+Knight WIN
+Knight 1796 Scout -125
+Knight WIN
+Healer -67 Scout 4
+Scout WIN
+Mag 64 Knight -304
+Mag WIN
+Mag 297 Healer -80
+Mag WIN
+Mag 604 Scout -262
+Mag WIN
+Knight 672 Healer -191
+Knight WIN
+Knight 2180 Scout -161
+Knight WIN
+Healer -11 Scout 447
+Scout WIN
+Mag -124 Knight 695
+Knight WIN
+Mag -70 Healer 1
+Healer WIN
+Mag 41 Scout -183
+Mag WIN
+Knight 782 Healer -191
+Knight WIN
+Knight 2088 Scout -19
+Knight WIN
+Healer -133 Scout 233
+Scout WIN
+Mag -64 Knight 285
+Knight WIN
+Mag 317 Healer -157
+Mag WIN
+Mag -125 Scout 144
+Scout WIN
+Knight 960 Healer -7
+Knight WIN
+Knight 1935 Scout -23
+Knight WIN
+Healer 215 Scout -9
+Healer WIN
+Mag 59 Knight 0
+Mag WIN
+Mag 575 Healer -66
+Mag WIN
+Mag 801 Scout -7
+Mag WIN
+Knight 1155 Healer -99
+Knight WIN
+Knight 1841 Scout -80
+Knight WIN
+Healer -69 Scout 56
+Scout WIN
+Mag 110 Knight -275
+Mag WIN
+Mag 362 Healer -158
+Mag WIN
+Mag 731 Scout -1
+Mag WIN
+Knight 1507 Healer -104
+Knight WIN
+Knight 2061 Scout -16
+Knight WIN
+Healer 612 Scout -17
+Healer WIN
+Mag 36 Knight -6
+Mag WIN
+Mag 663 Healer -114
+Mag WIN
+Mag 370 Scout -174
+Mag WIN
+Knight 367 Healer -8
+Knight WIN
+Knight 2058 Scout -214
+Knight WIN
+Healer -147 Scout 321
+Scout WIN
+Mag -41 Knight 525
+Knight WIN
+Mag 295 Healer -38
+Mag WIN
+Mag 415 Scout -156
+Mag WIN
+Knight 1306 Healer 0
+Knight WIN
+Knight 1995 Scout -36
+Knight WIN
+Healer -52 Scout 102
+Scout WIN
+Mag 262 Knight -25
+Mag WIN
+Mag 483 Healer -128
+Mag WIN
+Mag 289 Scout -154
+Mag WIN
+Knight 908 Healer -5
+Knight WIN
+Knight 2021 Scout -27
+Knight WIN
+Healer -68 Scout 327
+Scout WIN
+Mag 142 Knight -65
+Mag WIN
+Mag 545 Healer -181
+Mag WIN
+Mag 632 Scout -91
+Mag WIN
+Knight 1313 Healer -71
+Knight WIN
+Knight 1979 Scout -255
+Knight WIN
+Healer 0 Scout 214
+Scout WIN
+Mag -40 Knight 419
+Knight WIN
+Mag 485 Healer -114
+Mag WIN
+Mag 544 Scout -33
+Mag WIN
+Knight 1345 Healer -98
+Knight WIN
+Knight 2420 Scout -118
+Knight WIN
+Healer 370 Scout -32
+Healer WIN
+Mag -90 Knight 1065
+Knight WIN
+Mag 577 Healer -18
+Mag WIN
+Mag 552 Scout -61
+Mag WIN
+Knight 1341 Healer -10
+Knight WIN
+Knight 2433 Scout -142
+Knight WIN
+Healer -138 Scout 681
+Scout WIN
+Mag 27 Knight -138
+Mag WIN
+Mag 250 Healer -129
+Mag WIN
+Mag 1138 Scout -112
+Mag WIN
+Knight 1039 Healer -17
+Knight WIN
+Knight 1934 Scout -1
+Knight WIN
+Healer 346 Scout -62
+Healer WIN
+Mag -165 Knight 439
+Knight WIN
+Mag 761 Healer -97
+Mag WIN
+Mag 259 Scout -87
+Mag WIN
+Knight 1517 Healer -73
+Knight WIN
+Knight 2087 Scout -209
+Knight WIN
+Healer 316 Scout -140
+Healer WIN
+Mag 172 Knight -180
+Mag WIN
+Mag 489 Healer -349
+Mag WIN
+Mag 1012 Scout -25
+Mag WIN
+Knight 597 Healer -47
+Knight WIN
+Knight 2002 Scout -64
+Knight WIN
+Healer -88 Scout 185
+Scout WIN
+Mag -45 Knight 922
+Knight WIN
+Mag 435 Healer -108
+Mag WIN
+Mag 437 Scout -41
+Mag WIN
+Knight 1078 Healer -32
+Knight WIN
+Knight 2331 Scout -64
+Knight WIN
+Healer -164 Scout 323
+Scout WIN
+Mag 163 Knight -191
+Mag WIN
+Mag 256 Healer -82
+Mag WIN
+Mag 738 Scout -233
+Mag WIN
+Knight 1001 Healer -96
+Knight WIN
+Knight 2051 Scout -52
+Knight WIN
+Healer -267 Scout 334
+Scout WIN
+Mag -76 Knight 404
+Knight WIN
+Mag 422 Healer -90
+Mag WIN
+Mag 263 Scout -114
+Mag WIN
+Knight 1339 Healer -44
+Knight WIN
+Knight 2520 Scout -88
+Knight WIN
+Healer 373 Scout -29
+Healer WIN
+Mag 260 Knight -359
+Mag WIN
+Mag 527 Healer -22
+Mag WIN
+Mag 329 Scout -76
+Mag WIN
+Knight 520 Healer -305
+Knight WIN
+Knight 1852 Scout -66
+Knight WIN
+Healer -47 Scout 341
+Scout WIN
+Mag 96 Knight -213
+Mag WIN
+Mag -48 Healer 42
+Healer WIN
+Mag 523 Scout -31
+Mag WIN
+Knight 994 Healer -139
+Knight WIN
+Knight 1620 Scout -103
+Knight WIN
+Healer -95 Scout 431
+Scout WIN
+Mag -9 Knight 502
+Knight WIN
+Mag 187 Healer -196
+Mag WIN
+Mag 221 Scout -157
+Mag WIN
+Knight 992 Healer -107
+Knight WIN
+Knight 1817 Scout -50
+Knight WIN
+Healer 146 Scout -13
+Healer WIN
+Mag 568 Knight -29
+Mag WIN
+Mag 442 Healer -308
+Mag WIN
+Mag 508 Scout -125
+Mag WIN
+Knight 1429 Healer -88
+Knight WIN
+Knight 2196 Scout -83
+Knight WIN
+Healer -97 Scout 464
+Scout WIN
+Mag 57 Knight -425
+Mag WIN
+Mag 461 Healer -10
+Mag WIN
+Mag 312 Scout -72
+Mag WIN
+Knight 1588 Healer -26
+Knight WIN
+Knight 1945 Scout -46
+Knight WIN
+Healer -68 Scout 439
+Scout WIN
+Mag -52 Knight 560
+Knight WIN
+Mag 165 Healer -126
+Mag WIN
+Mag 374 Scout -310
+Mag WIN
+Knight 1136 Healer -48
+Knight WIN
+Knight 1658 Scout -47
+Knight WIN
+Healer -110 Scout 179
+Scout WIN
+Mag -58 Knight 301
+Knight WIN
+Mag 786 Healer -116
+Mag WIN
+Mag 283 Scout -60
+Mag WIN
+Knight 1110 Healer -286
+Knight WIN
+Knight 1581 Scout -81
+Knight WIN
+Healer 182 Scout -74
+Healer WIN
+Mag 38 Knight -95
+Mag WIN
+Mag 682 Healer -160
+Mag WIN
+Mag -138 Scout 38
+Scout WIN
+Knight 829 Healer -145
+Knight WIN
+Knight 1950 Scout -168
+Knight WIN
+Healer -100 Scout 555
+Scout WIN
+Mag -21 Knight 1029
+Knight WIN
+Mag 509 Healer -157
+Mag WIN
+Mag 745 Scout -463
+Mag WIN
+Knight -35 Healer 48
+Healer WIN
+Knight 1991 Scout -161
+Knight WIN
+Healer -69 Scout 366
+Scout WIN
+Mag -118 Knight 23
+Knight WIN
+Mag 919 Healer -83
+Mag WIN
+Mag 484 Scout -117
+Mag WIN
+Knight 1244 Healer -48
+Knight WIN
+Knight 2437 Scout -66
+Knight WIN
+Healer -10 Scout 384
+Scout WIN
+Mag -19 Knight 1552
+Knight WIN
+Mag 476 Healer -127
+Mag WIN
+Mag -9 Scout 174
+Scout WIN
+Knight 1131 Healer -68
+Knight WIN
+Knight 2468 Scout -17
+Knight WIN
+Healer 143 Scout -27
+Healer WIN
+Mag 339 Knight -52
+Mag WIN
+Mag 438 Healer -112
+Mag WIN
+Mag 331 Scout -272
+Mag WIN
+Knight 839 Healer -140
+Knight WIN
+Knight 1902 Scout -8
+Knight WIN
+Healer -117 Scout 835
+Scout WIN
+Mag -49 Knight 117
+Knight WIN

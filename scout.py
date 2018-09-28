@@ -8,7 +8,7 @@ class Scout(person.Person):
         self.stats['hitpoint'] = self.max_hitpoint
         self.stats['defense'] = 900
         self.stats['resistance'] = 800
-        self.stats['damage'] = 300
+        self.stats['damage'] = 200
         self.stats['chance_krit'] = 270
         self.stats['damage_krit'] = 14
         self.stats['precision'] = 120
@@ -17,7 +17,6 @@ class Scout(person.Person):
         '''----------------------------------------****-----------------------------------------'''
         '''--------------**********----------------Ship-----------------**********--------------'''
         '''----------------------------------------****-----------------------------------------'''
-        '''cast_bonus = {'front_block' : 5}'''
         def finish(name: str, damage: float) -> dict:
             result = {'target': {}, 'self': [] }
             result['target']['hit'] = {
@@ -27,7 +26,7 @@ class Scout(person.Person):
             }
             return result
 
-        Ship = person.classSkill.Skill(name='Ship', cast=0.8, coldown=0, lvl=0, finish=finish, mult=0.15)
+        Ship = person.classSkill.Skill(name='Ship', cast=1, coldown=0, lvl=0, finish=finish, mult=1)
         self.skills.append(Ship)
 
         """

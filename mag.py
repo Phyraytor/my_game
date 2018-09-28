@@ -35,29 +35,13 @@ class Mag(person.Person):
             '''
             result = {'target': {}, 'self': []}
 
-            '''
-            result['self'].append({
-                'func': self.create_shield,
-                'name': 'frost shiled',
-                'hitpoint': self.stats['damage'],
-                'resist': 20,
-                'time': 10,
-                'die': kill_shield,
-                'end': end_shield,
-            })
 
-            result['self'].append({
-                'func': self.get_hitpoint,
-                'name': 'my hill',
-                'damage': damage * 0.1,
-            })'''
-
-            result['self'].append({
+            '''result['self'].append({
                 'func': self.create_bonus,
                 'name': 'Insight',
                 'time': 5,
                 'mult_damage': 0.02,
-            })
+            })'''
 
             result['target']['hit'] = {
                 'name': name,
@@ -65,15 +49,11 @@ class Mag(person.Person):
                 'damage': damage,
             }
 
-            '''result['target']['curse'] = {
-                'name': 'minus defense',
-                'time': 3,
-                'defense': 100,
-            }'''
+
 
             return result
 
-        magic_arrow = person.classSkill.Skill(name='Magic arrow', cast=0.8, coldown=0, lvl=0, finish=finish, mult=0.2)
+        magic_arrow = person.classSkill.Skill(name='Magic arrow', cast=1, coldown=0, lvl=0, finish=finish, mult=1)
         self.skills.append(magic_arrow)
     """
         '''--------------------------------------*********------------------------------------'''
